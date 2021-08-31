@@ -1,2 +1,2 @@
-# DataAnalisys
+# DataAnalysis
 Projects about data analisys
