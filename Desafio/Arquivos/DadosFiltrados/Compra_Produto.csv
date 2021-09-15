@@ -1,0 +1,2173 @@
+CupomID;ProdutoID;Produto;Categoria;Quantidade;Valor;Custo;Lucro
+10248;11;Desperado Jeans;Mens Clothes;12;343.44;284.37;59.07
+10248;42;Balett Shoes;Womens Footwear;10;140.4;116.25;24.15
+10248;72;Rossi Shorts;Bath Clothes;5;63.55;52.62;10.93
+10249;14;Kool Sunglasses;Childrens wear;9;205.2;169.91;35.29
+10249;51;Snake Boots;Mens Footwear;40;4048.0;3642.67;405.33
+10250;41;Duck Shirt;Babywear;10;95.9;79.41;16.49
+10250;51;Snake Boots;Mens Footwear;35;3931.22;2830.48;1100.74
+10250;65;Stretch oui-pants;Womens wear;15;163.36;117.62;45.74
+10251;22;Ravellis Träskor;Womens Footwear;6;21.36;16.84;4.52
+10251;57;Burned Rubber Shoes;Womens Footwear;15;332.64;288.14;44.5
+10251;65;Stretch oui-pants;Womens wear;20;185.2;156.44;28.76
+10252;20;Tennis Suit;Sportwear;40;3189.06;2514.8;674.26
+10252;33;Car Boots;Sportwear;25;620.55;489.35;131.2
+10252;60;Game Over T-Shirt;Sportwear;40;182.0;150.7;31.3
+10253;31;Rossi Bermuda Shorts;Bath Clothes;20;165.6;140.57;25.03
+10253;39;Terence Top;Womens wear;42;2433.9;2015.27;418.63
+10253;49;Finnish Sport Blades;Sportwear;40;796.4;659.42;136.98
+10254;24;Samba Socker  Socks;Mens Clothes;15;77.97;56.14;21.83
+10254;55;Feiss Fleece Trousers;Sportwear;21;984.35;708.73;275.62
+10254;74;Nikee Running Shoes;Childrens wear;21;617.4;511.21;106.19
+10255;2;Mr X Trousers;Mens Clothes;20;342.4;283.51;58.89
+10255;16;Wimbledon T-Shirt;Sportwear;35;320.95;265.75;55.2
+10255;36;Mehmet-Tröja;Babywear;25;194.25;160.84;33.41
+10255;59;Rasta WCT;Sportwear;30;234.9;198.24;36.66
+10256;53;Jumpin Jack Flash Dress;Womens wear;15;907.95;751.78;156.17
+10256;77;Skirt;Womens wear;12;162.0;134.14;27.86
+10257;27;Tracksuit;Sportwear;25;1077.25;891.96;185.29
+10257;39;Terence Top;Womens wear;6;329.04;272.71;56.33
+10257;77;Skirt;Womens wear;15;192.6;159.47;33.13
+10258;2;Mr X Trousers;Mens Clothes;50;1201.2;828.83;372.37
+10258;5;O-Man Underwear;Mens Clothes;65;478.14;344.26;133.88
+10258;32;Rossi Bikkini;Bath Clothes;6;139.32;100.31;39.01
+10259;21;Basket Shoes;Sportwear;10;101.4;87.61;13.79
+10259;37;Mehmet-Skor;Babywear;1;4.37;3.78;0.59
+10260;41;Duck Shirt;Babywear;16;200.4;138.52;61.88
+10260;57;Burned Rubber Shoes;Womens Footwear;50;929.0;802.66;126.34
+10260;62;Sheat Shoes;Sportwear;15;540.38;373.51;166.87
+10260;70;US-Master Jeans;Mens Clothes;21;770.96;532.89;238.07
+10261;21;Basket Shoes;Sportwear;20;200.2;172.97;27.23
+10261;35;LA. Shorts;Bath Clothes;20;131.2;115.92;15.28
+10262;5;O-Man Underwear;Mens Clothes;12;80.35;57.85;22.5
+10262;7;Conserve Shoes;Childrens wear;15;574.5;496.37;78.13
+10262;56;High Heels Shoes;Womens Footwear;2;69.1;59.7;9.4
+10263;16;Wimbledon T-Shirt;Sportwear;60;709.5;490.41;219.09
+10263;24;Samba Socker  Socks;Mens Clothes;28;114.52;100.78;13.74
+10263;30;Baby Dark Lounge Suit;Babywear;60;1992.75;1377.39;615.36
+10263;74;Nikee Running Shoes;Childrens wear;36;1254.15;866.87;387.28
+10264;2;Mr X Trousers;Mens Clothes;35;719.25;621.43;97.82
+10264;41;Duck Shirt;Babywear;25;274.56;211.52;63.04
+10265;17;TieBreak Tennis shoes;Mens Footwear;30;717.0;619.49;97.51
+10265;70;US-Master Jeans;Mens Clothes;20;556.2;486.5;69.7
+10266;12;Tiny Winy Hot Bikini;Bath Clothes;12;128.02;105.34;22.68
+10267;40;Duck Trousers;Babywear;50;935.5;808.27;127.23
+10267;59;Rasta WCT;Sportwear;70;697.13;523.76;173.37
+10267;76;Minnki Pälsii;Womens wear;15;6356.8;4775.89;1580.91
+10268;29;Davenport;Mens Footwear;10;1173.0;1013.47;159.53
+10268;72;Rossi Shorts;Bath Clothes;4;50.56;43.68;6.88
+10269;33;Car Boots;Sportwear;60;1726.2;1420.42;305.78
+10269;72;Rossi Shorts;Bath Clothes;20;255.57;210.3;45.27
+10270;36;Mehmet-Tröja;Babywear;30;233.4;201.66;31.74
+10270;43;Summer Shorts;Bath Clothes;25;326.5;282.1;44.4
+10271;33;Car Boots;Sportwear;24;577.44;498.91;78.53
+10272;20;Tennis Suit;Sportwear;6;529.5;457.49;72.01
+10272;31;Rossi Bermuda Shorts;Bath Clothes;40;312.4;269.91;42.49
+10272;72;Rossi Shorts;Bath Clothes;24;282.24;263.43;18.81
+10273;10;Sapporoo Gloves;Babywear;24;173.38;142.66;30.71
+10273;31;Rossi Bermuda Shorts;Bath Clothes;15;140.96;115.99;24.97
+10273;33;Car Boots;Sportwear;20;509.0;439.78;69.22
+10273;40;Duck Trousers;Babywear;60;1219.05;1003.1;215.95
+10273;76;Minnki Pälsii;Womens wear;33;14281.34;11751.51;2529.84
+10274;71;Atles Lussekofta;Mens Clothes;20;623.4;538.62;84.78
+10274;72;Rossi Shorts;Bath Clothes;7;83.93;72.52;11.41
+10275;24;Samba Socker  Socks;Mens Clothes;12;51.91;46.05;5.86
+10275;59;Rasta WCT;Sportwear;6;56.2;46.24;9.95
+10276;10;Sapporoo Gloves;Babywear;15;103.8;89.68;14.12
+10276;13;Aino Shoes;Babywear;10;274.5;237.17;37.33
+10277;28;RDL Suit;Childrens wear;20;889.6;768.61;120.99
+10277;62;Sheat Shoes;Sportwear;12;360.96;311.87;49.09
+10278;44;Okkaba Skin Jackets;Womens wear;16;1292.48;1116.7;175.78
+10278;59;Rasta WCT;Sportwear;15;128.55;115.22;13.33
+10278;63;Serve-Shirt;Womens wear;8;168.16;145.29;22.87
+10278;73;Mehmet-Napp;Babywear;25;26.75;23.11;3.64
+10279;17;TieBreak Tennis shoes;Mens Footwear;15;506.63;372.12;134.5
+10280;24;Samba Socker  Socks;Mens Clothes;12;51.0;44.06;6.94
+10280;55;Feiss Fleece Trousers;Sportwear;20;849.4;733.88;115.52
+10280;75;Bow tie;Mens Clothes;30;216.3;186.88;29.42
+10281;19;Squash Shorts;Sportwear;1;9.9;8.55;1.35
+10281;24;Samba Socker  Socks;Mens Clothes;6;25.08;21.67;3.41
+10281;35;LA. Shorts;Bath Clothes;4;25.48;22.44;3.04
+10282;30;Baby Dark Lounge Suit;Babywear;6;158.28;136.75;21.53
+10282;57;Burned Rubber Shoes;Womens Footwear;2;42.04;36.32;5.72
+10283;15;Sumi Underwear;Womens wear;20;130.6;112.84;17.76
+10283;19;Squash Shorts;Sportwear;18;165.24;142.77;22.47
+10283;60;Game Over T-Shirt;Sportwear;35;181.3;156.64;24.66
+10283;72;Rossi Shorts;Bath Clothes;3;34.98;30.22;4.76
+10284;27;Tracksuit;Sportwear;15;806.81;557.67;249.14
+10284;44;Okkaba Skin Jackets;Womens wear;21;1435.77;1240.51;195.26
+10284;60;Game Over T-Shirt;Sportwear;20;118.25;81.73;36.52
+10284;67;X-Dress;Womens wear;5;400.44;276.78;123.66
+10285;1;Lenin Jeansshorts;Mens Clothes;45;1064.88;766.71;298.17
+10285;40;Duck Trousers;Babywear;40;826.56;595.12;231.44
+10285;53;Jumpin Jack Flash Dress;Womens wear;36;2633.47;1896.1;737.37
+10286;35;LA. Shorts;Bath Clothes;100;606.0;523.58;82.42
+10286;62;Sheat Shoes;Sportwear;40;1211.2;1046.48;164.72
+10287;16;Wimbledon T-Shirt;Sportwear;40;408.48;306.89;101.59
+10287;34;Baywatch Bikkini;Bath Clothes;20;153.4;132.54;20.86
+10287;46;Rodbye Troje;Babywear;15;210.97;168.07;42.9
+10288;54;Patamonia Fleece Jacket;Sportwear;10;369.82;290.48;79.34
+10288;68;Cap;Sportwear;3;38.81;30.48;8.33
+10289;3;Chantell Shirt;Womens wear;30;616.2;532.4;83.8
+10289;64;WFS shoes;Womens Footwear;9;320.4;276.83;43.57
+10290;5;O-Man Underwear;Mens Clothes;20;131.4;113.53;17.87
+10290;29;Davenport;Mens Footwear;15;1890.45;1633.35;257.1
+10290;49;Finnish Sport Blades;Sportwear;15;294.9;254.79;40.11
+10290;77;Skirt;Womens wear;10;134.9;116.55;18.35
+10291;13;Aino Shoes;Babywear;20;506.66;397.96;108.7
+10291;44;Okkaba Skin Jackets;Womens wear;24;2182.75;1714.45;468.3
+10291;51;Snake Boots;Mens Footwear;2;234.43;184.14;50.3
+10292;20;Tennis Suit;Sportwear;20;1681.4;1452.73;228.67
+10293;18;Deuce shirt;Babywear;12;328.56;283.88;44.68
+10293;24;Samba Socker  Socks;Mens Clothes;10;41.1;35.51;5.59
+10293;63;Serve-Shirt;Womens wear;5;105.3;90.98;14.32
+10293;75;Bow tie;Mens Clothes;6;45.6;39.4;6.2
+10294;1;Lenin Jeansshorts;Mens Clothes;18;389.88;336.86;53.02
+10294;17;TieBreak Tennis shoes;Mens Footwear;15;369.3;319.08;50.22
+10294;43;Summer Shorts;Bath Clothes;15;193.5;167.18;26.32
+10294;60;Game Over T-Shirt;Sportwear;21;95.76;87.57;8.19
+10294;75;Bow tie;Mens Clothes;6;49.32;42.61;6.71
+10295;56;High Heels Shoes;Womens Footwear;4;139.36;120.41;18.95
+10296;11;Desperado Jeans;Mens Clothes;12;319.44;276.0;43.44
+10296;16;Wimbledon T-Shirt;Sportwear;30;280.8;242.61;38.19
+10296;69;Racing Truck  Socks;Sportwear;15;28.35;24.49;3.86
+10297;39;Terence Top;Womens wear;60;3561.0;3076.7;484.3
+10297;72;Rossi Shorts;Bath Clothes;20;239.0;206.5;32.5
+10298;2;Mr X Trousers;Mens Clothes;40;701.6;606.18;95.42
+10298;36;Mehmet-Tröja;Babywear;40;367.0;253.67;113.33
+10298;59;Rasta WCT;Sportwear;30;343.13;237.17;105.96
+10298;62;Sheat Shoes;Sportwear;15;420.0;362.88;57.12
+10299;19;Squash Shorts;Sportwear;15;137.55;118.84;18.71
+10299;70;US-Master Jeans;Mens Clothes;20;581.6;502.5;79.1
+10300;66;Langoste Shirt;Womens wear;30;596.7;515.76;80.94
+10300;68;Cap;Sportwear;20;225.4;194.75;30.65
+10301;40;Duck Trousers;Babywear;10;183.3;158.37;24.93
+10301;56;High Heels Shoes;Womens Footwear;20;783.4;676.86;106.54
+10302;17;TieBreak Tennis shoes;Mens Footwear;40;1026.0;886.46;139.54
+10302;28;RDL Suit;Childrens wear;28;1198.68;1035.66;163.02
+10302;43;Summer Shorts;Bath Clothes;12;129.84;112.18;17.66
+10303;40;Duck Trousers;Babywear;40;775.28;608.95;166.33
+10303;65;Stretch oui-pants;Womens wear;30;355.74;279.42;76.32
+10303;68;Cap;Sportwear;15;210.71;165.5;45.21
+10304;49;Finnish Sport Blades;Sportwear;30;593.7;512.96;80.74
+10304;59;Rasta WCT;Sportwear;10;79.1;68.34;10.76
+10304;71;Atles Lussekofta;Mens Clothes;2;59.52;51.43;8.09
+10305;18;Deuce shirt;Babywear;25;757.9;595.3;162.6
+10305;29;Davenport;Mens Footwear;25;3133.35;2461.1;672.25
+10305;39;Terence Top;Womens wear;30;1889.25;1483.92;405.33
+10306;30;Baby Dark Lounge Suit;Babywear;10;280.2;242.09;38.11
+10306;53;Jumpin Jack Flash Dress;Womens wear;10;611.1;527.99;83.11
+10306;54;Patamonia Fleece Jacket;Sportwear;5;189.4;163.64;25.76
+10307;62;Sheat Shoes;Sportwear;10;272.7;235.61;37.09
+10307;68;Cap;Sportwear;3;38.46;33.23;5.23
+10308;69;Racing Truck  Socks;Sportwear;1;2.12;1.83;0.29
+10308;70;US-Master Jeans;Mens Clothes;5;147.75;127.66;20.09
+10309;4;Oyaki Kimono;Womens wear;20;432.8;373.94;58.86
+10309;6;Shagall Socks;Womens wear;30;110.7;95.64;15.06
+10309;42;Balett Shoes;Womens Footwear;2;27.24;23.54;3.7
+10309;43;Summer Shorts;Bath Clothes;20;237.4;205.11;32.29
+10309;71;Atles Lussekofta;Mens Clothes;3;89.28;77.14;12.14
+10310;16;Wimbledon T-Shirt;Sportwear;10;85.3;73.7;11.6
+10310;62;Sheat Shoes;Sportwear;5;160.95;139.06;21.89
+10311;42;Balett Shoes;Womens Footwear;6;89.58;77.4;12.18
+10311;69;Racing Truck  Socks;Sportwear;7;13.86;11.98;1.88
+10312;28;RDL Suit;Childrens wear;4;196.68;179.47;17.21
+10312;43;Summer Shorts;Bath Clothes;24;314.64;271.85;42.79
+10312;53;Jumpin Jack Flash Dress;Womens wear;20;1264.6;1092.61;171.99
+10312;75;Bow tie;Mens Clothes;10;76.3;65.92;10.38
+10313;36;Mehmet-Tröja;Babywear;12;101.64;87.82;13.82
+10314;32;Rossi Bikkini;Bath Clothes;40;874.72;687.05;187.67
+10314;58;Ga-Ga Dress;Babywear;30;1451.01;1139.7;311.31
+10314;62;Sheat Shoes;Sportwear;25;864.33;678.89;185.44
+10315;34;Baywatch Bikkini;Bath Clothes;14;117.32;101.36;15.96
+10315;70;US-Master Jeans;Mens Clothes;30;873.9;755.05;118.85
+10316;41;Duck Shirt;Babywear;10;89.6;77.41;12.19
+10316;62;Sheat Shoes;Sportwear;70;2053.1;1773.88;279.22
+10317;1;Lenin Jeansshorts;Mens Clothes;20;362.4;313.11;49.29
+10318;41;Duck Shirt;Babywear;20;191.2;165.2;26.0
+10318;76;Minnki Pälsii;Womens wear;6;2214.96;1913.73;301.23
+10319;17;TieBreak Tennis shoes;Mens Footwear;8;209.84;181.3;28.54
+10319;28;RDL Suit;Childrens wear;14;682.78;589.92;92.86
+10319;76;Minnki Pälsii;Womens wear;30;12119.1;10470.9;1648.2
+10320;71;Atles Lussekofta;Mens Clothes;30;942.6;814.41;128.19
+10321;35;LA. Shorts;Bath Clothes;10;54.3;46.92;7.38
+10322;52;Small Crocodile Boots;Womens Footwear;20;1560.4;1348.19;212.21
+10323;15;Sumi Underwear;Womens wear;5;30.6;26.44;4.16
+10323;25;Basket Vest;Sportwear;4;57.36;49.56;7.8
+10323;39;Terence Top;Womens wear;4;244.84;211.54;33.3
+10324;16;Wimbledon T-Shirt;Sportwear;21;211.8;159.12;52.67
+10324;35;LA. Shorts;Bath Clothes;70;452.41;339.9;112.51
+10324;46;Rodbye Troje;Babywear;30;364.5;314.93;49.57
+10324;59;Rasta WCT;Sportwear;40;382.26;287.19;95.07
+10324;63;Serve-Shirt;Womens wear;80;1894.28;1423.18;471.1
+10325;6;Shagall Socks;Womens wear;6;22.26;19.23;3.03
+10325;13;Aino Shoes;Babywear;12;277.08;239.4;37.68
+10325;14;Kool Sunglasses;Childrens wear;9;190.26;164.38;25.88
+10325;31;Rossi Bermuda Shorts;Bath Clothes;4;31.2;26.96;4.24
+10325;72;Rossi Shorts;Bath Clothes;40;438.4;378.78;59.62
+10326;4;Oyaki Kimono;Womens wear;24;476.16;411.4;64.76
+10326;57;Burned Rubber Shoes;Womens Footwear;16;287.04;248.0;39.04
+10326;75;Bow tie;Mens Clothes;50;406.0;350.78;55.22
+10327;2;Mr X Trousers;Mens Clothes;25;576.6;415.15;161.45
+10327;11;Desperado Jeans;Mens Clothes;50;1746.0;1257.12;488.88
+10327;30;Baby Dark Lounge Suit;Babywear;35;1008.84;726.36;282.48
+10327;58;Ga-Ga Dress;Babywear;30;1582.92;1139.7;443.22
+10328;59;Rasta WCT;Sportwear;9;75.51;65.24;10.27
+10328;65;Stretch oui-pants;Womens wear;40;414.4;358.04;56.36
+10328;68;Cap;Sportwear;10;121.3;104.8;16.5
+10329;19;Squash Shorts;Sportwear;10;89.25;80.38;8.87
+10329;30;Baby Dark Lounge Suit;Babywear;8;206.72;170.1;36.62
+10329;38;Le Baby Dress;Womens wear;20;1624.56;1336.78;287.78
+10329;56;High Heels Shoes;Womens Footwear;12;505.64;416.07;89.57
+10330;26;Bike Helmet;Sportwear;50;1882.55;1414.37;468.18
+10330;72;Rossi Shorts;Bath Clothes;25;311.65;246.62;65.03
+10331;54;Patamonia Fleece Jacket;Sportwear;15;569.55;492.09;77.46
+10332;18;Deuce shirt;Babywear;40;1191.36;857.78;333.58
+10332;42;Balett Shoes;Womens Footwear;10;181.56;130.72;50.84
+10332;47;Lundenhagen Boots;Mens Footwear;16;471.74;339.66;132.09
+10333;14;Kool Sunglasses;Childrens wear;10;248.7;214.88;33.82
+10333;21;Basket Shoes;Sportwear;10;115.5;99.1;16.4
+10333;71;Atles Lussekofta;Mens Clothes;40;1364.44;1071.71;292.73
+10334;52;Small Crocodile Boots;Womens Footwear;8;582.08;502.92;79.16
+10334;68;Cap;Sportwear;10;127.4;116.79;10.61
+10335;2;Mr X Trousers;Mens Clothes;7;163.88;118.0;45.89
+10335;31;Rossi Bermuda Shorts;Bath Clothes;25;254.4;183.17;71.23
+10335;32;Rossi Bikkini;Bath Clothes;6;134.21;96.63;37.58
+10335;51;Snake Boots;Mens Footwear;48;6007.1;4325.11;1681.99
+10336;4;Oyaki Kimono;Womens wear;18;459.95;361.27;98.68
+10337;23;DSW;Womens Footwear;40;360.0;311.04;48.96
+10337;26;Bike Helmet;Sportwear;24;805.2;725.27;79.93
+10337;36;Mehmet-Tröja;Babywear;20;159.8;138.07;21.73
+10337;37;Mehmet-Skor;Babywear;28;109.2;94.35;14.85
+10337;72;Rossi Shorts;Bath Clothes;25;300.75;259.85;40.9
+10338;17;TieBreak Tennis shoes;Mens Footwear;20;524.8;453.43;71.37
+10338;30;Baby Dark Lounge Suit;Babywear;15;381.0;329.18;51.82
+10339;4;Oyaki Kimono;Womens wear;10;213.2;184.2;29.0
+10339;17;TieBreak Tennis shoes;Mens Footwear;70;1797.81;1479.34;318.47
+10339;62;Sheat Shoes;Sportwear;28;857.08;740.52;116.56
+10340;18;Deuce shirt;Babywear;20;510.3;419.9;90.4
+10340;41;Duck Shirt;Babywear;12;115.04;94.66;20.38
+10340;43;Summer Shorts;Bath Clothes;40;501.06;412.3;88.76
+10341;33;Car Boots;Sportwear;8;211.6;182.82;28.78
+10341;59;Rasta WCT;Sportwear;9;85.59;64.31;21.29
+10342;2;Mr X Trousers;Mens Clothes;24;566.21;407.67;158.54
+10342;31;Rossi Bermuda Shorts;Bath Clothes;56;585.98;421.91;164.08
+10342;36;Mehmet-Tröja;Babywear;40;362.88;261.27;101.61
+10342;55;Feiss Fleece Trousers;Sportwear;40;1800.96;1296.69;504.27
+10343;64;WFS shoes;Womens Footwear;50;1697.5;1466.64;230.86
+10343;68;Cap;Sportwear;4;48.51;39.92;8.59
+10343;76;Minnki Pälsii;Womens wear;15;5862.3;5065.03;797.27
+10344;4;Oyaki Kimono;Womens wear;35;727.3;628.39;98.91
+10344;8;Tuxedo;Womens wear;70;1697.5;1222.68;474.82
+10345;8;Tuxedo;Womens wear;70;1432.2;1237.42;194.78
+10345;19;Squash Shorts;Sportwear;80;806.4;696.73;109.67
+10345;42;Balett Shoes;Womens Footwear;9;136.71;118.12;18.59
+10346;17;TieBreak Tennis shoes;Mens Footwear;36;978.52;768.58;209.94
+10346;56;High Heels Shoes;Womens Footwear;20;810.2;700.01;110.19
+10347;25;Basket Vest;Sportwear;10;132.1;114.13;17.97
+10347;39;Terence Top;Womens wear;50;3376.4;2536.7;839.7
+10347;40;Duck Trousers;Babywear;4;68.0;58.75;9.25
+10347;75;Bow tie;Mens Clothes;6;53.48;40.18;13.3
+10348;1;Lenin Jeansshorts;Mens Clothes;15;334.82;251.55;83.27
+10348;23;DSW;Womens Footwear;25;230.75;199.37;31.38
+10349;54;Patamonia Fleece Jacket;Sportwear;24;820.32;708.76;111.56
+10350;50;Finnish Swimsuit;Sportwear;15;272.09;213.71;58.37
+10350;69;Racing Truck  Socks;Sportwear;18;36.23;28.46;7.77
+10351;38;Le Baby Dress;Womens wear;20;1575.84;1296.69;279.15
+10351;41;Duck Shirt;Babywear;13;135.46;117.04;18.42
+10351;44;Okkaba Skin Jackets;Womens wear;77;5961.88;4905.77;1056.1
+10351;65;Stretch oui-pants;Womens wear;10;105.84;87.09;18.75
+10352;24;Samba Socker  Socks;Mens Clothes;10;47.3;40.87;6.43
+10352;54;Patamonia Fleece Jacket;Sportwear;20;871.7;654.91;216.79
+10353;11;Desperado Jeans;Mens Clothes;12;428.4;308.45;119.95
+10353;38;Le Baby Dress;Womens wear;50;4524.0;3257.28;1266.72
+10354;1;Lenin Jeansshorts;Mens Clothes;12;259.8;224.47;35.33
+10354;29;Davenport;Mens Footwear;4;521.36;450.46;70.9
+10355;24;Samba Socker  Socks;Mens Clothes;25;116.5;100.66;15.84
+10355;57;Burned Rubber Shoes;Womens Footwear;25;442.5;382.32;60.18
+10356;31;Rossi Bermuda Shorts;Bath Clothes;30;276.6;238.98;37.62
+10356;55;Feiss Fleece Trousers;Sportwear;12;487.8;421.46;66.34
+10356;69;Racing Truck  Socks;Sportwear;20;41.0;35.42;5.58
+10357;10;Sapporoo Gloves;Babywear;30;234.36;168.74;65.62
+10357;26;Bike Helmet;Sportwear;16;471.04;406.98;64.06
+10357;60;Game Over T-Shirt;Sportwear;8;46.66;35.32;11.34
+10358;24;Samba Socker  Socks;Mens Clothes;10;44.52;36.63;7.89
+10358;34;Baywatch Bikkini;Bath Clothes;10;86.73;73.11;13.62
+10358;36;Mehmet-Tröja;Babywear;20;159.81;131.5;28.31
+10359;16;Wimbledon T-Shirt;Sportwear;56;602.11;495.45;106.66
+10359;31;Rossi Bermuda Shorts;Bath Clothes;70;639.45;526.18;113.27
+10359;60;Game Over T-Shirt;Sportwear;80;458.64;377.4;81.24
+10360;28;RDL Suit;Childrens wear;30;1262.1;1090.45;171.65
+10360;29;Davenport;Mens Footwear;35;4751.6;4105.38;646.22
+10360;38;Le Baby Dress;Womens wear;10;807.4;697.59;109.81
+10360;49;Finnish Sport Blades;Sportwear;35;640.15;553.09;87.06
+10360;54;Patamonia Fleece Jacket;Sportwear;28;1028.44;888.57;139.87
+10361;39;Terence Top;Womens wear;54;3596.08;2824.55;771.52
+10361;60;Game Over T-Shirt;Sportwear;55;282.54;221.92;60.62
+10362;25;Basket Vest;Sportwear;50;752.0;649.73;102.27
+10362;51;Snake Boots;Mens Footwear;20;2195.8;1897.17;298.63
+10362;54;Patamonia Fleece Jacket;Sportwear;24;889.68;768.68;121.0
+10363;31;Rossi Bermuda Shorts;Bath Clothes;20;186.0;174.01;11.99
+10363;75;Bow tie;Mens Clothes;12;96.72;83.57;13.15
+10363;76;Minnki Pälsii;Womens wear;12;5190.36;4735.04;455.32
+10364;69;Racing Truck  Socks;Sportwear;30;61.5;53.14;8.36
+10364;71;Atles Lussekofta;Mens Clothes;5;148.65;128.43;20.22
+10365;11;Desperado Jeans;Mens Clothes;24;707.52;611.3;96.22
+10366;65;Stretch oui-pants;Womens wear;5;45.6;39.4;6.2
+10366;77;Skirt;Womens wear;5;63.55;54.91;8.64
+10367;34;Baywatch Bikkini;Bath Clothes;36;272.16;256.69;15.47
+10367;54;Patamonia Fleece Jacket;Sportwear;18;672.66;581.18;91.48
+10367;65;Stretch oui-pants;Womens wear;15;141.15;121.95;19.2
+10367;77;Skirt;Womens wear;7;99.61;86.06;13.55
+10368;21;Basket Shoes;Sportwear;5;57.92;45.49;12.43
+10368;28;RDL Suit;Childrens wear;13;678.82;533.18;145.64
+10368;57;Burned Rubber Shoes;Womens Footwear;25;451.25;389.88;61.37
+10368;64;WFS shoes;Womens Footwear;35;1245.09;977.96;267.13
+10369;29;Davenport;Mens Footwear;20;2355.6;2035.24;320.36
+10369;56;High Heels Shoes;Womens Footwear;18;886.95;613.06;273.89
+10370;1;Lenin Jeansshorts;Mens Clothes;15;371.91;292.98;78.93
+10370;64;WFS shoes;Womens Footwear;30;1020.6;881.8;138.8
+10370;74;Nikee Running Shoes;Childrens wear;20;750.72;564.02;186.7
+10371;36;Mehmet-Tröja;Babywear;6;55.94;40.28;15.66
+10372;20;Tennis Suit;Sportwear;12;1218.6;842.3;376.3
+10372;38;Le Baby Dress;Womens wear;40;3897.0;2703.0;1194.0
+10372;60;Game Over T-Shirt;Sportwear;70;463.75;320.54;143.21
+10372;72;Rossi Shorts;Bath Clothes;42;564.38;390.1;174.28
+10373;58;Ga-Ga Dress;Babywear;80;5094.72;3668.2;1426.52
+10373;71;Atles Lussekofta;Mens Clothes;50;1907.4;1373.33;534.07
+10374;31;Rossi Bermuda Shorts;Bath Clothes;30;273.3;236.13;37.17
+10374;58;Ga-Ga Dress;Babywear;15;773.55;668.35;105.2
+10375;14;Kool Sunglasses;Childrens wear;15;323.85;279.81;44.04
+10375;54;Patamonia Fleece Jacket;Sportwear;10;329.5;284.69;44.81
+10376;31;Rossi Bermuda Shorts;Bath Clothes;42;341.33;280.87;60.46
+10377;28;RDL Suit;Childrens wear;20;947.14;711.59;235.55
+10377;39;Terence Top;Womens wear;20;1374.94;1033.0;341.94
+10378;71;Atles Lussekofta;Mens Clothes;6;169.14;148.16;20.98
+10379;41;Duck Shirt;Babywear;8;82.1;64.49;17.61
+10379;63;Serve-Shirt;Womens wear;16;358.16;281.32;76.84
+10379;65;Stretch oui-pants;Womens wear;20;220.0;172.8;47.2
+10380;30;Baby Dark Lounge Suit;Babywear;18;505.1;396.73;108.37
+10380;53;Jumpin Jack Flash Dress;Womens wear;20;1341.12;1053.39;287.73
+10380;60;Game Over T-Shirt;Sportwear;6;31.68;24.88;6.8
+10380;70;US-Master Jeans;Mens Clothes;30;814.5;674.41;140.09
+10381;74;Nikee Running Shoes;Childrens wear;14;428.26;354.6;73.66
+10382;5;O-Man Underwear;Mens Clothes;32;179.84;148.91;30.93
+10382;18;Deuce shirt;Babywear;9;241.02;199.56;41.46
+10382;29;Davenport;Mens Footwear;14;1811.32;1499.77;311.55
+10382;33;Car Boots;Sportwear;60;1649.4;1365.7;283.7
+10382;74;Nikee Running Shoes;Childrens wear;50;1360.5;1126.49;234.01
+10383;13;Aino Shoes;Babywear;20;523.6;433.54;90.06
+10383;50;Finnish Swimsuit;Sportwear;15;231.45;191.64;39.81
+10383;56;High Heels Shoes;Womens Footwear;20;826.4;684.26;142.14
+10384;20;Tennis Suit;Sportwear;28;2422.28;2015.97;406.31
+10384;60;Game Over T-Shirt;Sportwear;15;79.8;66.07;13.73
+10385;7;Conserve Shoes;Childrens wear;10;433.56;299.16;134.4
+10385;60;Game Over T-Shirt;Sportwear;20;119.76;82.63;37.13
+10385;68;Cap;Sportwear;8;131.04;90.42;40.62
+10386;24;Samba Socker  Socks;Mens Clothes;15;61.65;51.05;10.6
+10386;34;Baywatch Bikkini;Bath Clothes;10;84.8;70.21;14.59
+10387;24;Samba Socker  Socks;Mens Clothes;15;72.75;65.56;7.19
+10387;28;RDL Suit;Childrens wear;6;285.06;236.03;49.03
+10387;59;Rasta WCT;Sportwear;12;106.44;88.13;18.31
+10387;71;Atles Lussekofta;Mens Clothes;15;434.85;360.06;74.79
+10388;45;Danske Treshoe;Mens Footwear;15;156.6;108.05;48.55
+10388;52;Small Crocodile Boots;Womens Footwear;20;1983.6;1368.68;614.92
+10388;53;Jumpin Jack Flash Dress;Womens wear;40;2511.6;2079.6;432.0
+10389;10;Sapporoo Gloves;Babywear;16;101.28;83.86;17.42
+10389;55;Feiss Fleece Trousers;Sportwear;15;562.35;465.63;96.72
+10389;62;Sheat Shoes;Sportwear;20;633.6;524.62;108.98
+10389;70;US-Master Jeans;Mens Clothes;30;838.8;694.53;144.27
+10390;31;Rossi Bermuda Shorts;Bath Clothes;60;595.98;448.61;147.37
+10390;35;LA. Shorts;Bath Clothes;40;288.64;217.27;71.37
+10390;46;Rodbye Troje;Babywear;45;487.35;403.53;83.82
+10390;72;Rossi Shorts;Bath Clothes;24;288.82;217.4;71.42
+10391;13;Aino Shoes;Babywear;18;416.16;345.24;70.92
+10392;69;Racing Truck  Socks;Sportwear;50;104.5;86.53;17.97
+10393;2;Mr X Trousers;Mens Clothes;25;599.06;410.22;188.84
+10393;14;Kool Sunglasses;Childrens wear;42;1146.08;759.16;386.91
+10393;25;Basket Vest;Sportwear;7;126.18;83.58;42.6
+10393;26;Bike Helmet;Sportwear;70;2749.25;1866.97;882.28
+10393;31;Rossi Bermuda Shorts;Bath Clothes;32;257.6;213.29;44.31
+10394;13;Aino Shoes;Babywear;10;270.4;223.89;46.51
+10394;62;Sheat Shoes;Sportwear;10;266.7;220.83;45.87
+10395;46;Rodbye Troje;Babywear;28;357.9;269.4;88.5
+10395;53;Jumpin Jack Flash Dress;Womens wear;70;5109.72;3846.23;1263.49
+10395;69;Racing Truck  Socks;Sportwear;8;14.96;12.39;2.57
+10396;23;DSW;Womens Footwear;40;344.0;284.83;59.17
+10396;71;Atles Lussekofta;Mens Clothes;60;1780.2;1474.01;306.19
+10396;72;Rossi Shorts;Bath Clothes;21;230.16;190.57;39.59
+10397;21;Basket Shoes;Sportwear;10;123.17;88.68;34.49
+10397;51;Snake Boots;Mens Footwear;18;2089.04;1504.11;584.93
+10398;35;LA. Shorts;Bath Clothes;30;163.5;146.39;17.11
+10398;55;Feiss Fleece Trousers;Sportwear;120;4935.48;3715.07;1220.41
+10399;68;Cap;Sportwear;60;794.4;693.51;100.89
+10399;71;Atles Lussekofta;Mens Clothes;30;829.8;687.07;142.73
+10399;76;Minnki Pälsii;Womens wear;35;13366.85;11067.75;2299.1
+10399;77;Skirt;Womens wear;14;168.14;139.22;28.92
+10400;29;Davenport;Mens Footwear;21;2554.65;2115.25;439.4
+10400;35;LA. Shorts;Bath Clothes;35;203.0;168.08;34.92
+10400;49;Finnish Sport Blades;Sportwear;30;646.5;563.2;83.3
+10401;30;Baby Dark Lounge Suit;Babywear;18;469.26;388.55;80.71
+10401;56;High Heels Shoes;Womens Footwear;70;2804.2;2556.24;247.96
+10401;65;Stretch oui-pants;Womens wear;20;181.2;150.03;31.17
+10401;71;Atles Lussekofta;Mens Clothes;60;1823.4;1509.78;313.62
+10402;23;DSW;Womens Footwear;60;544.2;450.6;93.6
+10402;63;Serve-Shirt;Womens wear;65;1231.1;1019.35;211.75
+10403;16;Wimbledon T-Shirt;Sportwear;21;245.12;176.49;68.63
+10403;48;Root Boot;Mens Footwear;70;2562.32;1844.87;717.45
+10404;26;Bike Helmet;Sportwear;30;1068.8;842.82;225.97
+10404;42;Balett Shoes;Womens Footwear;40;561.54;442.81;118.73
+10404;49;Finnish Sport Blades;Sportwear;30;624.33;492.33;132.0
+10405;3;Chantell Shirt;Womens wear;50;924.0;791.66;132.34
+10406;1;Lenin Jeansshorts;Mens Clothes;10;197.6;163.61;33.99
+10406;21;Basket Shoes;Sportwear;30;346.83;277.3;69.53
+10406;28;RDL Suit;Childrens wear;42;2187.11;1646.3;540.81
+10406;36;Mehmet-Tröja;Babywear;5;43.34;32.62;10.72
+10406;40;Duck Trousers;Babywear;2;41.65;31.35;10.3
+10407;11;Desperado Jeans;Mens Clothes;30;765.6;633.92;131.68
+10407;69;Racing Truck  Socks;Sportwear;15;31.65;26.21;5.44
+10407;71;Atles Lussekofta;Mens Clothes;15;484.95;401.54;83.41
+10408;37;Mehmet-Skor;Babywear;10;39.2;32.46;6.74
+10408;54;Patamonia Fleece Jacket;Sportwear;6;204.54;169.36;35.18
+10408;62;Sheat Shoes;Sportwear;35;1088.85;901.57;187.28
+10409;14;Kool Sunglasses;Childrens wear;12;294.96;244.23;50.73
+10409;21;Basket Shoes;Sportwear;12;131.52;108.9;22.62
+10410;33;Car Boots;Sportwear;49;1272.04;1053.25;218.79
+10410;59;Rasta WCT;Sportwear;16;149.12;123.47;25.65
+10411;41;Duck Shirt;Babywear;25;277.2;191.27;85.93
+10411;44;Okkaba Skin Jackets;Womens wear;40;3298.56;2276.01;1022.55
+10411;59;Rasta WCT;Sportwear;9;98.93;68.26;30.67
+10412;14;Kool Sunglasses;Childrens wear;20;560.78;422.11;138.67
+10413;1;Lenin Jeansshorts;Mens Clothes;24;504.24;417.51;86.73
+10413;62;Sheat Shoes;Sportwear;40;1214.8;1005.85;208.95
+10413;76;Minnki Pälsii;Womens wear;14;5809.44;4810.22;999.22
+10414;19;Squash Shorts;Sportwear;18;166.32;131.16;35.16
+10414;33;Car Boots;Sportwear;50;1290.5;1107.48;183.02
+10415;17;TieBreak Tennis shoes;Mens Footwear;2;45.34;37.54;7.8
+10415;33;Car Boots;Sportwear;20;516.8;464.81;51.99
+10416;19;Squash Shorts;Sportwear;20;187.6;155.45;32.15
+10416;53;Jumpin Jack Flash Dress;Womens wear;10;553.2;458.05;95.15
+10416;57;Burned Rubber Shoes;Womens Footwear;20;374.8;310.33;64.47
+10417;38;Le Baby Dress;Womens wear;50;3960.5;3292.62;667.88
+10417;46;Rodbye Troje;Babywear;2;31.55;20.9;10.65
+10417;68;Cap;Sportwear;36;565.2;374.39;190.81
+10417;77;Skirt;Womens wear;35;465.5;385.43;80.07
+10418;2;Mr X Trousers;Mens Clothes;60;1164.6;964.29;200.31
+10418;47;Lundenhagen Boots;Mens Footwear;55;1410.75;1168.1;242.65
+10418;61;Adihash Running Shoe;Sportwear;16;388.8;321.93;66.87
+10418;74;Nikee Running Shoes;Childrens wear;15;463.65;383.9;79.75
+10419;60;Game Over T-Shirt;Sportwear;60;289.17;228.03;61.14
+10419;69;Racing Truck  Socks;Sportwear;20;39.27;32.65;6.62
+10420;9;Fuji Boots;Mens Footwear;20;806.96;607.42;199.54
+10420;13;Aino Shoes;Babywear;2;59.14;44.51;14.62
+10420;70;US-Master Jeans;Mens Clothes;8;276.06;207.79;68.26
+10420;73;Mehmet-Napp;Babywear;20;23.76;17.88;5.88
+10421;19;Squash Shorts;Sportwear;4;42.04;30.27;11.77
+10421;26;Bike Helmet;Sportwear;30;955.8;791.4;164.4
+10421;53;Jumpin Jack Flash Dress;Womens wear;15;964.28;694.28;270.0
+10421;77;Skirt;Womens wear;10;138.35;104.83;33.52
+10422;26;Bike Helmet;Sportwear;2;56.66;46.91;9.75
+10423;31;Rossi Bermuda Shorts;Bath Clothes;14;107.66;89.14;18.52
+10423;59;Rasta WCT;Sportwear;20;178.4;147.72;30.68
+10424;35;LA. Shorts;Bath Clothes;60;399.6;275.72;123.88
+10424;38;Le Baby Dress;Womens wear;49;5068.56;3497.31;1571.25
+10424;68;Cap;Sportwear;30;450.72;324.65;126.07
+10425;55;Feiss Fleece Trousers;Sportwear;10;450.5;298.41;152.09
+10425;76;Minnki Pälsii;Womens wear;20;9035.75;5985.28;3050.47
+10426;56;High Heels Shoes;Womens Footwear;5;181.45;150.24;31.21
+10426;64;WFS shoes;Womens Footwear;7;233.24;193.12;40.12
+10427;14;Kool Sunglasses;Childrens wear;35;851.55;706.9;144.65
+10428;46;Rodbye Troje;Babywear;20;241.4;199.88;41.52
+10429;50;Finnish Swimsuit;Sportwear;40;686.0;568.01;117.99
+10429;63;Serve-Shirt;Womens wear;35;951.56;630.32;321.25
+10430;17;TieBreak Tennis shoes;Mens Footwear;45;1217.16;839.84;377.32
+10430;21;Basket Shoes;Sportwear;50;513.0;424.76;88.24
+10430;56;High Heels Shoes;Womens Footwear;30;1087.5;900.45;187.05
+10430;59;Rasta WCT;Sportwear;70;719.04;496.14;222.9
+10431;17;TieBreak Tennis shoes;Mens Footwear;50;1585.63;1050.32;535.31
+10431;40;Duck Trousers;Babywear;50;1118.75;741.06;377.69
+10431;47;Lundenhagen Boots;Mens Footwear;30;1012.13;670.43;341.69
+10432;26;Bike Helmet;Sportwear;10;300.4;248.73;51.67
+10432;54;Patamonia Fleece Jacket;Sportwear;40;1364.8;1130.05;234.75
+10433;56;High Heels Shoes;Womens Footwear;28;1072.68;888.18;184.5
+10434;11;Desperado Jeans;Mens Clothes;6;156.78;129.81;26.97
+10434;76;Minnki Pälsii;Womens wear;18;8931.84;6430.93;2500.92
+10435;2;Mr X Trousers;Mens Clothes;10;200.5;166.01;34.49
+10435;22;Ravellis Träskor;Womens Footwear;12;45.0;37.26;7.74
+10435;72;Rossi Shorts;Bath Clothes;10;126.0;104.33;21.67
+10436;46;Rodbye Troje;Babywear;5;64.25;53.2;11.05
+10436;56;High Heels Shoes;Womens Footwear;40;1661.44;1250.61;410.83
+10436;64;WFS shoes;Womens Footwear;30;1199.22;902.69;296.53
+10436;75;Bow tie;Mens Clothes;24;189.55;142.68;46.87
+10437;53;Jumpin Jack Flash Dress;Womens wear;15;872.55;722.47;150.08
+10438;19;Squash Shorts;Sportwear;15;171.36;118.24;53.12
+10438;34;Baywatch Bikkini;Bath Clothes;20;179.52;123.87;55.65
+10438;57;Burned Rubber Shoes;Womens Footwear;15;365.4;252.13;113.27
+10439;12;Tiny Winy Hot Bikini;Bath Clothes;15;153.3;126.93;26.37
+10439;16;Wimbledon T-Shirt;Sportwear;16;159.68;132.22;27.46
+10439;64;WFS shoes;Womens Footwear;6;210.12;173.98;36.14
+10439;74;Nikee Running Shoes;Childrens wear;30;985.5;815.99;169.51
+10440;2;Mr X Trousers;Mens Clothes;45;1046.39;753.4;292.99
+10440;16;Wimbledon T-Shirt;Sportwear;49;520.67;374.89;145.79
+10440;29;Davenport;Mens Footwear;24;3564.54;2566.47;998.07
+10440;61;Adihash Running Shoe;Sportwear;90;2685.83;1933.79;752.03
+10441;27;Tracksuit;Sportwear;50;2212.5;1831.95;380.55
+10442;11;Desperado Jeans;Mens Clothes;30;919.2;761.1;158.1
+10442;54;Patamonia Fleece Jacket;Sportwear;80;2913.6;2412.46;501.14
+10442;66;Langoste Shirt;Womens wear;60;1168.8;967.77;201.03
+10443;11;Desperado Jeans;Mens Clothes;6;192.31;132.7;59.62
+10443;28;RDL Suit;Childrens wear;12;522.24;432.41;89.83
+10444;17;TieBreak Tennis shoes;Mens Footwear;10;270.0;223.56;46.44
+10444;26;Bike Helmet;Sportwear;15;464.55;384.65;79.9
+10444;35;LA. Shorts;Bath Clothes;8;45.6;37.76;7.84
+10444;41;Duck Shirt;Babywear;30;275.7;228.28;47.42
+10445;39;Terence Top;Womens wear;6;351.42;290.98;60.44
+10445;54;Patamonia Fleece Jacket;Sportwear;15;529.8;445.45;84.35
+10446;19;Squash Shorts;Sportwear;12;122.23;92.01;30.22
+10446;24;Samba Socker  Socks;Mens Clothes;20;92.62;69.72;22.9
+10446;31;Rossi Bermuda Shorts;Bath Clothes;3;27.29;20.54;6.75
+10446;52;Small Crocodile Boots;Womens Footwear;15;1266.54;953.36;313.18
+10447;19;Squash Shorts;Sportwear;40;341.2;282.51;58.69
+10447;65;Stretch oui-pants;Womens wear;35;366.8;303.71;63.09
+10447;71;Atles Lussekofta;Mens Clothes;2;57.08;47.26;9.82
+10448;26;Bike Helmet;Sportwear;6;195.18;161.61;33.57
+10448;40;Duck Trousers;Babywear;20;373.0;308.84;64.16
+10449;10;Sapporoo Gloves;Babywear;14;97.86;81.03;16.83
+10449;52;Small Crocodile Boots;Womens Footwear;20;1759.6;1456.95;302.65
+10449;62;Sheat Shoes;Sportwear;35;1044.4;892.94;151.46
+10450;10;Sapporoo Gloves;Babywear;20;183.36;127.5;55.86
+10450;54;Patamonia Fleece Jacket;Sportwear;6;253.58;174.97;78.61
+10451;55;Feiss Fleece Trousers;Sportwear;120;5283.96;3977.38;1306.58
+10451;64;WFS shoes;Womens Footwear;35;1383.69;1041.54;342.15
+10451;65;Stretch oui-pants;Womens wear;28;328.33;247.14;81.19
+10451;77;Skirt;Womens wear;55;756.86;569.71;187.15
+10452;28;RDL Suit;Childrens wear;15;736.35;609.7;126.65
+10452;44;Okkaba Skin Jackets;Womens wear;100;8495.55;6699.35;1796.2
+10453;48;Root Boot;Mens Footwear;15;592.35;445.88;146.47
+10453;70;US-Master Jeans;Mens Clothes;25;836.83;629.9;206.92
+10454;16;Wimbledon T-Shirt;Sportwear;20;213.12;147.05;66.07
+10454;33;Car Boots;Sportwear;20;668.88;461.53;207.35
+10454;46;Rodbye Troje;Babywear;10;143.64;99.11;44.53
+10455;39;Terence Top;Womens wear;20;1297.8;1074.58;223.22
+10455;53;Jumpin Jack Flash Dress;Womens wear;50;3115.5;2579.63;535.87
+10455;61;Adihash Running Shoe;Sportwear;25;668.75;553.72;115.02
+10455;71;Atles Lussekofta;Mens Clothes;30;835.5;691.79;143.71
+10456;21;Basket Shoes;Sportwear;40;422.74;336.0;86.74
+10456;49;Finnish Sport Blades;Sportwear;21;484.93;349.15;135.78
+10457;59;Rasta WCT;Sportwear;36;282.6;248.16;34.44
+10458;26;Bike Helmet;Sportwear;30;846.3;700.74;145.56
+10458;28;RDL Suit;Childrens wear;30;1445.7;1197.04;248.66
+10458;43;Summer Shorts;Bath Clothes;20;252.8;217.88;34.92
+10458;56;High Heels Shoes;Womens Footwear;15;604.8;500.77;104.03
+10458;71;Atles Lussekofta;Mens Clothes;50;1502.0;1243.66;258.34
+10459;7;Conserve Shoes;Childrens wear;16;655.87;517.2;138.67
+10459;46;Rodbye Troje;Babywear;20;251.58;198.39;53.19
+10459;72;Rossi Shorts;Bath Clothes;40;512.4;424.27;88.13
+10460;68;Cap;Sportwear;21;310.54;205.7;104.84
+10460;75;Bow tie;Mens Clothes;4;39.6;26.23;13.37
+10461;21;Basket Shoes;Sportwear;40;493.0;326.56;166.44
+10461;30;Baby Dark Lounge Suit;Babywear;28;955.15;632.69;322.46
+10461;55;Feiss Fleece Trousers;Sportwear;60;2643.0;1750.72;892.28
+10462;13;Aino Shoes;Babywear;1;27.09;22.43;4.66
+10462;23;DSW;Womens Footwear;21;178.5;156.15;22.35
+10463;19;Squash Shorts;Sportwear;21;203.07;168.14;34.93
+10463;42;Balett Shoes;Womens Footwear;50;743.0;615.2;127.8
+10464;4;Oyaki Kimono;Womens wear;16;429.89;296.62;133.27
+10464;43;Summer Shorts;Bath Clothes;3;33.54;27.77;5.77
+10464;56;High Heels Shoes;Womens Footwear;30;1417.32;977.95;439.37
+10464;60;Game Over T-Shirt;Sportwear;20;103.6;85.78;17.82
+10465;24;Samba Socker  Socks;Mens Clothes;25;110.25;91.29;18.96
+10465;29;Davenport;Mens Footwear;18;2646.86;2087.2;559.66
+10465;40;Duck Trousers;Babywear;20;387.0;320.44;66.56
+10465;45;Danske Treshoe;Mens Footwear;30;339.57;255.6;83.97
+10465;50;Finnish Swimsuit;Sportwear;25;378.25;313.19;65.06
+10466;11;Desperado Jeans;Mens Clothes;10;257.3;217.89;39.41
+10466;46;Rodbye Troje;Babywear;5;59.25;49.06;10.19
+10467;24;Samba Socker  Socks;Mens Clothes;28;128.8;116.14;12.66
+10467;25;Basket Vest;Sportwear;12;161.52;146.0;15.52
+10468;30;Baby Dark Lounge Suit;Babywear;8;188.4;156.0;32.4
+10468;43;Summer Shorts;Bath Clothes;15;173.85;143.95;29.9
+10469;2;Mr X Trousers;Mens Clothes;40;807.76;581.59;226.17
+10469;16;Wimbledon T-Shirt;Sportwear;35;384.79;277.05;107.74
+10469;44;Okkaba Skin Jackets;Womens wear;2;156.81;112.91;43.91
+10470;18;Deuce shirt;Babywear;30;755.7;654.32;101.38
+10470;23;DSW;Womens Footwear;15;133.65;110.66;22.99
+10470;64;WFS shoes;Womens Footwear;8;291.12;241.05;50.07
+10471;7;Conserve Shoes;Childrens wear;30;1192.2;1023.52;168.68
+10471;56;High Heels Shoes;Womens Footwear;20;796.4;659.42;136.98
+10472;24;Samba Socker  Socks;Mens Clothes;80;351.96;281.69;70.27
+10472;51;Snake Boots;Mens Footwear;18;1632.42;1351.64;280.78
+10473;33;Car Boots;Sportwear;12;319.08;264.2;54.88
+10473;71;Atles Lussekofta;Mens Clothes;12;391.44;324.11;67.33
+10474;14;Kool Sunglasses;Childrens wear;12;295.8;244.92;50.88
+10474;28;RDL Suit;Childrens wear;18;789.66;653.84;135.82
+10474;40;Duck Trousers;Babywear;21;374.22;309.85;64.37
+10474;75;Bow tie;Mens Clothes;10;76.3;63.18;13.12
+10475;31;Rossi Bermuda Shorts;Bath Clothes;35;374.73;269.8;104.92
+10475;66;Langoste Shirt;Womens wear;60;1189.56;924.38;265.18
+10475;76;Minnki Pälsii;Womens wear;42;20042.09;14430.3;5611.78
+10476;55;Feiss Fleece Trousers;Sportwear;2;79.04;62.33;16.71
+10476;70;US-Master Jeans;Mens Clothes;12;313.68;259.73;53.95
+10477;1;Lenin Jeansshorts;Mens Clothes;15;316.65;262.19;54.46
+10477;21;Basket Shoes;Sportwear;21;236.78;161.47;75.31
+10477;39;Terence Top;Womens wear;20;1427.5;945.58;481.92
+10478;10;Sapporoo Gloves;Babywear;20;138.6;109.3;29.3
+10479;38;Le Baby Dress;Womens wear;30;2492.1;2063.46;428.64
+10479;53;Jumpin Jack Flash Dress;Womens wear;28;1833.16;1517.86;315.3
+10479;59;Rasta WCT;Sportwear;60;493.2;408.37;84.83
+10479;64;WFS shoes;Womens Footwear;30;1044.9;865.18;179.72
+10480;47;Lundenhagen Boots;Mens Footwear;30;780.3;646.09;134.21
+10480;59;Rasta WCT;Sportwear;12;97.68;80.88;16.8
+10481;49;Finnish Sport Blades;Sportwear;24;454.8;386.21;68.59
+10481;60;Game Over T-Shirt;Sportwear;40;204.8;169.57;35.23
+10482;40;Duck Trousers;Babywear;10;175.9;152.05;23.85
+10483;34;Baywatch Bikkini;Bath Clothes;35;294.0;231.84;62.16
+10483;77;Skirt;Womens wear;30;443.21;349.5;93.71
+10484;21;Basket Shoes;Sportwear;14;134.12;111.05;23.07
+10484;40;Duck Trousers;Babywear;10;184.0;152.35;31.65
+10484;51;Snake Boots;Mens Footwear;3;272.88;225.94;46.94
+10485;2;Mr X Trousers;Mens Clothes;20;383.68;288.81;94.87
+10485;3;Chantell Shirt;Womens wear;20;476.96;359.02;117.94
+10485;55;Feiss Fleece Trousers;Sportwear;30;1161.93;874.62;287.31
+10485;70;US-Master Jeans;Mens Clothes;60;1768.8;1331.42;437.38
+10486;11;Desperado Jeans;Mens Clothes;5;141.9;117.49;24.41
+10486;51;Snake Boots;Mens Footwear;25;2421.25;2004.8;416.46
+10486;74;Nikee Running Shoes;Childrens wear;16;439.84;364.19;75.65
+10487;19;Squash Shorts;Sportwear;5;48.45;40.12;8.33
+10487;26;Bike Helmet;Sportwear;30;1002.0;829.66;172.34
+10487;54;Patamonia Fleece Jacket;Sportwear;24;1008.3;667.9;340.4
+10488;59;Rasta WCT;Sportwear;30;264.0;218.59;45.41
+10488;73;Mehmet-Napp;Babywear;20;29.04;20.04;9.0
+10489;11;Desperado Jeans;Mens Clothes;15;529.5;350.74;178.76
+10489;16;Wimbledon T-Shirt;Sportwear;18;159.84;132.35;27.49
+10490;59;Rasta WCT;Sportwear;60;518.4;433.48;84.92
+10490;68;Cap;Sportwear;30;398.7;341.68;57.02
+10490;75;Bow tie;Mens Clothes;36;270.0;223.56;46.44
+10491;44;Okkaba Skin Jackets;Womens wear;15;1420.37;1022.66;397.7
+10491;77;Skirt;Womens wear;7;114.31;82.3;32.01
+10492;25;Basket Vest;Sportwear;60;868.14;684.59;183.55
+10492;42;Balett Shoes;Womens Footwear;20;290.22;254.23;35.99
+10493;65;Stretch oui-pants;Womens wear;15;156.59;117.87;38.72
+10493;66;Langoste Shirt;Womens wear;10;219.23;165.02;54.21
+10493;69;Racing Truck  Socks;Sportwear;10;20.57;15.48;5.09
+10494;56;High Heels Shoes;Womens Footwear;30;1061.1;878.59;182.51
+10495;23;DSW;Womens Footwear;10;83.3;68.97;14.33
+10495;41;Duck Shirt;Babywear;20;204.4;169.24;35.16
+10495;77;Skirt;Womens wear;5;65.6;54.32;11.28
+10496;31;Rossi Bermuda Shorts;Bath Clothes;20;171.57;135.3;36.27
+10497;56;High Heels Shoes;Womens Footwear;14;579.46;479.79;99.67
+10497;72;Rossi Shorts;Bath Clothes;25;278.0;230.18;47.82
+10497;77;Skirt;Womens wear;25;303.0;250.88;52.12
+10498;24;Samba Socker  Socks;Mens Clothes;14;68.6;56.8;11.8
+10498;40;Duck Trousers;Babywear;5;90.0;74.52;15.48
+10498;42;Balett Shoes;Womens Footwear;30;453.0;375.08;77.92
+10499;28;RDL Suit;Childrens wear;20;872.8;772.15;100.65
+10499;49;Finnish Sport Blades;Sportwear;25;476.5;394.54;81.96
+10500;15;Sumi Underwear;Womens wear;12;81.02;63.89;17.13
+10500;28;RDL Suit;Childrens wear;8;394.13;310.8;83.33
+10501;54;Patamonia Fleece Jacket;Sportwear;20;755.8;687.42;68.38
+10502;45;Danske Treshoe;Mens Footwear;21;210.0;173.88;36.12
+10502;53;Jumpin Jack Flash Dress;Womens wear;6;400.98;332.01;68.97
+10502;67;X-Dress;Womens wear;30;1899.6;1572.87;326.73
+10503;14;Kool Sunglasses;Childrens wear;70;1743.7;1443.78;299.92
+10503;65;Stretch oui-pants;Womens wear;20;197.4;181.11;16.29
+10504;2;Mr X Trousers;Mens Clothes;12;246.0;203.69;42.31
+10504;21;Basket Shoes;Sportwear;12;129.0;106.81;22.19
+10504;53;Jumpin Jack Flash Dress;Womens wear;10;623.2;516.01;107.19
+10504;61;Adihash Running Shoe;Sportwear;25;650.5;538.61;111.89
+10505;62;Sheat Shoes;Sportwear;3;94.08;77.9;16.18
+10506;25;Basket Vest;Sportwear;18;292.45;220.13;72.31
+10506;70;US-Master Jeans;Mens Clothes;14;473.55;356.45;117.1
+10507;43;Summer Shorts;Bath Clothes;15;196.82;141.71;55.11
+10507;48;Root Boot;Mens Footwear;15;551.14;396.82;154.32
+10508;13;Aino Shoes;Babywear;10;240.9;199.47;41.43
+10508;39;Terence Top;Womens wear;10;640.2;530.09;110.11
+10509;28;RDL Suit;Childrens wear;3;149.76;134.13;15.63
+10510;29;Davenport;Mens Footwear;36;4764.24;3944.79;819.45
+10510;75;Bow tie;Mens Clothes;36;312.44;235.19;77.26
+10511;4;Oyaki Kimono;Womens wear;50;1371.95;987.8;384.15
+10511;7;Conserve Shoes;Childrens wear;50;2442.6;1758.67;683.93
+10511;8;Tuxedo;Womens wear;10;252.66;181.91;70.74
+10512;24;Samba Socker  Socks;Mens Clothes;10;52.9;38.09;14.81
+10512;46;Rodbye Troje;Babywear;9;129.89;93.52;36.37
+10512;47;Lundenhagen Boots;Mens Footwear;6;183.89;132.4;51.49
+10512;60;Game Over T-Shirt;Sportwear;12;72.45;52.16;20.29
+10513;21;Basket Shoes;Sportwear;40;475.68;328.22;147.46
+10513;32;Rossi Bikkini;Bath Clothes;50;1079.4;744.79;334.61
+10513;61;Adihash Running Shoe;Sportwear;15;460.26;317.58;142.68
+10514;20;Tennis Suit;Sportwear;39;3433.17;2842.66;590.51
+10514;28;RDL Suit;Childrens wear;35;1618.05;1339.75;278.3
+10514;56;High Heels Shoes;Womens Footwear;70;2674.7;2214.65;460.05
+10514;65;Stretch oui-pants;Womens wear;39;429.0;361.39;67.61
+10514;75;Bow tie;Mens Clothes;50;368.5;305.12;63.38
+10515;9;Fuji Boots;Mens Footwear;16;773.72;557.08;216.64
+10515;16;Wimbledon T-Shirt;Sportwear;50;434.0;359.35;74.65
+10515;27;Tracksuit;Sportwear;120;5004.0;4143.31;860.69
+10515;33;Car Boots;Sportwear;16;515.38;371.08;144.31
+10515;60;Game Over T-Shirt;Sportwear;84;516.81;372.1;144.71
+10516;18;Deuce shirt;Babywear;25;749.38;564.08;185.3
+10516;41;Duck Shirt;Babywear;80;924.0;695.52;228.48
+10516;42;Balett Shoes;Womens Footwear;20;291.4;261.39;30.01
+10517;52;Small Crocodile Boots;Womens Footwear;6;512.94;424.71;88.23
+10517;59;Rasta WCT;Sportwear;4;33.2;27.49;5.71
+10517;70;US-Master Jeans;Mens Clothes;6;186.54;154.46;32.08
+10518;24;Samba Socker  Socks;Mens Clothes;5;21.65;17.93;3.72
+10518;38;Le Baby Dress;Womens wear;15;1150.35;952.49;197.86
+10518;44;Okkaba Skin Jackets;Womens wear;9;691.29;572.39;118.9
+10519;10;Sapporoo Gloves;Babywear;16;126.84;100.02;26.82
+10519;56;High Heels Shoes;Womens Footwear;40;1629.2;1348.98;280.22
+10519;60;Game Over T-Shirt;Sportwear;10;53.66;42.31;11.34
+10520;24;Samba Socker  Socks;Mens Clothes;8;37.44;31.0;6.44
+10520;53;Jumpin Jack Flash Dress;Womens wear;5;284.5;235.57;48.93
+10521;35;LA. Shorts;Bath Clothes;3;18.72;15.5;3.22
+10521;41;Duck Shirt;Babywear;10;96.3;79.74;16.56
+10521;68;Cap;Sportwear;6;76.68;63.49;13.19
+10522;1;Lenin Jeansshorts;Mens Clothes;40;1038.24;716.39;321.85
+10522;8;Tuxedo;Womens wear;24;502.32;415.92;86.4
+10522;30;Baby Dark Lounge Suit;Babywear;20;621.12;428.57;192.55
+10522;40;Duck Trousers;Babywear;25;547.5;377.78;169.72
+10523;17;TieBreak Tennis shoes;Mens Footwear;25;672.38;506.12;166.26
+10523;20;Tennis Suit;Sportwear;15;1385.01;1042.53;342.48
+10523;37;Mehmet-Skor;Babywear;18;79.79;60.83;18.96
+10523;41;Duck Shirt;Babywear;6;68.64;51.67;16.97
+10524;10;Sapporoo Gloves;Babywear;2;14.98;12.4;2.58
+10524;30;Baby Dark Lounge Suit;Babywear;10;272.5;225.63;46.87
+10524;43;Summer Shorts;Bath Clothes;60;780.0;645.84;134.16
+10524;54;Patamonia Fleece Jacket;Sportwear;15;513.45;425.14;88.31
+10525;36;Mehmet-Tröja;Babywear;30;219.3;195.85;23.45
+10525;40;Duck Trousers;Babywear;15;304.59;229.27;75.32
+10526;1;Lenin Jeansshorts;Mens Clothes;8;179.68;129.37;50.31
+10526;13;Aino Shoes;Babywear;10;262.4;217.27;45.13
+10526;56;High Heels Shoes;Womens Footwear;30;1438.31;1035.58;402.73
+10527;4;Oyaki Kimono;Womens wear;50;1294.15;1038.55;255.6
+10527;36;Mehmet-Tröja;Babywear;30;277.2;208.66;68.54
+10528;11;Desperado Jeans;Mens Clothes;3;88.11;72.96;15.15
+10528;33;Car Boots;Sportwear;8;261.41;180.37;81.04
+10528;72;Rossi Shorts;Bath Clothes;9;95.94;79.44;16.5
+10529;55;Feiss Fleece Trousers;Sportwear;14;517.58;428.56;89.02
+10529;68;Cap;Sportwear;20;274.6;227.37;47.23
+10529;69;Racing Truck  Socks;Sportwear;10;20.6;17.06;3.54
+10530;17;TieBreak Tennis shoes;Mens Footwear;40;968.0;801.5;166.5
+10530;43;Summer Shorts;Bath Clothes;25;272.75;225.84;46.91
+10530;61;Adihash Running Shoe;Sportwear;20;554.2;448.9;105.3
+10530;76;Minnki Pälsii;Womens wear;50;19557.5;15841.58;3715.92
+10531;59;Rasta WCT;Sportwear;2;15.8;12.8;3.0
+10532;30;Baby Dark Lounge Suit;Babywear;15;369.9;299.62;70.28
+10532;66;Langoste Shirt;Womens wear;24;449.28;363.92;85.36
+10533;4;Oyaki Kimono;Womens wear;50;1061.03;818.5;242.52
+10533;72;Rossi Shorts;Bath Clothes;24;264.72;214.42;50.3
+10533;73;Mehmet-Napp;Babywear;24;25.7;19.83;5.88
+10534;30;Baby Dark Lounge Suit;Babywear;10;263.1;213.11;49.99
+10534;40;Duck Trousers;Babywear;10;221.76;149.69;72.07
+10534;54;Patamonia Fleece Jacket;Sportwear;10;443.4;299.3;144.1
+10535;11;Desperado Jeans;Mens Clothes;50;1556.5;1146.15;410.35
+10535;40;Duck Trousers;Babywear;10;213.4;157.14;56.26
+10535;57;Burned Rubber Shoes;Womens Footwear;5;112.09;82.54;29.55
+10535;59;Rasta WCT;Sportwear;15;126.39;93.07;33.32
+10536;12;Tiny Winy Hot Bikini;Bath Clothes;15;181.88;117.86;64.02
+10536;31;Rossi Bermuda Shorts;Bath Clothes;20;178.2;144.34;33.86
+10536;33;Car Boots;Sportwear;30;692.4;560.84;131.56
+10536;60;Game Over T-Shirt;Sportwear;35;213.06;138.06;75.0
+10537;31;Rossi Bermuda Shorts;Bath Clothes;30;240.0;194.4;45.6
+10537;51;Snake Boots;Mens Footwear;6;552.84;447.8;105.04
+10537;58;Ga-Ga Dress;Babywear;20;1043.4;845.15;198.25
+10537;72;Rossi Shorts;Bath Clothes;21;233.52;189.15;44.37
+10537;73;Mehmet-Napp;Babywear;9;9.36;7.58;1.78
+10538;70;US-Master Jeans;Mens Clothes;7;212.52;172.14;40.38
+10538;72;Rossi Shorts;Bath Clothes;1;11.58;9.38;2.2
+10539;13;Aino Shoes;Babywear;8;199.12;161.29;37.83
+10539;21;Basket Shoes;Sportwear;15;163.65;132.56;31.09
+10539;33;Car Boots;Sportwear;15;414.6;335.83;78.77
+10539;49;Finnish Sport Blades;Sportwear;6;125.4;102.26;23.14
+10540;3;Chantell Shirt;Womens wear;60;1146.0;928.26;217.74
+10540;26;Bike Helmet;Sportwear;40;1368.4;1108.4;260.0
+10540;38;Le Baby Dress;Womens wear;30;2527.2;2047.03;480.17
+10540;68;Cap;Sportwear;35;456.4;369.68;86.72
+10541;24;Samba Socker  Socks;Mens Clothes;35;162.47;119.64;42.83
+10541;38;Le Baby Dress;Womens wear;4;340.82;250.97;89.85
+10541;65;Stretch oui-pants;Womens wear;36;366.3;269.73;96.57
+10541;71;Atles Lussekofta;Mens Clothes;9;274.33;202.01;72.32
+10542;11;Desperado Jeans;Mens Clothes;15;444.31;342.75;101.56
+10542;54;Patamonia Fleece Jacket;Sportwear;24;822.02;634.13;187.89
+10543;12;Tiny Winy Hot Bikini;Bath Clothes;30;358.8;252.72;106.08
+10543;23;DSW;Womens Footwear;70;772.8;544.32;228.48
+10544;28;RDL Suit;Childrens wear;7;304.15;246.36;57.79
+10544;67;X-Dress;Womens wear;7;453.6;367.42;86.18
+10545;11;Desperado Jeans;Mens Clothes;10;263.7;219.96;43.74
+10546;7;Conserve Shoes;Childrens wear;10;434.6;352.03;82.57
+10546;35;LA. Shorts;Bath Clothes;30;181.8;147.26;34.54
+10546;62;Sheat Shoes;Sportwear;40;1180.4;956.12;224.28
+10547;32;Rossi Bikkini;Bath Clothes;24;492.38;346.81;145.57
+10547;36;Mehmet-Tröja;Babywear;60;514.8;416.99;97.81
+10548;34;Baywatch Bikkini;Bath Clothes;10;109.13;70.71;38.41
+10548;41;Duck Shirt;Babywear;14;146.72;118.84;27.88
+10549;31;Rossi Bermuda Shorts;Bath Clothes;55;487.03;343.04;143.99
+10549;45;Danske Treshoe;Mens Footwear;100;1084.45;763.83;320.62
+10549;51;Snake Boots;Mens Footwear;48;5390.83;3797.02;1593.81
+10550;17;TieBreak Tennis shoes;Mens Footwear;8;225.63;166.15;59.48
+10550;19;Squash Shorts;Sportwear;10;95.2;77.11;18.09
+10550;21;Basket Shoes;Sportwear;6;62.7;46.17;16.53
+10550;61;Adihash Running Shoe;Sportwear;10;282.15;207.76;74.39
+10551;16;Wimbledon T-Shirt;Sportwear;40;391.46;275.72;115.74
+10551;35;LA. Shorts;Bath Clothes;20;130.18;91.69;38.49
+10551;44;Okkaba Skin Jackets;Womens wear;40;2739.6;2219.08;520.52
+10552;69;Racing Truck  Socks;Sportwear;18;34.56;27.99;6.57
+10552;75;Bow tie;Mens Clothes;30;214.8;173.99;40.81
+10553;11;Desperado Jeans;Mens Clothes;15;454.35;368.02;86.33
+10553;16;Wimbledon T-Shirt;Sportwear;14;127.82;103.53;24.29
+10553;22;Ravellis Träskor;Womens Footwear;24;78.72;63.76;14.96
+10553;31;Rossi Bermuda Shorts;Bath Clothes;30;248.1;200.96;47.14
+10553;35;LA. Shorts;Bath Clothes;6;37.5;30.38;7.12
+10554;16;Wimbledon T-Shirt;Sportwear;30;309.02;238.38;70.63
+10554;23;DSW;Womens Footwear;20;197.82;152.6;45.22
+10554;62;Sheat Shoes;Sportwear;20;562.8;434.16;128.64
+10554;77;Skirt;Womens wear;10;143.01;110.32;32.69
+10555;14;Kool Sunglasses;Childrens wear;30;772.56;521.48;251.08
+10555;19;Squash Shorts;Sportwear;35;357.0;240.98;116.02
+10555;24;Samba Socker  Socks;Mens Clothes;18;88.56;59.78;28.78
+10555;51;Snake Boots;Mens Footwear;20;2441.04;1647.7;793.34
+10555;56;High Heels Shoes;Womens Footwear;40;1915.2;1292.76;622.44
+10556;72;Rossi Shorts;Bath Clothes;24;281.28;227.84;53.44
+10557;64;WFS shoes;Womens Footwear;30;1084.5;878.44;206.06
+10557;75;Bow tie;Mens Clothes;20;157.6;127.66;29.94
+10558;47;Lundenhagen Boots;Mens Footwear;25;619.0;501.39;117.61
+10558;51;Snake Boots;Mens Footwear;20;1828.6;1588.94;239.66
+10558;52;Small Crocodile Boots;Womens Footwear;30;2554.2;2068.9;485.3
+10558;53;Jumpin Jack Flash Dress;Womens wear;18;1013.94;821.29;192.65
+10558;73;Mehmet-Napp;Babywear;3;2.97;2.41;0.56
+10559;41;Duck Shirt;Babywear;12;109.87;84.76;25.11
+10559;55;Feiss Fleece Trousers;Sportwear;18;736.34;568.04;168.31
+10560;30;Baby Dark Lounge Suit;Babywear;20;512.4;415.04;97.36
+10560;62;Sheat Shoes;Sportwear;15;585.0;379.08;205.92
+10561;44;Okkaba Skin Jackets;Womens wear;10;688.9;558.01;130.89
+10561;51;Snake Boots;Mens Footwear;50;5042.5;4084.42;958.08
+10562;33;Car Boots;Sportwear;20;579.04;426.38;152.66
+10562;62;Sheat Shoes;Sportwear;10;320.32;235.87;84.45
+10563;36;Mehmet-Tröja;Babywear;25;202.0;163.62;38.38
+10563;52;Small Crocodile Boots;Womens Footwear;70;5688.9;4608.01;1080.89
+10564;17;TieBreak Tennis shoes;Mens Footwear;16;422.35;325.81;96.54
+10564;31;Rossi Bermuda Shorts;Bath Clothes;6;48.51;37.42;11.09
+10564;55;Feiss Fleece Trousers;Sportwear;25;930.56;717.86;212.7
+10565;24;Samba Socker  Socks;Mens Clothes;25;121.83;89.71;32.12
+10565;64;WFS shoes;Womens Footwear;18;697.75;513.8;183.95
+10566;11;Desperado Jeans;Mens Clothes;35;1054.55;742.77;311.78
+10566;18;Deuce shirt;Babywear;18;545.65;384.33;161.32
+10566;76;Minnki Pälsii;Womens wear;10;3986.3;3228.9;757.4
+10567;31;Rossi Bermuda Shorts;Bath Clothes;60;624.24;421.36;202.88
+10567;51;Snake Boots;Mens Footwear;3;324.06;262.49;61.57
+10567;59;Rasta WCT;Sportwear;40;386.88;261.88;125.0
+10568;10;Sapporoo Gloves;Babywear;5;32.45;26.28;6.17
+10569;31;Rossi Bermuda Shorts;Bath Clothes;35;358.26;265.73;92.53
+10569;76;Minnki Pälsii;Womens wear;30;11229.9;9096.22;2133.68
+10570;11;Desperado Jeans;Mens Clothes;15;484.79;373.98;110.81
+10570;56;High Heels Shoes;Womens Footwear;60;2530.71;1952.26;578.45
+10571;14;Kool Sunglasses;Childrens wear;11;278.17;195.93;82.24
+10571;42;Balett Shoes;Womens Footwear;28;435.99;307.09;128.9
+10572;16;Wimbledon T-Shirt;Sportwear;12;131.74;97.01;34.73
+10572;32;Rossi Bikkini;Bath Clothes;10;223.96;164.92;59.04
+10572;40;Duck Trousers;Babywear;50;971.5;786.92;184.58
+10572;75;Bow tie;Mens Clothes;15;137.28;101.09;36.19
+10573;17;TieBreak Tennis shoes;Mens Footwear;18;438.66;355.31;83.35
+10573;34;Baywatch Bikkini;Bath Clothes;40;295.2;239.11;56.09
+10573;53;Jumpin Jack Flash Dress;Womens wear;25;1640.25;1328.6;311.65
+10574;33;Car Boots;Sportwear;14;387.1;313.55;73.55
+10574;40;Duck Trousers;Babywear;2;38.58;31.25;7.33
+10574;62;Sheat Shoes;Sportwear;10;300.3;243.24;57.06
+10574;64;WFS shoes;Womens Footwear;6;212.88;172.43;40.45
+10575;59;Rasta WCT;Sportwear;12;112.08;90.78;21.3
+10575;63;Serve-Shirt;Womens wear;6;118.26;95.79;22.47
+10575;72;Rossi Shorts;Bath Clothes;30;335.1;271.43;63.67
+10575;76;Minnki Pälsii;Womens wear;10;4060.8;3533.37;527.43
+10576;1;Lenin Jeansshorts;Mens Clothes;10;219.4;177.71;41.69
+10576;31;Rossi Bermuda Shorts;Bath Clothes;20;165.0;143.58;21.42
+10576;44;Okkaba Skin Jackets;Womens wear;21;1611.96;1305.69;306.27
+10577;39;Terence Top;Womens wear;10;627.2;508.03;119.17
+10577;75;Bow tie;Mens Clothes;20;167.2;135.43;31.77
+10577;77;Skirt;Womens wear;18;215.1;177.89;37.21
+10578;35;LA. Shorts;Bath Clothes;20;129.4;104.81;24.59
+10578;57;Burned Rubber Shoes;Womens Footwear;6;117.78;100.15;17.63
+10579;15;Sumi Underwear;Womens wear;10;70.9;57.43;13.47
+10579;75;Bow tie;Mens Clothes;21;165.27;133.87;31.4
+10580;14;Kool Sunglasses;Childrens wear;15;363.35;280.3;83.05
+10580;41;Duck Shirt;Babywear;9;92.04;72.9;19.14
+10580;65;Stretch oui-pants;Womens wear;30;292.32;241.3;51.02
+10581;75;Bow tie;Mens Clothes;50;467.4;315.5;151.9
+10582;57;Burned Rubber Shoes;Womens Footwear;4;70.64;57.22;13.42
+10582;76;Minnki Pälsii;Womens wear;14;5523.28;4473.86;1049.42
+10583;29;Davenport;Mens Footwear;10;1157.6;937.66;219.94
+10583;60;Game Over T-Shirt;Sportwear;24;141.31;99.53;41.78
+10583;69;Racing Truck  Socks;Sportwear;10;22.2;15.63;6.56
+10584;31;Rossi Bermuda Shorts;Bath Clothes;50;480.38;373.34;107.04
+10585;47;Lundenhagen Boots;Mens Footwear;15;375.6;304.24;71.36
+10586;52;Small Crocodile Boots;Womens Footwear;4;375.41;264.42;110.99
+10587;26;Bike Helmet;Sportwear;6;199.74;161.79;37.95
+10587;35;LA. Shorts;Bath Clothes;20;128.4;104.0;24.4
+10587;77;Skirt;Womens wear;20;246.4;200.02;46.38
+10588;18;Deuce shirt;Babywear;40;1262.4;852.12;410.28
+10588;42;Balett Shoes;Womens Footwear;100;1669.2;1126.71;542.49
+10589;35;LA. Shorts;Bath Clothes;4;24.32;19.7;4.62
+10590;1;Lenin Jeansshorts;Mens Clothes;20;403.6;326.92;76.68
+10590;77;Skirt;Womens wear;60;885.78;683.32;202.46
+10591;3;Chantell Shirt;Womens wear;14;272.72;220.9;51.82
+10591;7;Conserve Shoes;Childrens wear;10;385.6;312.34;73.26
+10591;54;Patamonia Fleece Jacket;Sportwear;50;1851.0;1499.31;351.69
+10592;15;Sumi Underwear;Womens wear;25;155.4;119.88;35.52
+10592;26;Bike Helmet;Sportwear;5;151.52;116.88;34.63
+10593;20;Tennis Suit;Sportwear;21;2096.39;1415.06;681.33
+10593;69;Racing Truck  Socks;Sportwear;20;47.04;31.75;15.29
+10593;76;Minnki Pälsii;Womens wear;4;2010.96;1482.54;528.42
+10594;52;Small Crocodile Boots;Womens Footwear;24;1964.16;1590.97;373.19
+10594;58;Ga-Ga Dress;Babywear;30;1368.9;1108.81;260.09
+10595;35;LA. Shorts;Bath Clothes;30;219.75;142.4;77.35
+10595;61;Adihash Running Shoe;Sportwear;120;3897.0;2525.26;1371.74
+10595;69;Racing Truck  Socks;Sportwear;65;146.25;94.77;51.48
+10596;56;High Heels Shoes;Womens Footwear;5;215.46;145.44;70.02
+10596;63;Serve-Shirt;Womens wear;24;543.17;400.71;142.46
+10596;75;Bow tie;Mens Clothes;30;268.92;181.52;87.4
+10597;24;Samba Socker  Socks;Mens Clothes;35;206.64;139.48;67.16
+10597;57;Burned Rubber Shoes;Womens Footwear;20;363.6;294.52;69.08
+10597;65;Stretch oui-pants;Womens wear;12;136.51;102.27;34.24
+10598;27;Tracksuit;Sportwear;50;2074.5;1680.34;394.16
+10598;71;Atles Lussekofta;Mens Clothes;9;255.96;207.33;48.63
+10599;62;Sheat Shoes;Sportwear;10;305.1;247.13;57.97
+10600;54;Patamonia Fleece Jacket;Sportwear;4;141.44;114.57;26.87
+10600;73;Mehmet-Napp;Babywear;30;35.1;28.43;6.67
+10601;13;Aino Shoes;Babywear;60;1422.0;1151.82;270.18
+10601;59;Rasta WCT;Sportwear;35;303.1;245.51;57.59
+10602;77;Skirt;Womens wear;5;81.81;53.01;28.8
+10603;22;Ravellis Träskor;Womens Footwear;48;159.84;129.47;30.37
+10603;49;Finnish Sport Blades;Sportwear;25;507.41;391.43;115.98
+10604;48;Root Boot;Mens Footwear;6;220.51;162.37;58.13
+10604;76;Minnki Pälsii;Womens wear;10;4068.24;2995.7;1072.54
+10605;16;Wimbledon T-Shirt;Sportwear;30;297.99;229.88;68.11
+10605;59;Rasta WCT;Sportwear;20;166.95;128.79;38.16
+10605;60;Game Over T-Shirt;Sportwear;70;399.84;308.45;91.39
+10605;71;Atles Lussekofta;Mens Clothes;15;508.57;392.32;116.24
+10606;4;Oyaki Kimono;Womens wear;20;548.64;370.33;178.31
+10606;55;Feiss Fleece Trousers;Sportwear;20;1002.48;676.67;325.81
+10606;62;Sheat Shoes;Sportwear;10;351.72;238.01;113.71
+10607;7;Conserve Shoes;Childrens wear;45;1629.45;1319.85;309.6
+10607;17;TieBreak Tennis shoes;Mens Footwear;100;2436.0;1973.16;462.84
+10607;33;Car Boots;Sportwear;14;340.2;275.56;64.64
+10607;40;Duck Trousers;Babywear;42;700.14;567.11;133.03
+10607;72;Rossi Shorts;Bath Clothes;12;150.6;121.99;28.61
+10608;56;High Heels Shoes;Womens Footwear;28;1155.28;935.78;219.5
+10609;1;Lenin Jeansshorts;Mens Clothes;3;55.5;44.96;10.54
+10609;10;Sapporoo Gloves;Babywear;10;65.7;53.22;12.48
+10609;21;Basket Shoes;Sportwear;6;64.14;51.95;12.19
+10610;36;Mehmet-Tröja;Babywear;21;198.98;128.94;70.04
+10611;1;Lenin Jeansshorts;Mens Clothes;6;118.5;95.98;22.52
+10611;2;Mr X Trousers;Mens Clothes;10;205.5;166.46;39.04
+10611;60;Game Over T-Shirt;Sportwear;15;79.2;64.15;15.05
+10612;10;Sapporoo Gloves;Babywear;70;497.0;402.57;94.43
+10612;36;Mehmet-Tröja;Babywear;55;400.95;324.77;76.18
+10612;49;Finnish Sport Blades;Sportwear;18;324.0;262.44;61.56
+10612;60;Game Over T-Shirt;Sportwear;40;182.8;148.07;34.73
+10612;76;Minnki Pälsii;Womens wear;80;32075.2;25980.91;6094.29
+10613;13;Aino Shoes;Babywear;8;241.12;177.55;63.57
+10613;75;Bow tie;Mens Clothes;40;340.8;276.05;64.75
+10614;11;Desperado Jeans;Mens Clothes;14;365.54;296.09;69.45
+10614;21;Basket Shoes;Sportwear;8;87.36;70.76;16.6
+10614;39;Terence Top;Womens wear;5;298.05;241.42;56.63
+10615;55;Feiss Fleece Trousers;Sportwear;5;209.25;169.49;39.76
+10616;38;Le Baby Dress;Womens wear;15;1191.8;964.34;227.46
+10616;56;High Heels Shoes;Womens Footwear;14;561.54;454.85;106.69
+10616;70;US-Master Jeans;Mens Clothes;15;416.43;321.25;95.18
+10616;71;Atles Lussekofta;Mens Clothes;15;477.07;368.02;109.04
+10617;59;Rasta WCT;Sportwear;30;301.88;212.62;89.25
+10618;6;Shagall Socks;Womens wear;70;270.9;219.43;51.47
+10618;56;High Heels Shoes;Womens Footwear;20;832.0;673.92;158.08
+10618;68;Cap;Sportwear;15;184.95;149.81;35.14
+10619;21;Basket Shoes;Sportwear;42;383.88;310.94;72.94
+10619;22;Ravellis Träskor;Womens Footwear;40;130.8;105.95;24.85
+10620;24;Samba Socker  Socks;Mens Clothes;5;22.05;17.86;4.19
+10620;52;Small Crocodile Boots;Womens Footwear;5;415.4;336.47;78.93
+10621;19;Squash Shorts;Sportwear;5;49.45;40.05;9.4
+10621;23;DSW;Womens Footwear;10;96.4;78.08;18.32
+10621;70;US-Master Jeans;Mens Clothes;20;546.8;442.91;103.89
+10621;71;Atles Lussekofta;Mens Clothes;15;487.05;394.51;92.54
+10622;2;Mr X Trousers;Mens Clothes;20;355.2;287.71;67.49
+10622;68;Cap;Sportwear;18;279.29;208.86;70.43
+10623;14;Kool Sunglasses;Childrens wear;21;508.41;449.92;58.49
+10623;19;Squash Shorts;Sportwear;15;154.28;113.6;40.67
+10623;21;Basket Shoes;Sportwear;25;276.38;203.51;72.86
+10623;24;Samba Socker  Socks;Mens Clothes;3;13.11;10.62;2.49
+10623;35;LA. Shorts;Bath Clothes;30;202.29;148.96;53.33
+10624;28;RDL Suit;Childrens wear;10;448.6;363.37;85.23
+10624;29;Davenport;Mens Footwear;6;725.7;587.82;137.88
+10624;44;Okkaba Skin Jackets;Womens wear;10;825.4;668.57;156.83
+10625;14;Kool Sunglasses;Childrens wear;3;72.75;58.93;13.82
+10625;42;Balett Shoes;Womens Footwear;5;74.6;60.43;14.17
+10625;60;Game Over T-Shirt;Sportwear;10;48.7;39.45;9.25
+10626;53;Jumpin Jack Flash Dress;Womens wear;12;761.28;616.64;144.64
+10626;60;Game Over T-Shirt;Sportwear;20;99.0;80.19;18.81
+10626;71;Atles Lussekofta;Mens Clothes;20;663.2;537.19;126.01
+10627;62;Sheat Shoes;Sportwear;15;460.8;373.25;87.55
+10627;73;Mehmet-Napp;Babywear;35;47.5;33.92;13.58
+10628;1;Lenin Jeansshorts;Mens Clothes;25;455.75;369.16;86.59
+10629;29;Davenport;Mens Footwear;20;2389.8;1935.74;454.06
+10629;64;WFS shoes;Womens Footwear;9;274.05;221.98;52.07
+10630;55;Feiss Fleece Trousers;Sportwear;12;444.53;354.66;89.86
+10630;76;Minnki Pälsii;Womens wear;35;14078.05;11403.22;2674.83
+10631;75;Bow tie;Mens Clothes;8;61.86;45.55;16.31
+10632;2;Mr X Trousers;Mens Clothes;30;607.01;468.26;138.74
+10632;33;Car Boots;Sportwear;20;522.48;403.06;119.42
+10633;12;Tiny Winy Hot Bikini;Bath Clothes;36;403.24;284.02;119.22
+10633;13;Aino Shoes;Babywear;13;361.19;254.4;106.79
+10633;26;Bike Helmet;Sportwear;35;1284.38;904.65;379.73
+10633;62;Sheat Shoes;Sportwear;80;2668.0;1879.2;788.8
+10634;7;Conserve Shoes;Childrens wear;35;1290.45;1045.26;245.19
+10634;18;Deuce shirt;Babywear;50;1381.5;1119.02;262.48
+10634;51;Snake Boots;Mens Footwear;15;1514.85;1227.03;287.82
+10634;75;Bow tie;Mens Clothes;2;15.08;12.21;2.87
+10635;4;Oyaki Kimono;Womens wear;10;263.01;193.67;69.34
+10635;5;O-Man Underwear;Mens Clothes;15;95.54;70.35;25.19
+10635;22;Ravellis Träskor;Womens Footwear;40;129.2;104.65;24.55
+10636;4;Oyaki Kimono;Womens wear;25;515.75;417.76;97.99
+10636;58;Ga-Ga Dress;Babywear;6;285.78;231.48;54.3
+10637;11;Desperado Jeans;Mens Clothes;10;267.7;216.84;50.86
+10637;50;Finnish Swimsuit;Sportwear;25;416.06;320.96;95.1
+10637;56;High Heels Shoes;Womens Footwear;60;2314.62;1785.56;529.06
+10638;45;Danske Treshoe;Mens Footwear;20;177.2;143.53;33.67
+10638;65;Stretch oui-pants;Womens wear;21;212.94;172.48;40.46
+10638;72;Rossi Shorts;Bath Clothes;60;646.2;523.42;122.78
+10639;18;Deuce shirt;Babywear;8;193.36;156.62;36.74
+10640;69;Racing Truck  Socks;Sportwear;20;46.0;29.81;16.19
+10640;70;US-Master Jeans;Mens Clothes;15;516.0;334.37;181.63
+10641;2;Mr X Trousers;Mens Clothes;50;929.0;752.49;176.51
+10641;40;Duck Trousers;Babywear;60;1187.4;961.79;225.61
+10642;21;Basket Shoes;Sportwear;30;381.24;257.34;123.9
+10642;61;Adihash Running Shoe;Sportwear;20;643.92;434.65;209.27
+10643;28;RDL Suit;Childrens wear;15;873.0;565.7;307.3
+10643;39;Terence Top;Womens wear;21;1478.4;958.0;520.4
+10643;46;Rodbye Troje;Babywear;2;27.88;18.06;9.81
+10644;18;Deuce shirt;Babywear;4;114.22;84.11;30.11
+10644;43;Summer Shorts;Bath Clothes;20;262.0;212.22;49.78
+10644;46;Rodbye Troje;Babywear;21;300.3;221.13;79.17
+10645;18;Deuce shirt;Babywear;20;525.2;425.41;99.79
+10645;36;Mehmet-Tröja;Babywear;15;118.95;96.35;22.6
+10646;1;Lenin Jeansshorts;Mens Clothes;15;364.69;236.32;128.37
+10646;10;Sapporoo Gloves;Babywear;18;142.88;92.58;50.29
+10646;71;Atles Lussekofta;Mens Clothes;30;1125.0;729.0;396.0
+10646;77;Skirt;Womens wear;35;576.19;373.37;202.82
+10647;19;Squash Shorts;Sportwear;30;271.2;219.67;51.53
+10647;39;Terence Top;Womens wear;20;1264.0;1023.84;240.16
+10648;22;Ravellis Träskor;Womens Footwear;15;52.65;42.65;10.0
+10648;24;Samba Socker  Socks;Mens Clothes;15;83.66;58.93;24.74
+10649;28;RDL Suit;Childrens wear;20;948.6;768.37;180.23
+10649;72;Rossi Shorts;Bath Clothes;15;182.85;148.11;34.74
+10650;30;Baby Dark Lounge Suit;Babywear;30;825.3;668.49;156.81
+10650;53;Jumpin Jack Flash Dress;Womens wear;25;1635.38;1261.58;373.8
+10650;54;Patamonia Fleece Jacket;Sportwear;30;1060.5;859.0;201.5
+10651;19;Squash Shorts;Sportwear;12;137.25;94.83;42.42
+10651;22;Ravellis Träskor;Womens Footwear;20;88.75;57.51;31.24
+10652;30;Baby Dark Lounge Suit;Babywear;2;65.6;42.51;23.09
+10652;42;Balett Shoes;Womens Footwear;20;267.6;216.76;50.84
+10653;16;Wimbledon T-Shirt;Sportwear;30;329.01;242.27;86.74
+10653;60;Game Over T-Shirt;Sportwear;20;108.9;80.19;28.71
+10654;4;Oyaki Kimono;Womens wear;12;296.6;225.25;71.35
+10654;39;Terence Top;Womens wear;20;1397.88;1029.35;368.53
+10654;54;Patamonia Fleece Jacket;Sportwear;6;212.85;156.74;56.12
+10655;41;Duck Shirt;Babywear;20;251.28;169.61;81.67
+10656;14;Kool Sunglasses;Childrens wear;3;82.93;61.63;21.3
+10656;44;Okkaba Skin Jackets;Womens wear;28;2095.02;1542.69;552.32
+10656;47;Lundenhagen Boots;Mens Footwear;6;156.62;115.33;41.29
+10657;15;Sumi Underwear;Womens wear;50;313.5;253.94;59.56
+10657;41;Duck Shirt;Babywear;24;245.04;198.48;46.56
+10657;46;Rodbye Troje;Babywear;45;584.1;473.12;110.98
+10657;47;Lundenhagen Boots;Mens Footwear;10;253.2;205.09;48.11
+10657;56;High Heels Shoes;Womens Footwear;45;1809.45;1465.65;343.8
+10657;60;Game Over T-Shirt;Sportwear;30;144.6;117.13;27.47
+10658;21;Basket Shoes;Sportwear;60;582.0;471.42;110.58
+10658;40;Duck Trousers;Babywear;70;1462.65;1128.33;334.32
+10658;60;Game Over T-Shirt;Sportwear;55;265.65;204.93;60.72
+10658;77;Skirt;Womens wear;70;937.86;723.49;214.37
+10659;31;Rossi Bermuda Shorts;Bath Clothes;20;173.04;133.49;39.55
+10659;40;Duck Trousers;Babywear;24;490.14;378.11;112.03
+10659;70;US-Master Jeans;Mens Clothes;40;1098.72;847.58;251.14
+10660;20;Tennis Suit;Sportwear;21;1817.55;1472.22;345.33
+10661;39;Terence Top;Womens wear;3;236.27;159.48;76.79
+10661;58;Ga-Ga Dress;Babywear;49;3075.24;2075.79;999.45
+10662;68;Cap;Sportwear;10;129.1;104.57;24.53
+10663;40;Duck Trousers;Babywear;30;609.21;469.96;139.25
+10663;42;Balett Shoes;Womens Footwear;30;464.94;366.78;98.16
+10663;51;Snake Boots;Mens Footwear;20;2033.43;1568.65;464.78
+10664;10;Sapporoo Gloves;Babywear;24;189.06;133.16;55.9
+10664;56;High Heels Shoes;Womens Footwear;12;573.53;403.96;169.56
+10664;65;Stretch oui-pants;Womens wear;15;171.64;120.89;50.74
+10665;51;Snake Boots;Mens Footwear;20;1880.6;1523.29;357.31
+10665;59;Rasta WCT;Sportwear;1;8.03;6.5;1.53
+10665;76;Minnki Pälsii;Womens wear;10;3610.5;2924.5;686.0
+10666;29;Davenport;Mens Footwear;36;4708.8;3814.13;894.67
+10666;65;Stretch oui-pants;Womens wear;10;110.4;89.42;20.98
+10667;69;Racing Truck  Socks;Sportwear;45;116.64;78.73;37.91
+10667;71;Atles Lussekofta;Mens Clothes;14;522.65;352.79;169.86
+10668;31;Rossi Bermuda Shorts;Bath Clothes;8;71.9;52.94;18.95
+10668;55;Feiss Fleece Trousers;Sportwear;4;181.28;133.49;47.79
+10668;64;WFS shoes;Womens Footwear;15;596.81;461.11;135.69
+10669;36;Mehmet-Tröja;Babywear;30;241.8;195.86;45.94
+10670;23;DSW;Womens Footwear;32;274.88;222.65;52.23
+10670;46;Rodbye Troje;Babywear;60;745.8;667.45;78.35
+10670;67;X-Dress;Womens wear;25;1468.25;1189.28;278.97
+10670;73;Mehmet-Napp;Babywear;50;56.5;45.76;10.74
+10670;75;Bow tie;Mens Clothes;25;184.5;149.44;35.06
+10671;16;Wimbledon T-Shirt;Sportwear;10;101.0;81.81;19.19
+10671;62;Sheat Shoes;Sportwear;10;273.5;221.54;51.96
+10671;65;Stretch oui-pants;Womens wear;12;121.92;98.76;23.16
+10672;38;Le Baby Dress;Womens wear;15;1367.85;1094.8;273.05
+10672;71;Atles Lussekofta;Mens Clothes;12;389.64;315.61;74.03
+10673;16;Wimbledon T-Shirt;Sportwear;3;29.01;23.5;5.51
+10673;42;Balett Shoes;Womens Footwear;6;81.18;65.76;15.42
+10673;43;Summer Shorts;Bath Clothes;6;74.34;63.98;10.36
+10674;23;DSW;Womens Footwear;5;48.55;39.33;9.22
+10675;14;Kool Sunglasses;Childrens wear;30;653.7;529.5;124.2
+10675;53;Jumpin Jack Flash Dress;Womens wear;10;661.8;536.06;125.74
+10675;58;Ga-Ga Dress;Babywear;30;1337.7;1083.54;254.16
+10676;10;Sapporoo Gloves;Babywear;2;12.96;10.5;2.46
+10676;19;Squash Shorts;Sportwear;7;67.55;56.09;11.46
+10676;44;Okkaba Skin Jackets;Womens wear;21;1565.76;1268.27;297.49
+10677;26;Bike Helmet;Sportwear;30;1158.51;815.99;342.52
+10677;33;Car Boots;Sportwear;8;243.89;171.78;72.11
+10678;12;Tiny Winy Hot Bikini;Bath Clothes;100;960.0;777.6;182.4
+10678;33;Car Boots;Sportwear;30;756.0;612.36;143.64
+10678;41;Duck Shirt;Babywear;120;1215.6;984.64;230.96
+10678;54;Patamonia Fleece Jacket;Sportwear;30;1074.3;870.18;204.12
+10679;59;Rasta WCT;Sportwear;12;102.12;82.72;19.4
+10680;16;Wimbledon T-Shirt;Sportwear;50;533.13;345.46;187.66
+10680;31;Rossi Bermuda Shorts;Bath Clothes;20;195.25;126.52;68.73
+10680;42;Balett Shoes;Womens Footwear;40;693.5;449.39;244.11
+10681;19;Squash Shorts;Sportwear;30;319.77;256.18;63.59
+10681;21;Basket Shoes;Sportwear;12;122.36;90.1;32.26
+10681;64;WFS shoes;Womens Footwear;28;899.36;728.48;170.88
+10682;33;Car Boots;Sportwear;30;764.1;618.92;145.18
+10682;66;Langoste Shirt;Womens wear;4;74.16;60.07;14.09
+10682;75;Bow tie;Mens Clothes;30;247.5;200.48;47.02
+10683;52;Small Crocodile Boots;Womens Footwear;9;688.41;557.61;130.8
+10684;40;Duck Trousers;Babywear;20;364.8;295.49;69.31
+10684;47;Lundenhagen Boots;Mens Footwear;40;1051.6;851.8;199.8
+10684;60;Game Over T-Shirt;Sportwear;30;164.7;133.41;31.29
+10685;10;Sapporoo Gloves;Babywear;20;150.6;121.99;28.61
+10685;41;Duck Shirt;Babywear;4;36.84;29.84;7.0
+10685;47;Lundenhagen Boots;Mens Footwear;15;375.3;303.99;71.31
+10686;17;TieBreak Tennis shoes;Mens Footwear;30;813.6;549.18;264.42
+10686;26;Bike Helmet;Sportwear;15;443.25;359.03;84.22
+10687;9;Fuji Boots;Mens Footwear;50;2573.13;1667.38;905.74
+10687;29;Davenport;Mens Footwear;10;1321.2;1070.17;251.03
+10687;36;Mehmet-Tröja;Babywear;6;58.05;37.62;20.43
+10688;10;Sapporoo Gloves;Babywear;18;140.18;103.23;36.96
+10688;28;RDL Suit;Childrens wear;60;2856.48;2103.41;753.07
+10688;34;Baywatch Bikkini;Bath Clothes;14;111.86;90.61;21.25
+10689;1;Lenin Jeansshorts;Mens Clothes;35;804.13;521.07;283.05
+10690;56;High Heels Shoes;Womens Footwear;20;1026.25;665.01;361.24
+10690;77;Skirt;Womens wear;30;502.5;325.62;176.88
+10691;1;Lenin Jeansshorts;Mens Clothes;30;639.0;517.59;121.41
+10691;29;Davenport;Mens Footwear;40;4824.8;3908.09;916.71
+10691;43;Summer Shorts;Bath Clothes;40;457.6;370.66;86.94
+10691;44;Okkaba Skin Jackets;Womens wear;24;1781.04;1442.64;338.4
+10691;62;Sheat Shoes;Sportwear;48;1326.24;1074.25;251.99
+10692;63;Serve-Shirt;Womens wear;20;385.0;322.99;62.01
+10693;9;Fuji Boots;Mens Footwear;6;211.8;182.43;29.37
+10693;54;Patamonia Fleece Jacket;Sportwear;60;2555.76;1800.14;755.62
+10693;69;Racing Truck  Socks;Sportwear;30;74.87;52.73;22.13
+10693;73;Mehmet-Napp;Babywear;15;20.36;14.34;6.02
+10694;7;Conserve Shoes;Childrens wear;90;3359.7;2721.36;638.34
+10694;59;Rasta WCT;Sportwear;25;202.5;164.02;38.48
+10694;70;US-Master Jeans;Mens Clothes;50;1350.5;1093.9;256.6
+10695;8;Tuxedo;Womens wear;10;182.0;147.42;34.58
+10695;12;Tiny Winy Hot Bikini;Bath Clothes;4;39.28;31.82;7.46
+10695;24;Samba Socker  Socks;Mens Clothes;20;98.4;79.7;18.7
+10696;17;TieBreak Tennis shoes;Mens Footwear;20;509.6;412.78;96.82
+10696;46;Rodbye Troje;Babywear;18;216.36;175.25;41.11
+10697;19;Squash Shorts;Sportwear;7;73.68;47.74;25.93
+10697;35;LA. Shorts;Bath Clothes;9;67.61;43.81;23.8
+10697;58;Ga-Ga Dress;Babywear;30;1641.75;1063.85;577.9
+10697;70;US-Master Jeans;Mens Clothes;30;1040.63;674.32;366.3
+10698;11;Desperado Jeans;Mens Clothes;15;392.55;348.32;44.23
+10698;17;TieBreak Tennis shoes;Mens Footwear;8;201.35;155.33;46.02
+10698;29;Davenport;Mens Footwear;12;1570.84;1211.79;359.05
+10698;65;Stretch oui-pants;Womens wear;65;687.96;530.71;157.25
+10698;70;US-Master Jeans;Mens Clothes;8;250.91;193.56;57.35
+10699;47;Lundenhagen Boots;Mens Footwear;12;286.56;232.11;54.45
+10700;1;Lenin Jeansshorts;Mens Clothes;5;121.86;82.26;39.6
+10700;34;Baywatch Bikkini;Bath Clothes;12;125.86;84.95;40.9
+10700;68;Cap;Sportwear;40;649.44;438.37;211.07
+10700;71;Atles Lussekofta;Mens Clothes;60;2067.84;1395.79;672.05
+10701;59;Rasta WCT;Sportwear;42;420.69;296.31;124.38
+10701;71;Atles Lussekofta;Mens Clothes;20;739.68;520.99;218.69
+10701;76;Minnki Pälsii;Womens wear;35;14456.19;10182.19;4274.0
+10702;3;Chantell Shirt;Womens wear;6;120.96;97.98;22.98
+10702;76;Minnki Pälsii;Womens wear;15;6430.35;5208.58;1221.77
+10703;2;Mr X Trousers;Mens Clothes;5;92.8;75.17;17.63
+10703;59;Rasta WCT;Sportwear;35;310.8;251.75;59.05
+10703;73;Mehmet-Napp;Babywear;35;38.15;30.9;7.25
+10704;4;Oyaki Kimono;Womens wear;6;144.84;117.32;27.52
+10704;24;Samba Socker  Socks;Mens Clothes;35;160.3;129.84;30.46
+10704;48;Root Boot;Mens Footwear;24;712.08;576.78;135.3
+10705;31;Rossi Bermuda Shorts;Bath Clothes;20;183.0;148.23;34.77
+10705;32;Rossi Bikkini;Bath Clothes;4;78.72;69.11;9.61
+10706;16;Wimbledon T-Shirt;Sportwear;20;179.2;145.15;34.05
+10706;43;Summer Shorts;Bath Clothes;24;281.76;228.23;53.53
+10706;59;Rasta WCT;Sportwear;8;68.24;55.27;12.97
+10707;55;Feiss Fleece Trousers;Sportwear;21;878.01;711.19;166.82
+10707;57;Burned Rubber Shoes;Womens Footwear;40;764.4;619.16;145.24
+10707;70;US-Master Jeans;Mens Clothes;28;953.76;671.78;281.98
+10708;5;O-Man Underwear;Mens Clothes;4;21.64;17.53;4.11
+10708;36;Mehmet-Tröja;Babywear;5;41.9;33.94;7.96
+10709;8;Tuxedo;Womens wear;40;813.2;658.69;154.51
+10709;51;Snake Boots;Mens Footwear;28;2561.44;2074.77;486.67
+10709;60;Game Over T-Shirt;Sportwear;10;49.1;39.77;9.33
+10710;19;Squash Shorts;Sportwear;5;42.25;34.22;8.03
+10710;47;Lundenhagen Boots;Mens Footwear;5;131.55;106.56;24.99
+10711;19;Squash Shorts;Sportwear;12;105.24;92.95;12.29
+10711;41;Duck Shirt;Babywear;42;393.96;319.11;74.85
+10711;53;Jumpin Jack Flash Dress;Womens wear;120;7548.0;6113.88;1434.12
+10712;53;Jumpin Jack Flash Dress;Womens wear;3;185.54;148.94;36.6
+10712;56;High Heels Shoes;Womens Footwear;30;1068.6;865.57;203.03
+10713;10;Sapporoo Gloves;Babywear;18;116.28;94.19;22.09
+10713;26;Bike Helmet;Sportwear;30;941.7;762.78;178.92
+10713;45;Danske Treshoe;Mens Footwear;110;1129.7;989.46;140.24
+10713;46;Rodbye Troje;Babywear;24;273.84;221.81;52.03
+10714;2;Mr X Trousers;Mens Clothes;30;653.25;423.31;229.94
+10714;17;TieBreak Tennis shoes;Mens Footwear;27;816.41;529.04;287.38
+10714;47;Lundenhagen Boots;Mens Footwear;50;1746.88;1131.97;614.9
+10714;56;High Heels Shoes;Womens Footwear;18;775.8;502.72;273.08
+10714;58;Ga-Ga Dress;Babywear;12;651.9;422.43;229.47
+10715;10;Sapporoo Gloves;Babywear;21;137.76;111.59;26.17
+10715;71;Atles Lussekofta;Mens Clothes;30;953.7;772.5;181.2
+10716;21;Basket Shoes;Sportwear;5;48.7;39.45;9.25
+10716;51;Snake Boots;Mens Footwear;7;730.52;591.72;138.8
+10716;61;Adihash Running Shoe;Sportwear;10;255.7;229.53;26.17
+10717;21;Basket Shoes;Sportwear;32;339.7;262.05;77.64
+10717;54;Patamonia Fleece Jacket;Sportwear;15;523.65;424.16;99.49
+10717;69;Racing Truck  Socks;Sportwear;25;50.14;38.68;11.46
+10718;12;Tiny Winy Hot Bikini;Bath Clothes;36;363.96;294.81;69.15
+10718;16;Wimbledon T-Shirt;Sportwear;20;181.4;146.93;34.47
+10718;36;Mehmet-Tröja;Babywear;40;314.0;254.34;59.66
+10718;62;Sheat Shoes;Sportwear;20;603.2;488.59;114.61
+10719;18;Deuce shirt;Babywear;12;408.45;264.68;143.77
+10719;30;Baby Dark Lounge Suit;Babywear;3;100.65;70.16;30.49
+10719;54;Patamonia Fleece Jacket;Sportwear;40;1712.5;1109.7;602.8
+10720;35;LA. Shorts;Bath Clothes;21;138.18;111.93;26.25
+10720;71;Atles Lussekofta;Mens Clothes;8;238.24;192.97;45.27
+10721;44;Okkaba Skin Jackets;Womens wear;50;3967.43;3060.58;906.84
+10722;2;Mr X Trousers;Mens Clothes;3;58.41;47.31;11.1
+10722;31;Rossi Bermuda Shorts;Bath Clothes;50;392.5;317.92;74.58
+10722;68;Cap;Sportwear;45;527.85;432.47;95.38
+10722;75;Bow tie;Mens Clothes;42;309.12;250.39;58.73
+10723;26;Bike Helmet;Sportwear;15;480.75;389.41;91.34
+10724;10;Sapporoo Gloves;Babywear;16;123.04;99.66;23.38
+10724;61;Adihash Running Shoe;Sportwear;5;134.1;108.62;25.48
+10725;41;Duck Shirt;Babywear;12;123.36;99.92;23.44
+10725;52;Small Crocodile Boots;Womens Footwear;4;290.84;235.58;55.26
+10725;55;Feiss Fleece Trousers;Sportwear;6;249.6;202.18;47.42
+10726;4;Oyaki Kimono;Womens wear;25;565.5;458.06;107.44
+10726;11;Desperado Jeans;Mens Clothes;5;146.95;119.03;27.92
+10727;17;TieBreak Tennis shoes;Mens Footwear;20;577.08;445.28;131.8
+10727;56;High Heels Shoes;Womens Footwear;10;435.44;335.91;99.53
+10727;59;Rasta WCT;Sportwear;10;86.63;66.82;19.8
+10728;30;Baby Dark Lounge Suit;Babywear;15;356.25;288.56;67.69
+10728;40;Duck Trousers;Babywear;6;106.92;86.61;20.31
+10728;55;Feiss Fleece Trousers;Sportwear;12;450.84;365.18;85.66
+10728;60;Game Over T-Shirt;Sportwear;15;79.95;64.76;15.19
+10729;1;Lenin Jeansshorts;Mens Clothes;50;1026.0;831.06;194.94
+10729;21;Basket Shoes;Sportwear;30;284.7;230.61;54.09
+10729;50;Finnish Swimsuit;Sportwear;40;660.4;534.92;125.48
+10730;16;Wimbledon T-Shirt;Sportwear;15;137.81;106.31;31.5
+10730;31;Rossi Bermuda Shorts;Bath Clothes;3;27.47;21.19;6.28
+10730;65;Stretch oui-pants;Womens wear;10;95.13;73.39;21.74
+10731;21;Basket Shoes;Sportwear;40;412.02;317.84;94.18
+10731;51;Snake Boots;Mens Footwear;30;2959.74;2283.23;676.51
+10732;76;Minnki Pälsii;Womens wear;20;8250.0;6682.5;1567.5
+10733;14;Kool Sunglasses;Childrens wear;16;348.32;282.14;66.18
+10733;28;RDL Suit;Childrens wear;20;998.8;809.03;189.77
+10733;52;Small Crocodile Boots;Womens Footwear;25;2147.5;1739.48;408.02
+10734;6;Shagall Socks;Womens wear;30;120.9;97.93;22.97
+10734;30;Baby Dark Lounge Suit;Babywear;15;351.3;287.07;64.23
+10734;76;Minnki Pälsii;Womens wear;20;8252.4;6862.1;1390.3
+10735;61;Adihash Running Shoe;Sportwear;20;570.46;420.07;150.39
+10735;77;Skirt;Womens wear;2;27.61;20.33;7.28
+10736;65;Stretch oui-pants;Womens wear;40;374.0;302.94;71.06
+10736;75;Bow tie;Mens Clothes;20;151.0;122.31;28.69
+10737;13;Aino Shoes;Babywear;4;102.24;83.84;18.4
+10737;41;Duck Shirt;Babywear;12;121.44;98.37;23.07
+10738;16;Wimbledon T-Shirt;Sportwear;3;25.98;21.04;4.94
+10739;36;Mehmet-Tröja;Babywear;6;44.76;36.26;8.5
+10739;52;Small Crocodile Boots;Womens Footwear;18;1431.72;1159.69;272.03
+10740;28;RDL Suit;Childrens wear;5;252.66;170.55;82.11
+10740;35;LA. Shorts;Bath Clothes;35;252.0;170.1;81.9
+10740;45;Danske Treshoe;Mens Footwear;40;447.84;302.29;145.55
+10740;56;High Heels Shoes;Womens Footwear;14;665.95;449.52;216.43
+10741;2;Mr X Trousers;Mens Clothes;15;324.54;219.06;105.48
+10742;3;Chantell Shirt;Womens wear;20;394.0;319.14;74.86
+10742;60;Game Over T-Shirt;Sportwear;50;267.5;216.68;50.82
+10742;72;Rossi Shorts;Bath Clothes;35;393.75;344.67;49.08
+10743;46;Rodbye Troje;Babywear;28;383.08;295.52;87.56
+10744;40;Duck Trousers;Babywear;50;1187.4;801.5;385.9
+10745;18;Deuce shirt;Babywear;24;659.04;533.82;125.22
+10745;44;Okkaba Skin Jackets;Womens wear;16;1146.08;928.32;217.76
+10745;59;Rasta WCT;Sportwear;45;391.05;316.75;74.3
+10745;72;Rossi Shorts;Bath Clothes;7;85.12;68.95;16.17
+10746;13;Aino Shoes;Babywear;6;144.48;117.03;27.45
+10746;42;Balett Shoes;Womens Footwear;28;416.36;337.25;79.11
+10746;62;Sheat Shoes;Sportwear;9;256.32;207.62;48.7
+10746;69;Racing Truck  Socks;Sportwear;40;82.8;67.07;15.73
+10747;31;Rossi Bermuda Shorts;Bath Clothes;8;65.92;53.4;12.52
+10747;41;Duck Shirt;Babywear;35;316.75;256.57;60.18
+10747;63;Serve-Shirt;Womens wear;9;184.5;149.44;35.06
+10747;69;Racing Truck  Socks;Sportwear;30;63.9;51.76;12.14
+10748;23;DSW;Womens Footwear;44;419.76;340.01;79.75
+10748;40;Duck Trousers;Babywear;40;720.4;609.95;110.45
+10748;56;High Heels Shoes;Womens Footwear;28;1034.88;838.25;196.63
+10749;56;High Heels Shoes;Womens Footwear;15;612.15;495.84;116.31
+10749;59;Rasta WCT;Sportwear;6;52.8;42.77;10.03
+10749;76;Minnki Pälsii;Womens wear;10;4192.3;3395.76;796.54
+10750;14;Kool Sunglasses;Childrens wear;5;125.18;88.17;37.01
+10750;45;Danske Treshoe;Mens Footwear;40;405.72;285.77;119.95
+10750;59;Rasta WCT;Sportwear;25;260.19;183.26;76.92
+10751;26;Bike Helmet;Sportwear;12;402.2;296.17;106.04
+10751;30;Baby Dark Lounge Suit;Babywear;30;708.3;573.72;134.58
+10751;50;Finnish Swimsuit;Sportwear;20;330.44;243.32;87.12
+10751;73;Mehmet-Napp;Babywear;15;15.6;12.64;2.96
+10752;1;Lenin Jeansshorts;Mens Clothes;8;144.16;116.77;27.39
+10752;69;Racing Truck  Socks;Sportwear;3;6.57;5.32;1.25
+10753;45;Danske Treshoe;Mens Footwear;4;35.88;29.06;6.82
+10753;74;Nikee Running Shoes;Childrens wear;5;163.8;132.68;31.12
+10754;40;Duck Trousers;Babywear;3;51.63;41.82;9.81
+10755;47;Lundenhagen Boots;Mens Footwear;30;1044.75;677.0;367.75
+10755;56;High Heels Shoes;Womens Footwear;30;1558.5;1110.58;447.92
+10755;57;Burned Rubber Shoes;Womens Footwear;14;359.1;232.7;126.4
+10755;69;Racing Truck  Socks;Sportwear;25;62.19;40.3;21.89
+10756;18;Deuce shirt;Babywear;21;643.61;473.59;170.02
+10756;36;Mehmet-Tröja;Babywear;20;177.84;120.04;57.8
+10756;68;Cap;Sportwear;6;83.52;56.38;27.14
+10756;69;Racing Truck  Socks;Sportwear;20;51.6;34.83;16.77
+10757;34;Baywatch Bikkini;Bath Clothes;30;232.5;188.32;44.18
+10757;59;Rasta WCT;Sportwear;7;54.74;44.34;10.4
+10757;62;Sheat Shoes;Sportwear;30;838.8;679.43;159.37
+10757;64;WFS shoes;Womens Footwear;24;848.4;732.57;115.83
+10758;26;Bike Helmet;Sportwear;20;577.4;499.84;77.56
+10758;52;Small Crocodile Boots;Womens Footwear;60;4579.2;3709.15;870.05
+10758;70;US-Master Jeans;Mens Clothes;40;1230.0;996.3;233.7
+10759;32;Rossi Bikkini;Bath Clothes;10;198.5;160.78;37.72
+10760;25;Basket Vest;Sportwear;12;192.0;129.2;62.8
+10760;27;Tracksuit;Sportwear;40;1592.0;1375.61;216.39
+10760;43;Summer Shorts;Bath Clothes;30;464.25;300.83;163.42
+10761;25;Basket Vest;Sportwear;35;622.56;403.42;219.14
+10761;75;Bow tie;Mens Clothes;18;136.98;110.95;26.03
+10762;39;Terence Top;Womens wear;16;875.2;708.91;166.29
+10762;47;Lundenhagen Boots;Mens Footwear;30;703.5;569.84;133.66
+10762;51;Snake Boots;Mens Footwear;28;2742.6;2221.51;521.09
+10762;56;High Heels Shoes;Womens Footwear;60;2187.6;1771.96;415.64
+10763;21;Basket Shoes;Sportwear;40;423.6;343.12;80.48
+10763;22;Ravellis Träskor;Womens Footwear;6;21.96;17.79;4.17
+10763;24;Samba Socker  Socks;Mens Clothes;20;87.4;70.79;16.61
+10764;3;Chantell Shirt;Womens wear;20;440.0;324.0;116.0
+10764;39;Terence Top;Womens wear;130;7797.79;5742.01;2055.78
+10765;65;Stretch oui-pants;Womens wear;80;842.16;620.14;222.02
+10766;2;Mr X Trousers;Mens Clothes;40;788.0;677.6;110.4
+10766;7;Conserve Shoes;Childrens wear;35;1318.8;1068.23;250.57
+10766;68;Cap;Sportwear;40;464.4;376.16;88.24
+10767;42;Balett Shoes;Womens Footwear;2;26.7;21.63;5.07
+10768;22;Ravellis Träskor;Womens Footwear;4;13.68;11.08;2.6
+10768;31;Rossi Bermuda Shorts;Bath Clothes;50;423.0;348.12;74.88
+10768;60;Game Over T-Shirt;Sportwear;15;68.85;55.77;13.08
+10768;71;Atles Lussekofta;Mens Clothes;12;381.12;308.71;72.41
+10769;41;Duck Shirt;Babywear;30;283.19;218.46;64.73
+10769;52;Small Crocodile Boots;Womens Footwear;15;1284.41;990.83;293.58
+10769;61;Adihash Running Shoe;Sportwear;20;542.2;439.18;103.02
+10769;62;Sheat Shoes;Sportwear;15;462.45;374.58;87.87
+10770;11;Desperado Jeans;Mens Clothes;15;476.25;308.61;167.64
+10771;71;Atles Lussekofta;Mens Clothes;16;486.88;394.37;92.51
+10772;29;Davenport;Mens Footwear;18;2206.44;1787.22;419.22
+10772;59;Rasta WCT;Sportwear;25;208.5;168.88;39.62
+10773;17;TieBreak Tennis shoes;Mens Footwear;33;856.02;693.38;162.64
+10773;31;Rossi Bermuda Shorts;Bath Clothes;70;761.88;514.27;247.61
+10773;75;Bow tie;Mens Clothes;7;61.82;41.73;20.09
+10774;31;Rossi Bermuda Shorts;Bath Clothes;2;19.7;12.77;6.93
+10774;66;Langoste Shirt;Womens wear;50;923.0;747.63;175.37
+10775;10;Sapporoo Gloves;Babywear;6;38.82;31.66;7.16
+10775;67;X-Dress;Womens wear;3;171.03;138.53;32.5
+10776;31;Rossi Bermuda Shorts;Bath Clothes;16;133.56;110.56;23.0
+10776;42;Balett Shoes;Womens Footwear;12;186.73;144.05;42.68
+10776;45;Danske Treshoe;Mens Footwear;27;258.27;199.24;59.03
+10776;51;Snake Boots;Mens Footwear;120;11665.08;8998.78;2666.3
+10777;42;Balett Shoes;Womens Footwear;20;360.96;243.65;117.31
+10778;41;Duck Shirt;Babywear;10;90.6;73.39;17.21
+10779;16;Wimbledon T-Shirt;Sportwear;20;192.0;155.52;36.48
+10779;62;Sheat Shoes;Sportwear;20;604.6;502.31;102.29
+10780;70;US-Master Jeans;Mens Clothes;35;1005.9;814.78;191.12
+10780;77;Skirt;Womens wear;15;186.45;151.02;35.43
+10781;54;Patamonia Fleece Jacket;Sportwear;3;136.19;91.93;44.26
+10781;56;High Heels Shoes;Womens Footwear;20;977.04;659.5;317.54
+10781;74;Nikee Running Shoes;Childrens wear;35;1043.7;845.4;198.3
+10782;31;Rossi Bermuda Shorts;Bath Clothes;1;8.19;6.63;1.56
+10783;31;Rossi Bermuda Shorts;Bath Clothes;10;81.6;66.1;15.5
+10783;38;Le Baby Dress;Womens wear;5;372.25;313.8;58.45
+10784;36;Mehmet-Tröja;Babywear;30;238.2;192.94;45.26
+10784;39;Terence Top;Womens wear;2;141.04;99.34;41.7
+10784;72;Rossi Shorts;Bath Clothes;30;387.44;272.89;114.55
+10785;10;Sapporoo Gloves;Babywear;10;64.2;52.0;12.2
+10785;75;Bow tie;Mens Clothes;10;80.4;65.12;15.28
+10786;8;Tuxedo;Womens wear;30;662.4;447.12;215.28
+10786;30;Baby Dark Lounge Suit;Babywear;15;503.46;339.84;163.62
+10786;75;Bow tie;Mens Clothes;42;352.8;238.14;114.66
+10787;2;Mr X Trousers;Mens Clothes;15;301.3;251.15;50.14
+10787;29;Davenport;Mens Footwear;20;2642.01;2038.12;603.89
+10788;19;Squash Shorts;Sportwear;50;499.28;385.16;114.12
+10788;75;Bow tie;Mens Clothes;40;351.54;271.19;80.35
+10789;18;Deuce shirt;Babywear;30;696.0;594.76;101.24
+10789;35;LA. Shorts;Bath Clothes;15;87.9;71.2;16.7
+10789;63;Serve-Shirt;Womens wear;30;572.1;463.4;108.7
+10789;68;Cap;Sportwear;18;224.82;182.1;42.72
+10790;7;Conserve Shoes;Childrens wear;3;134.21;94.53;39.68
+10790;56;High Heels Shoes;Womens Footwear;20;838.12;590.33;247.79
+10791;29;Davenport;Mens Footwear;14;1692.56;1305.69;386.87
+10791;41;Duck Shirt;Babywear;20;202.23;160.82;41.41
+10792;2;Mr X Trousers;Mens Clothes;10;191.7;155.28;36.42
+10792;54;Patamonia Fleece Jacket;Sportwear;3;113.7;92.1;21.6
+10792;68;Cap;Sportwear;15;189.9;153.82;36.08
+10793;41;Duck Shirt;Babywear;14;125.86;101.95;23.91
+10793;52;Small Crocodile Boots;Womens Footwear;8;675.92;547.5;128.42
+10794;14;Kool Sunglasses;Childrens wear;15;432.0;291.6;140.4
+10794;54;Patamonia Fleece Jacket;Sportwear;6;239.4;161.6;77.81
+10795;16;Wimbledon T-Shirt;Sportwear;65;668.2;541.24;126.96
+10795;17;TieBreak Tennis shoes;Mens Footwear;35;1029.88;667.36;362.52
+10796;26;Bike Helmet;Sportwear;21;710.39;505.04;205.35
+10796;44;Okkaba Skin Jackets;Womens wear;10;713.9;578.26;135.64
+10796;64;WFS shoes;Womens Footwear;35;1524.18;1028.82;495.36
+10796;69;Racing Truck  Socks;Sportwear;24;60.77;41.02;19.75
+10797;11;Desperado Jeans;Mens Clothes;20;584.2;473.2;111.0
+10798;62;Sheat Shoes;Sportwear;2;56.52;45.78;10.74
+10798;72;Rossi Shorts;Bath Clothes;10;118.0;95.58;22.42
+10799;13;Aino Shoes;Babywear;20;532.91;375.35;157.56
+10799;24;Samba Socker  Socks;Mens Clothes;20;105.11;74.03;31.08
+10799;59;Rasta WCT;Sportwear;25;227.25;184.07;43.18
+10800;11;Desperado Jeans;Mens Clothes;50;1600.5;1178.55;421.95
+10800;51;Snake Boots;Mens Footwear;10;1104.18;828.62;275.56
+10800;54;Patamonia Fleece Jacket;Sportwear;7;249.1;183.42;65.67
+10801;17;TieBreak Tennis shoes;Mens Footwear;40;1247.0;808.06;438.94
+10801;29;Davenport;Mens Footwear;20;3298.5;2137.43;1161.07
+10802;30;Baby Dark Lounge Suit;Babywear;25;812.19;574.14;238.05
+10802;51;Snake Boots;Mens Footwear;30;4031.63;2612.49;1419.13
+10802;55;Feiss Fleece Trousers;Sportwear;60;2872.5;1861.38;1011.12
+10802;62;Sheat Shoes;Sportwear;5;175.31;114.08;61.23
+10803;19;Squash Shorts;Sportwear;24;233.86;180.4;53.45
+10803;25;Basket Vest;Sportwear;15;223.18;172.17;51.01
+10803;59;Rasta WCT;Sportwear;15;130.1;100.36;29.74
+10804;10;Sapporoo Gloves;Babywear;36;255.6;207.04;48.56
+10804;28;RDL Suit;Childrens wear;24;1090.32;883.16;207.16
+10804;49;Finnish Sport Blades;Sportwear;4;86.71;61.07;25.64
+10805;34;Baywatch Bikkini;Bath Clothes;10;77.0;62.37;14.63
+10805;38;Le Baby Dress;Womens wear;10;848.9;687.61;161.29
+10806;2;Mr X Trousers;Mens Clothes;20;476.5;308.77;167.73
+10806;65;Stretch oui-pants;Womens wear;2;18.94;15.34;3.6
+10806;74;Nikee Running Shoes;Childrens wear;15;540.56;350.28;190.28
+10807;40;Duck Trousers;Babywear;1;20.11;17.41;2.7
+10808;56;High Heels Shoes;Womens Footwear;20;894.24;629.86;264.38
+10808;76;Minnki Pälsii;Womens wear;50;21077.2;14845.68;6231.52
+10809;52;Small Crocodile Boots;Womens Footwear;20;1454.8;1178.39;276.41
+10810;13;Aino Shoes;Babywear;7;173.32;140.39;32.93
+10810;25;Basket Vest;Sportwear;5;67.15;54.39;12.76
+10810;70;US-Master Jeans;Mens Clothes;5;132.45;107.28;25.17
+10811;19;Squash Shorts;Sportwear;15;141.9;114.94;26.96
+10811;23;DSW;Womens Footwear;18;178.2;144.34;33.86
+10811;40;Duck Trousers;Babywear;30;523.8;424.28;99.52
+10812;31;Rossi Bermuda Shorts;Bath Clothes;16;155.76;122.27;33.49
+10812;72;Rossi Shorts;Bath Clothes;40;551.32;405.97;145.35
+10812;77;Skirt;Womens wear;20;275.2;222.91;52.29
+10813;2;Mr X Trousers;Mens Clothes;12;251.28;169.61;81.67
+10813;46;Rodbye Troje;Babywear;35;419.65;339.92;79.73
+10814;41;Duck Shirt;Babywear;20;177.6;143.86;33.74
+10814;43;Summer Shorts;Bath Clothes;20;283.36;199.58;83.78
+10814;48;Root Boot;Mens Footwear;8;304.52;214.49;90.03
+10814;61;Adihash Running Shoe;Sportwear;30;936.68;659.74;276.93
+10815;33;Car Boots;Sportwear;16;447.36;362.36;85.0
+10816;38;Le Baby Dress;Womens wear;30;2774.21;2140.1;634.1
+10816;62;Sheat Shoes;Sportwear;20;622.44;480.17;142.27
+10817;26;Bike Helmet;Sportwear;40;1378.16;970.7;407.46
+10817;38;Le Baby Dress;Womens wear;30;2451.9;1986.04;465.86
+10817;40;Duck Trousers;Babywear;60;1247.52;878.69;368.83
+10817;62;Sheat Shoes;Sportwear;25;777.69;547.76;229.92
+10818;32;Rossi Bikkini;Bath Clothes;20;410.4;365.83;44.57
+10818;41;Duck Shirt;Babywear;20;206.0;166.86;39.14
+10819;43;Summer Shorts;Bath Clothes;7;79.59;64.47;15.12
+10819;75;Bow tie;Mens Clothes;20;145.6;117.94;27.66
+10820;56;High Heels Shoes;Womens Footwear;30;1200.6;972.49;228.11
+10821;35;LA. Shorts;Bath Clothes;20;117.0;94.77;22.23
+10821;51;Snake Boots;Mens Footwear;6;630.9;511.03;119.87
+10822;62;Sheat Shoes;Sportwear;3;88.29;76.78;11.51
+10822;70;US-Master Jeans;Mens Clothes;6;180.78;146.43;34.35
+10823;11;Desperado Jeans;Mens Clothes;20;666.82;491.02;175.8
+10823;57;Burned Rubber Shoes;Womens Footwear;15;312.3;252.96;59.34
+10823;59;Rasta WCT;Sportwear;40;392.04;314.34;77.7
+10823;77;Skirt;Womens wear;15;216.32;173.45;42.87
+10824;41;Duck Shirt;Babywear;12;104.4;92.08;12.32
+10824;70;US-Master Jeans;Mens Clothes;9;278.91;263.49;15.42
+10825;26;Bike Helmet;Sportwear;12;342.6;302.17;40.43
+10825;53;Jumpin Jack Flash Dress;Womens wear;20;1328.8;1172.0;156.8
+10826;31;Rossi Bermuda Shorts;Bath Clothes;35;310.1;273.51;36.59
+10826;57;Burned Rubber Shoes;Womens Footwear;15;280.95;247.8;33.15
+10827;10;Sapporoo Gloves;Babywear;15;99.3;87.58;11.72
+10827;39;Terence Top;Womens wear;21;1141.98;1007.23;134.75
+10828;20;Tennis Suit;Sportwear;5;409.35;361.05;48.3
+10828;38;Le Baby Dress;Womens wear;2;150.96;133.15;17.81
+10829;2;Mr X Trousers;Mens Clothes;10;201.1;177.37;23.73
+10829;8;Tuxedo;Womens wear;20;395.4;348.74;46.66
+10829;13;Aino Shoes;Babywear;10;264.3;233.11;31.19
+10829;60;Game Over T-Shirt;Sportwear;21;112.98;99.65;13.33
+10830;6;Shagall Socks;Womens wear;6;23.82;21.01;2.81
+10830;39;Terence Top;Womens wear;28;1522.36;1342.72;179.64
+10830;60;Game Over T-Shirt;Sportwear;30;159.3;140.5;18.8
+10830;68;Cap;Sportwear;24;316.08;298.96;17.12
+10831;19;Squash Shorts;Sportwear;2;20.18;17.8;2.38
+10831;35;LA. Shorts;Bath Clothes;8;45.12;39.8;5.32
+10831;38;Le Baby Dress;Womens wear;8;686.8;605.76;81.04
+10831;43;Summer Shorts;Bath Clothes;9;113.94;109.1;4.84
+10832;13;Aino Shoes;Babywear;3;92.16;67.74;24.42
+10832;25;Basket Vest;Sportwear;10;165.6;121.72;43.88
+10832;44;Okkaba Skin Jackets;Womens wear;16;1308.29;961.59;346.7
+10832;64;WFS shoes;Womens Footwear;3;99.18;87.48;11.7
+10833;7;Conserve Shoes;Childrens wear;20;892.76;715.83;176.93
+10833;31;Rossi Bermuda Shorts;Bath Clothes;9;87.42;71.43;15.99
+10833;53;Jumpin Jack Flash Dress;Womens wear;9;600.63;481.6;119.03
+10834;29;Davenport;Mens Footwear;8;1124.09;968.05;156.04
+10834;30;Baby Dark Lounge Suit;Babywear;20;511.77;458.82;52.95
+10835;59;Rasta WCT;Sportwear;15;120.6;114.67;5.93
+10835;77;Skirt;Womens wear;2;29.52;21.7;7.82
+10836;22;Ravellis Träskor;Womens Footwear;52;184.08;162.36;21.72
+10836;35;LA. Shorts;Bath Clothes;6;38.28;35.1;3.18
+10836;57;Burned Rubber Shoes;Womens Footwear;24;462.48;407.91;54.57
+10836;60;Game Over T-Shirt;Sportwear;60;279.6;246.61;32.99
+10836;64;WFS shoes;Womens Footwear;30;948.9;836.93;111.97
+10837;13;Aino Shoes;Babywear;6;148.08;130.61;17.47
+10837;40;Duck Trousers;Babywear;25;450.25;402.56;47.69
+10837;47;Lundenhagen Boots;Mens Footwear;40;1356.0;956.79;399.21
+10837;76;Minnki Pälsii;Womens wear;21;10140.9;7155.42;2985.48
+10838;1;Lenin Jeansshorts;Mens Clothes;4;102.6;72.39;30.21
+10838;18;Deuce shirt;Babywear;25;875.0;617.4;257.6
+10838;36;Mehmet-Tröja;Babywear;50;476.88;336.48;140.39
+10839;58;Ga-Ga Dress;Babywear;30;1593.57;1277.75;315.82
+10839;72;Rossi Shorts;Bath Clothes;15;203.94;163.56;40.38
+10840;25;Basket Vest;Sportwear;6;110.81;81.44;29.36
+10840;39;Terence Top;Womens wear;10;650.52;478.13;172.39
+10841;10;Sapporoo Gloves;Babywear;16;101.28;89.33;11.95
+10841;56;High Heels Shoes;Womens Footwear;30;1245.9;1098.88;147.02
+10841;59;Rasta WCT;Sportwear;50;431.5;380.58;50.92
+10841;77;Skirt;Womens wear;15;201.0;177.28;23.72
+10842;11;Desperado Jeans;Mens Clothes;15;381.45;336.44;45.01
+10842;43;Summer Shorts;Bath Clothes;5;55.45;48.91;6.54
+10842;68;Cap;Sportwear;20;265.4;234.08;31.32
+10842;70;US-Master Jeans;Mens Clothes;12;321.84;283.86;37.98
+10843;51;Snake Boots;Mens Footwear;4;473.6;334.17;139.43
+10844;22;Ravellis Träskor;Womens Footwear;35;125.65;110.82;14.83
+10845;23;DSW;Womens Footwear;70;721.49;615.18;106.31
+10845;35;LA. Shorts;Bath Clothes;25;178.48;143.1;35.37
+10845;42;Balett Shoes;Womens Footwear;42;621.39;498.24;123.15
+10845;58;Ga-Ga Dress;Babywear;60;3315.84;2658.7;657.14
+10845;64;WFS shoes;Womens Footwear;48;1654.08;1458.9;195.18
+10846;4;Oyaki Kimono;Womens wear;21;474.18;418.23;55.95
+10846;70;US-Master Jeans;Mens Clothes;30;922.5;842.11;80.39
+10846;74;Nikee Running Shoes;Childrens wear;20;621.8;548.43;73.37
+10847;1;Lenin Jeansshorts;Mens Clothes;80;1746.24;1302.45;443.79
+10847;19;Squash Shorts;Sportwear;12;140.83;103.51;37.32
+10847;37;Mehmet-Skor;Babywear;60;285.12;209.56;75.56
+10847;45;Danske Treshoe;Mens Footwear;36;378.0;277.83;100.17
+10847;60;Game Over T-Shirt;Sportwear;45;279.18;205.2;73.98
+10847;71;Atles Lussekofta;Mens Clothes;55;1937.1;1518.72;418.38
+10848;5;O-Man Underwear;Mens Clothes;30;184.8;162.99;21.81
+10848;9;Fuji Boots;Mens Footwear;3;120.96;106.69;14.27
+10849;3;Chantell Shirt;Womens wear;49;967.75;853.56;114.19
+10849;26;Bike Helmet;Sportwear;18;693.45;531.85;161.6
+10850;25;Basket Vest;Sportwear;20;318.32;244.14;74.18
+10850;33;Car Boots;Sportwear;4;121.16;92.93;28.24
+10850;70;US-Master Jeans;Mens Clothes;30;927.71;711.51;216.2
+10851;2;Mr X Trousers;Mens Clothes;5;92.93;78.06;14.87
+10851;25;Basket Vest;Sportwear;10;138.29;116.16;22.13
+10851;57;Burned Rubber Shoes;Womens Footwear;10;200.45;172.4;28.05
+10851;59;Rasta WCT;Sportwear;42;390.29;327.84;62.45
+10852;2;Mr X Trousers;Mens Clothes;15;293.55;258.91;34.64
+10852;17;TieBreak Tennis shoes;Mens Footwear;6;139.44;122.99;16.45
+10852;62;Sheat Shoes;Sportwear;50;1572.0;1386.5;185.5
+10853;18;Deuce shirt;Babywear;10;255.2;225.09;30.11
+10854;10;Sapporoo Gloves;Babywear;100;724.5;555.66;168.84
+10854;13;Aino Shoes;Babywear;65;2046.66;1569.7;476.96
+10855;16;Wimbledon T-Shirt;Sportwear;50;459.0;444.45;14.55
+10855;31;Rossi Bermuda Shorts;Bath Clothes;14;119.28;105.2;14.08
+10855;56;High Heels Shoes;Womens Footwear;24;910.8;803.33;107.47
+10855;65;Stretch oui-pants;Womens wear;15;164.22;125.95;38.27
+10856;2;Mr X Trousers;Mens Clothes;20;390.8;363.15;27.65
+10856;42;Balett Shoes;Womens Footwear;20;268.0;236.38;31.62
+10857;3;Chantell Shirt;Womens wear;30;587.7;518.35;69.35
+10857;26;Bike Helmet;Sportwear;35;1294.13;913.13;380.99
+10857;29;Davenport;Mens Footwear;10;1521.25;1073.39;447.86
+10858;7;Conserve Shoes;Childrens wear;5;214.3;189.01;25.29
+10858;27;Tracksuit;Sportwear;10;433.5;382.35;51.15
+10858;70;US-Master Jeans;Mens Clothes;4;122.24;107.82;14.42
+10859;24;Samba Socker  Socks;Mens Clothes;40;225.5;159.11;66.39
+10859;54;Patamonia Fleece Jacket;Sportwear;35;1568.88;1107.0;461.88
+10859;64;WFS shoes;Womens Footwear;30;1312.5;926.1;386.4
+10860;51;Snake Boots;Mens Footwear;3;325.41;287.01;38.4
+10860;76;Minnki Pälsii;Womens wear;20;7288.8;6428.72;860.08
+10861;17;TieBreak Tennis shoes;Mens Footwear;42;1066.38;940.55;125.83
+10861;18;Deuce shirt;Babywear;20;476.6;420.36;56.24
+10861;21;Basket Shoes;Sportwear;40;367.6;324.22;43.38
+10861;33;Car Boots;Sportwear;35;920.85;812.19;108.66
+10861;62;Sheat Shoes;Sportwear;3;88.05;77.66;10.39
+10862;11;Desperado Jeans;Mens Clothes;25;683.5;602.85;80.65
+10862;52;Small Crocodile Boots;Womens Footwear;8;683.52;628.37;55.15
+10863;1;Lenin Jeansshorts;Mens Clothes;20;476.1;365.15;110.95
+10863;58;Ga-Ga Dress;Babywear;12;617.27;498.12;119.15
+10864;35;LA. Shorts;Bath Clothes;4;25.28;22.3;2.98
+10864;67;X-Dress;Womens wear;15;972.15;857.44;114.71
+10865;38;Le Baby Dress;Womens wear;60;5111.82;4293.93;817.89
+10865;39;Terence Top;Womens wear;80;5286.96;4441.05;845.91
+10866;2;Mr X Trousers;Mens Clothes;21;463.31;326.91;136.4
+10866;24;Samba Socker  Socks;Mens Clothes;6;35.18;24.82;10.36
+10866;30;Baby Dark Lounge Suit;Babywear;40;1204.5;849.9;354.6
+10867;53;Jumpin Jack Flash Dress;Womens wear;3;197.97;174.61;23.36
+10868;26;Bike Helmet;Sportwear;20;666.4;587.76;78.64
+10868;35;LA. Shorts;Bath Clothes;30;187.2;165.11;22.09
+10868;49;Finnish Sport Blades;Sportwear;42;899.51;762.67;136.84
+10869;1;Lenin Jeansshorts;Mens Clothes;40;860.0;758.52;101.48
+10869;11;Desperado Jeans;Mens Clothes;10;299.5;264.16;35.34
+10869;23;DSW;Womens Footwear;50;419.0;369.56;49.44
+10869;68;Cap;Sportwear;20;273.6;241.32;32.28
+10870;35;LA. Shorts;Bath Clothes;3;19.26;16.99;2.27
+10870;51;Snake Boots;Mens Footwear;2;215.24;189.84;25.4
+10871;6;Shagall Socks;Womens wear;50;197.4;165.82;31.58
+10871;16;Wimbledon T-Shirt;Sportwear;12;121.34;101.92;19.41
+10871;17;TieBreak Tennis shoes;Mens Footwear;16;404.21;339.53;64.67
+10872;55;Feiss Fleece Trousers;Sportwear;10;441.32;370.7;70.61
+10872;62;Sheat Shoes;Sportwear;20;649.53;545.61;103.92
+10872;64;WFS shoes;Womens Footwear;15;512.98;430.9;82.08
+10872;65;Stretch oui-pants;Womens wear;21;229.76;193.0;36.76
+10873;21;Basket Shoes;Sportwear;20;205.4;181.16;24.24
+10873;28;RDL Suit;Childrens wear;3;134.64;118.75;15.89
+10874;10;Sapporoo Gloves;Babywear;10;66.0;58.21;7.79
+10875;19;Squash Shorts;Sportwear;25;213.75;188.53;25.22
+10875;47;Lundenhagen Boots;Mens Footwear;21;564.1;452.31;111.79
+10875;49;Finnish Sport Blades;Sportwear;15;324.3;286.03;38.27
+10876;46;Rodbye Troje;Babywear;21;256.83;226.52;30.31
+10876;64;WFS shoes;Womens Footwear;20;717.2;639.62;77.58
+10877;16;Wimbledon T-Shirt;Sportwear;30;375.38;264.86;110.51
+10877;18;Deuce shirt;Babywear;25;644.5;568.45;76.05
+10878;20;Tennis Suit;Sportwear;20;1718.22;1443.3;274.92
+10879;40;Duck Trousers;Babywear;12;210.36;185.54;24.82
+10879;65;Stretch oui-pants;Womens wear;10;109.0;96.14;12.86
+10879;76;Minnki Pälsii;Womens wear;10;4305.3;3797.27;508.03
+10880;23;DSW;Womens Footwear;30;299.16;219.88;79.28
+10880;61;Adihash Running Shoe;Sportwear;30;973.08;715.21;257.87
+10880;70;US-Master Jeans;Mens Clothes;50;1750.2;1286.4;463.8
+10881;73;Mehmet-Napp;Babywear;10;11.9;10.5;1.4
+10882;42;Balett Shoes;Womens Footwear;25;315.75;278.49;37.26
+10882;49;Finnish Sport Blades;Sportwear;20;458.85;351.92;106.93
+10882;54;Patamonia Fleece Jacket;Sportwear;32;1303.46;999.69;303.76
+10883;24;Samba Socker  Socks;Mens Clothes;8;34.8;30.69;4.11
+10884;21;Basket Shoes;Sportwear;40;415.8;349.27;66.53
+10884;56;High Heels Shoes;Womens Footwear;21;908.02;762.74;145.28
+10884;65;Stretch oui-pants;Womens wear;12;115.04;96.63;18.41
+10885;2;Mr X Trousers;Mens Clothes;20;389.0;343.1;45.9
+10885;24;Samba Socker  Socks;Mens Clothes;12;54.72;48.26;6.46
+10885;70;US-Master Jeans;Mens Clothes;30;883.2;778.98;104.22
+10885;77;Skirt;Womens wear;25;342.25;301.86;40.39
+10886;10;Sapporoo Gloves;Babywear;70;471.8;416.13;55.67
+10886;31;Rossi Bermuda Shorts;Bath Clothes;35;317.45;284.44;33.01
+10886;77;Skirt;Womens wear;40;543.2;479.1;64.1
+10887;25;Basket Vest;Sportwear;5;65.6;57.86;7.74
+10888;2;Mr X Trousers;Mens Clothes;20;409.2;360.91;48.29
+10888;68;Cap;Sportwear;18;208.08;183.53;24.55
+10889;11;Desperado Jeans;Mens Clothes;40;1041.6;918.69;122.91
+10889;38;Le Baby Dress;Womens wear;40;3511.6;3097.23;414.37
+10890;17;TieBreak Tennis shoes;Mens Footwear;15;347.55;306.54;41.01
+10890;34;Baywatch Bikkini;Bath Clothes;10;80.3;74.4;5.9
+10890;41;Duck Shirt;Babywear;14;127.68;112.61;15.07
+10891;30;Baby Dark Lounge Suit;Babywear;15;428.24;359.72;68.52
+10892;59;Rasta WCT;Sportwear;40;350.28;294.24;56.04
+10893;8;Tuxedo;Womens wear;30;603.3;532.11;71.19
+10893;24;Samba Socker  Socks;Mens Clothes;10;47.0;41.45;5.55
+10893;29;Davenport;Mens Footwear;24;3030.72;2673.1;357.62
+10893;30;Baby Dark Lounge Suit;Babywear;35;959.0;845.84;113.16
+10893;36;Mehmet-Tröja;Babywear;20;147.8;130.36;17.44
+10894;13;Aino Shoes;Babywear;28;682.96;606.91;76.05
+10894;69;Racing Truck  Socks;Sportwear;50;113.4;95.26;18.14
+10894;75;Bow tie;Mens Clothes;120;1064.7;894.35;170.35
+10895;24;Samba Socker  Socks;Mens Clothes;110;504.9;445.32;59.58
+10895;39;Terence Top;Womens wear;45;2893.5;2552.07;341.43
+10895;40;Duck Trousers;Babywear;91;1752.66;1545.85;206.81
+10895;60;Game Over T-Shirt;Sportwear;100;502.0;442.76;59.24
+10896;45;Danske Treshoe;Mens Footwear;15;140.85;124.23;16.62
+10896;56;High Heels Shoes;Womens Footwear;16;578.72;510.43;68.29
+10897;29;Davenport;Mens Footwear;80;10652.0;9395.06;1256.94
+10897;30;Baby Dark Lounge Suit;Babywear;36;945.72;834.12;111.6
+10898;13;Aino Shoes;Babywear;5;116.45;102.71;13.74
+10899;39;Terence Top;Womens wear;8;591.28;453.49;137.79
+10900;70;US-Master Jeans;Mens Clothes;3;115.35;81.39;33.96
+10901;41;Duck Shirt;Babywear;30;267.6;236.02;31.58
+10901;71;Atles Lussekofta;Mens Clothes;30;920.1;811.53;108.57
+10902;55;Feiss Fleece Trousers;Sportwear;30;1464.18;1122.96;341.22
+10902;62;Sheat Shoes;Sportwear;6;193.2;148.18;45.02
+10903;13;Aino Shoes;Babywear;40;1029.6;908.11;121.49
+10903;65;Stretch oui-pants;Womens wear;21;223.02;196.7;26.32
+10903;68;Cap;Sportwear;20;255.4;225.26;30.14
+10904;58;Ga-Ga Dress;Babywear;15;670.35;591.25;79.1
+10904;62;Sheat Shoes;Sportwear;35;934.5;824.23;110.27
+10905;1;Lenin Jeansshorts;Mens Clothes;20;411.6;345.74;65.86
+10906;61;Adihash Running Shoe;Sportwear;15;363.3;320.43;42.87
+10907;75;Bow tie;Mens Clothes;14;107.52;94.83;12.69
+10908;7;Conserve Shoes;Childrens wear;20;847.98;712.3;135.68
+10908;52;Small Crocodile Boots;Womens Footwear;14;1150.57;966.48;184.09
+10909;7;Conserve Shoes;Childrens wear;12;485.64;428.33;57.31
+10909;16;Wimbledon T-Shirt;Sportwear;15;148.2;130.71;17.49
+10909;41;Duck Shirt;Babywear;5;50.45;44.5;5.95
+10910;19;Squash Shorts;Sportwear;12;100.92;89.01;11.91
+10910;49;Finnish Sport Blades;Sportwear;10;202.7;178.78;23.92
+10910;61;Adihash Running Shoe;Sportwear;5;139.15;126.26;12.89
+10911;1;Lenin Jeansshorts;Mens Clothes;10;219.3;197.02;22.28
+10911;17;TieBreak Tennis shoes;Mens Footwear;12;298.32;263.12;35.2
+10911;67;X-Dress;Womens wear;15;935.85;845.65;90.2
+10912;11;Desperado Jeans;Mens Clothes;40;1275.0;899.64;375.36
+10912;29;Davenport;Mens Footwear;60;9170.25;6470.53;2699.72
+10913;4;Oyaki Kimono;Womens wear;30;887.25;626.04;261.21
+10913;33;Car Boots;Sportwear;40;1163.5;820.97;342.53
+10913;58;Ga-Ga Dress;Babywear;15;774.45;683.06;91.39
+10914;71;Atles Lussekofta;Mens Clothes;25;750.75;662.16;88.59
+10915;17;TieBreak Tennis shoes;Mens Footwear;10;274.5;242.11;32.39
+10915;33;Car Boots;Sportwear;30;788.1;695.1;93.0
+10915;54;Patamonia Fleece Jacket;Sportwear;10;370.8;327.05;43.75
+10916;16;Wimbledon T-Shirt;Sportwear;6;60.66;53.5;7.16
+10916;32;Rossi Bikkini;Bath Clothes;6;123.54;108.96;14.58
+10916;57;Burned Rubber Shoes;Womens Footwear;20;381.6;336.57;45.03
+10917;30;Baby Dark Lounge Suit;Babywear;1;26.2;23.11;3.09
+10917;60;Game Over T-Shirt;Sportwear;10;46.9;41.37;5.53
+10918;1;Lenin Jeansshorts;Mens Clothes;60;1458.75;1029.29;429.46
+10918;60;Game Over T-Shirt;Sportwear;25;156.56;110.47;46.09
+10919;16;Wimbledon T-Shirt;Sportwear;24;242.16;213.59;28.57
+10919;25;Basket Vest;Sportwear;24;305.52;296.62;8.9
+10919;40;Duck Trousers;Babywear;20;400.0;352.8;47.2
+10920;50;Finnish Swimsuit;Sportwear;24;356.88;314.77;42.11
+10921;35;LA. Shorts;Bath Clothes;10;55.9;49.3;6.6
+10921;63;Serve-Shirt;Womens wear;40;854.4;753.58;100.82
+10922;17;TieBreak Tennis shoes;Mens Footwear;15;345.3;304.55;40.75
+10922;24;Samba Socker  Socks;Mens Clothes;35;166.25;146.63;19.62
+10923;42;Balett Shoes;Womens Footwear;10;158.4;116.42;41.98
+10923;43;Summer Shorts;Bath Clothes;10;154.08;113.25;40.83
+10923;67;X-Dress;Womens wear;24;1842.34;1354.12;488.22
+10924;10;Sapporoo Gloves;Babywear;20;151.58;121.54;30.04
+10924;28;RDL Suit;Childrens wear;30;1544.4;1238.33;306.07
+10924;75;Bow tie;Mens Clothes;6;44.64;39.37;5.27
+10925;36;Mehmet-Tröja;Babywear;25;228.85;175.52;53.33
+10925;52;Small Crocodile Boots;Womens Footwear;12;1171.76;909.01;262.75
+10926;11;Desperado Jeans;Mens Clothes;2;54.98;48.49;6.49
+10926;13;Aino Shoes;Babywear;10;235.0;207.27;27.73
+10926;19;Squash Shorts;Sportwear;7;60.48;53.34;7.14
+10926;72;Rossi Shorts;Bath Clothes;10;121.0;106.72;14.28
+10927;20;Tennis Suit;Sportwear;5;410.7;362.24;48.46
+10927;52;Small Crocodile Boots;Womens Footwear;5;371.65;327.8;43.85
+10927;76;Minnki Pälsii;Womens wear;20;7285.0;6425.37;859.63
+10928;47;Lundenhagen Boots;Mens Footwear;5;127.5;112.46;15.04
+10928;76;Minnki Pälsii;Womens wear;5;1818.2;1613.76;204.44
+10929;21;Basket Shoes;Sportwear;60;556.2;490.57;65.63
+10929;75;Bow tie;Mens Clothes;49;373.87;329.75;44.12
+10929;77;Skirt;Womens wear;15;198.15;174.77;23.38
+10930;21;Basket Shoes;Sportwear;36;386.28;371.15;15.13
+10930;27;Tracksuit;Sportwear;25;1039.5;1012.77;26.73
+10930;55;Feiss Fleece Trousers;Sportwear;25;1192.8;876.71;316.09
+10930;58;Ga-Ga Dress;Babywear;30;1722.6;1266.11;456.49
+10931;13;Aino Shoes;Babywear;42;1305.55;1001.3;304.25
+10931;57;Burned Rubber Shoes;Womens Footwear;30;577.5;543.79;33.71
+10932;16;Wimbledon T-Shirt;Sportwear;30;313.17;263.65;49.52
+10932;62;Sheat Shoes;Sportwear;14;416.42;337.49;78.93
+10932;72;Rossi Shorts;Bath Clothes;16;182.88;161.3;21.58
+10932;75;Bow tie;Mens Clothes;20;172.04;137.94;34.1
+10933;53;Jumpin Jack Flash Dress;Womens wear;2;110.38;97.36;13.02
+10933;61;Adihash Running Shoe;Sportwear;30;764.7;674.47;90.23
+10934;6;Shagall Socks;Womens wear;20;74.0;65.27;8.73
+10935;1;Lenin Jeansshorts;Mens Clothes;21;444.15;391.74;52.41
+10935;18;Deuce shirt;Babywear;4;123.45;87.11;36.34
+10935;23;DSW;Womens Footwear;8;91.2;64.35;26.85
+10936;36;Mehmet-Tröja;Babywear;30;313.92;230.73;83.19
+10937;28;RDL Suit;Childrens wear;8;397.28;350.4;46.88
+10937;34;Baywatch Bikkini;Bath Clothes;20;154.2;136.0;18.2
+10938;13;Aino Shoes;Babywear;20;565.75;399.19;166.56
+10938;43;Summer Shorts;Bath Clothes;24;380.1;282.41;97.69
+10938;60;Game Over T-Shirt;Sportwear;49;322.18;227.33;94.85
+10938;71;Atles Lussekofta;Mens Clothes;35;1411.81;996.17;415.64
+10939;2;Mr X Trousers;Mens Clothes;10;206.54;175.75;30.79
+10939;67;X-Dress;Womens wear;40;2723.66;2088.93;634.73
+10940;7;Conserve Shoes;Childrens wear;8;308.56;272.15;36.41
+10940;13;Aino Shoes;Babywear;20;465.6;410.66;54.94
+10941;31;Rossi Bermuda Shorts;Bath Clothes;44;441.1;311.24;129.86
+10941;62;Sheat Shoes;Sportwear;30;1023.0;721.83;301.17
+10941;68;Cap;Sportwear;80;1282.0;1004.47;277.53
+10941;72;Rossi Shorts;Bath Clothes;50;626.5;552.57;73.93
+10942;49;Finnish Sport Blades;Sportwear;28;551.88;486.76;65.12
+10943;13;Aino Shoes;Babywear;15;364.2;321.22;42.98
+10943;22;Ravellis Träskor;Womens Footwear;21;73.29;64.64;8.65
+10943;46;Rodbye Troje;Babywear;15;185.85;163.92;21.93
+10944;11;Desperado Jeans;Mens Clothes;5;161.88;114.22;47.66
+10944;44;Okkaba Skin Jackets;Womens wear;18;1636.43;1154.66;481.76
+10944;56;High Heels Shoes;Womens Footwear;18;727.2;641.39;85.81
+10945;13;Aino Shoes;Babywear;20;543.4;479.28;64.12
+10945;31;Rossi Bermuda Shorts;Bath Clothes;10;79.0;69.68;9.32
+10946;10;Sapporoo Gloves;Babywear;25;167.5;147.74;19.76
+10946;24;Samba Socker  Socks;Mens Clothes;25;115.75;102.09;13.66
+10946;77;Skirt;Womens wear;40;547.6;482.98;64.62
+10947;59;Rasta WCT;Sportwear;4;33.12;29.21;3.91
+10948;50;Finnish Swimsuit;Sportwear;9;144.45;127.4;17.05
+10948;51;Snake Boots;Mens Footwear;40;4030.4;3554.81;475.59
+10948;55;Feiss Fleece Trousers;Sportwear;4;154.92;136.64;18.28
+10949;6;Shagall Socks;Womens wear;12;48.6;42.87;5.73
+10949;10;Sapporoo Gloves;Babywear;30;194.4;171.46;22.94
+10949;17;TieBreak Tennis shoes;Mens Footwear;6;164.16;144.79;19.37
+10949;62;Sheat Shoes;Sportwear;60;1655.4;1460.06;195.34
+10950;4;Oyaki Kimono;Womens wear;5;114.3;100.81;13.49
+10951;33;Car Boots;Sportwear;15;373.59;313.82;59.77
+10951;41;Duck Shirt;Babywear;6;60.1;50.49;9.62
+10951;75;Bow tie;Mens Clothes;50;379.58;318.84;60.73
+10952;6;Shagall Socks;Womens wear;16;65.02;60.18;4.83
+10952;28;RDL Suit;Childrens wear;2;89.1;78.59;10.51
+10953;20;Tennis Suit;Sportwear;50;4404.75;3699.99;704.76
+10953;31;Rossi Bermuda Shorts;Bath Clothes;50;414.23;347.95;66.28
+10954;16;Wimbledon T-Shirt;Sportwear;28;314.92;241.53;73.39
+10954;31;Rossi Bermuda Shorts;Bath Clothes;25;242.08;185.66;56.41
+10954;45;Danske Treshoe;Mens Footwear;30;262.8;231.79;31.01
+10954;60;Game Over T-Shirt;Sportwear;24;151.25;116.0;35.25
+10955;75;Bow tie;Mens Clothes;12;113.18;83.19;29.99
+10956;21;Basket Shoes;Sportwear;12;120.12;105.95;14.17
+10956;47;Lundenhagen Boots;Mens Footwear;14;322.56;284.5;38.06
+10956;51;Snake Boots;Mens Footwear;8;785.44;692.76;92.68
+10957;30;Baby Dark Lounge Suit;Babywear;30;838.2;739.29;98.91
+10957;35;LA. Shorts;Bath Clothes;40;237.6;209.56;28.04
+10957;64;WFS shoes;Womens Footwear;8;279.12;246.18;32.94
+10958;5;O-Man Underwear;Mens Clothes;20;123.4;108.84;14.56
+10958;7;Conserve Shoes;Childrens wear;6;229.02;202.0;27.02
+10958;72;Rossi Shorts;Bath Clothes;5;58.25;51.38;6.87
+10959;75;Bow tie;Mens Clothes;20;166.52;127.71;38.81
+10960;24;Samba Socker  Socks;Mens Clothes;10;58.0;40.92;17.08
+10960;41;Duck Shirt;Babywear;24;229.92;202.79;27.13
+10961;52;Small Crocodile Boots;Womens Footwear;6;467.27;392.51;74.76
+10961;76;Minnki Pälsii;Womens wear;60;23334.6;20581.12;2753.48
+10962;7;Conserve Shoes;Childrens wear;45;1769.85;1561.01;208.84
+10962;13;Aino Shoes;Babywear;77;1826.44;1610.92;215.52
+10962;53;Jumpin Jack Flash Dress;Womens wear;20;1155.4;1019.06;136.34
+10962;69;Racing Truck  Socks;Sportwear;9;17.46;15.42;2.04
+10962;76;Minnki Pälsii;Womens wear;44;16628.48;16153.18;475.3
+10963;60;Game Over T-Shirt;Sportwear;2;10.99;8.43;2.56
+10964;18;Deuce shirt;Babywear;6;152.4;134.42;17.98
+10964;38;Le Baby Dress;Womens wear;5;436.4;384.9;51.5
+10964;69;Racing Truck  Socks;Sportwear;10;20.4;17.99;2.41
+10965;51;Snake Boots;Mens Footwear;16;1553.12;1369.85;183.27
+10966;37;Mehmet-Skor;Babywear;8;33.36;32.46;0.9
+10966;56;High Heels Shoes;Womens Footwear;12;539.86;414.05;125.81
+10966;62;Sheat Shoes;Sportwear;12;395.23;303.13;92.11
+10967;19;Squash Shorts;Sportwear;12;111.72;98.54;13.18
+10967;49;Finnish Sport Blades;Sportwear;40;746.8;658.68;88.12
+10968;12;Tiny Winy Hot Bikini;Bath Clothes;30;288.9;278.73;10.17
+10968;24;Samba Socker  Socks;Mens Clothes;30;128.1;112.98;15.12
+10968;64;WFS shoes;Womens Footwear;4;121.36;107.04;14.32
+10969;46;Rodbye Troje;Babywear;9;117.63;103.75;13.88
+10970;52;Small Crocodile Boots;Womens Footwear;40;3659.04;2689.39;969.65
+10971;29;Davenport;Mens Footwear;14;1892.24;1668.96;223.28
+10972;17;TieBreak Tennis shoes;Mens Footwear;6;151.56;133.68;17.88
+10972;33;Car Boots;Sportwear;7;177.31;164.3;13.01
+10973;26;Bike Helmet;Sportwear;5;154.2;136.0;18.2
+10973;41;Duck Shirt;Babywear;6;52.26;46.09;6.17
+10973;75;Bow tie;Mens Clothes;10;82.1;79.69;2.41
+10974;63;Serve-Shirt;Womens wear;10;207.4;182.93;24.47
+10975;8;Tuxedo;Womens wear;16;316.48;279.14;37.34
+10975;75;Bow tie;Mens Clothes;10;83.8;73.91;9.89
+10976;28;RDL Suit;Childrens wear;20;846.8;746.88;99.92
+10977;39;Terence Top;Womens wear;30;1816.2;1601.89;214.31
+10977;47;Lundenhagen Boots;Mens Footwear;30;809.7;714.16;95.54
+10977;51;Snake Boots;Mens Footwear;10;1047.5;923.9;123.6
+10977;63;Serve-Shirt;Womens wear;20;433.6;382.44;51.16
+10978;8;Tuxedo;Womens wear;20;458.16;351.39;106.77
+10978;21;Basket Shoes;Sportwear;40;460.92;353.51;107.41
+10978;40;Duck Trousers;Babywear;10;182.9;161.32;21.58
+10978;44;Okkaba Skin Jackets;Womens wear;6;496.59;380.87;115.73
+10979;7;Conserve Shoes;Childrens wear;18;750.24;661.71;88.53
+10979;12;Tiny Winy Hot Bikini;Bath Clothes;20;209.0;184.34;24.66
+10979;24;Samba Socker  Socks;Mens Clothes;80;329.6;290.71;38.89
+10979;27;Tracksuit;Sportwear;30;1213.5;1070.31;143.19
+10979;31;Rossi Bermuda Shorts;Bath Clothes;24;207.6;183.18;24.42
+10979;63;Serve-Shirt;Womens wear;35;697.2;614.93;82.27
+10980;75;Bow tie;Mens Clothes;40;384.48;282.59;101.89
+10981;38;Le Baby Dress;Womens wear;60;4796.4;4230.42;565.98
+10982;7;Conserve Shoes;Childrens wear;20;746.4;698.46;47.94
+10982;43;Summer Shorts;Bath Clothes;9;102.33;90.26;12.07
+10983;13;Aino Shoes;Babywear;84;2186.06;1676.61;509.45
+10983;57;Burned Rubber Shoes;Womens Footwear;15;293.4;258.78;34.62
+10984;16;Wimbledon T-Shirt;Sportwear;55;552.75;487.53;65.22
+10984;24;Samba Socker  Socks;Mens Clothes;20;92.8;81.85;10.95
+10984;36;Mehmet-Tröja;Babywear;40;350.0;315.85;34.15
+10985;16;Wimbledon T-Shirt;Sportwear;36;371.45;297.83;73.61
+10985;18;Deuce shirt;Babywear;8;245.26;196.65;48.61
+10985;32;Rossi Bikkini;Bath Clothes;35;790.41;633.76;156.64
+10986;11;Desperado Jeans;Mens Clothes;30;855.6;754.64;100.96
+10986;20;Tennis Suit;Sportwear;15;1211.7;1068.72;142.98
+10986;76;Minnki Pälsii;Womens wear;10;3689.3;3253.96;435.34
+10986;77;Skirt;Womens wear;15;197.1;173.84;23.26
+10987;7;Conserve Shoes;Childrens wear;60;2467.2;2176.07;291.13
+10987;43;Summer Shorts;Bath Clothes;6;78.42;69.17;9.25
+10987;72;Rossi Shorts;Bath Clothes;20;249.4;219.97;29.43
+10988;7;Conserve Shoes;Childrens wear;60;2395.8;2113.1;282.7
+10988;62;Sheat Shoes;Sportwear;40;1307.68;1048.52;259.16
+10989;6;Shagall Socks;Womens wear;40;159.6;140.77;18.83
+10989;11;Desperado Jeans;Mens Clothes;15;385.65;340.14;45.51
+10989;41;Duck Shirt;Babywear;4;37.36;32.95;4.41
+10990;21;Basket Shoes;Sportwear;65;675.35;595.66;79.69
+10990;34;Baywatch Bikkini;Bath Clothes;60;516.81;396.37;120.44
+10990;55;Feiss Fleece Trousers;Sportwear;65;2942.91;2257.08;685.83
+10990;61;Adihash Running Shoe;Sportwear;66;2132.03;1635.18;496.86
+10991;2;Mr X Trousers;Mens Clothes;50;1084.8;797.33;287.47
+10991;70;US-Master Jeans;Mens Clothes;20;716.16;526.38;189.78
+10991;76;Minnki Pälsii;Womens wear;90;43755.12;32160.01;11595.11
+10992;72;Rossi Shorts;Bath Clothes;2;25.6;22.58;3.02
+10993;29;Davenport;Mens Footwear;50;7867.5;5551.31;2316.19
+10993;41;Duck Shirt;Babywear;35;442.75;312.4;130.35
+10994;59;Rasta WCT;Sportwear;18;155.17;130.34;24.83
+10995;51;Snake Boots;Mens Footwear;20;1995.8;1769.06;226.74
+10995;60;Game Over T-Shirt;Sportwear;4;20.84;18.38;2.46
+10996;42;Balett Shoes;Womens Footwear;40;568.4;501.33;67.07
+10997;32;Rossi Bikkini;Bath Clothes;50;1016.5;896.55;119.95
+10997;46;Rodbye Troje;Babywear;20;315.5;222.62;92.88
+10997;52;Small Crocodile Boots;Womens Footwear;20;1884.25;1329.53;554.72
+10998;24;Samba Socker  Socks;Mens Clothes;12;49.56;43.71;5.85
+10998;61;Adihash Running Shoe;Sportwear;7;203.77;179.73;24.04
+10998;74;Nikee Running Shoes;Childrens wear;20;633.2;558.48;74.72
+10998;75;Bow tie;Mens Clothes;30;230.7;203.48;27.22
+10999;41;Duck Shirt;Babywear;20;199.5;167.58;31.92
+10999;51;Snake Boots;Mens Footwear;15;1550.9;1302.76;248.14
+10999;77;Skirt;Womens wear;21;265.48;223.0;42.48
+11000;4;Oyaki Kimono;Womens wear;25;637.19;449.6;187.59
+11000;24;Samba Socker  Socks;Mens Clothes;30;162.75;114.84;47.91
+11000;77;Skirt;Womens wear;30;372.6;328.63;43.97
+11001;7;Conserve Shoes;Childrens wear;60;2568.6;2265.51;303.09
+11001;22;Ravellis Träskor;Womens Footwear;25;95.5;84.23;11.27
+11001;46;Rodbye Troje;Babywear;25;328.5;289.74;38.76
+11001;55;Feiss Fleece Trousers;Sportwear;6;217.5;191.84;25.66
+11002;13;Aino Shoes;Babywear;56;1419.04;1251.59;167.45
+11002;35;LA. Shorts;Bath Clothes;15;100.05;76.73;23.32
+11002;42;Balett Shoes;Womens Footwear;24;354.94;274.46;80.47
+11002;55;Feiss Fleece Trousers;Sportwear;40;1689.2;1581.15;108.05
+11003;1;Lenin Jeansshorts;Mens Clothes;4;76.0;67.03;8.97
+11003;40;Duck Trousers;Babywear;10;167.8;148.0;19.8
+11003;52;Small Crocodile Boots;Womens Footwear;10;801.0;706.48;94.52
+11004;26;Bike Helmet;Sportwear;6;178.08;157.07;21.01
+11004;76;Minnki Pälsii;Womens wear;6;2377.44;2096.9;280.54
+11005;1;Lenin Jeansshorts;Mens Clothes;2;38.0;33.52;4.48
+11005;59;Rasta WCT;Sportwear;10;88.5;78.06;10.44
+11006;1;Lenin Jeansshorts;Mens Clothes;8;175.52;154.81;20.71
+11006;29;Davenport;Mens Footwear;2;327.88;231.35;96.53
+11007;8;Tuxedo;Womens wear;30;616.5;543.75;72.75
+11007;29;Davenport;Mens Footwear;10;1344.1;1185.5;158.6
+11007;42;Balett Shoes;Womens Footwear;14;207.06;196.44;10.62
+11008;28;RDL Suit;Childrens wear;70;3123.02;2623.33;499.68
+11008;34;Baywatch Bikkini;Bath Clothes;90;771.12;647.74;123.38
+11008;71;Atles Lussekofta;Mens Clothes;21;617.4;544.55;72.85
+11009;24;Samba Socker  Socks;Mens Clothes;12;50.16;44.24;5.92
+11009;36;Mehmet-Tröja;Babywear;18;188.55;133.04;55.51
+11009;60;Game Over T-Shirt;Sportwear;9;46.8;41.28;5.52
+11010;7;Conserve Shoes;Childrens wear;20;878.8;775.1;103.7
+11010;24;Samba Socker  Socks;Mens Clothes;10;44.7;39.43;5.27
+11011;58;Ga-Ga Dress;Babywear;40;1931.16;1622.17;308.99
+11011;71;Atles Lussekofta;Mens Clothes;20;634.4;559.54;74.86
+11012;19;Squash Shorts;Sportwear;50;473.03;432.38;40.64
+11012;60;Game Over T-Shirt;Sportwear;36;172.75;145.11;27.64
+11012;71;Atles Lussekofta;Mens Clothes;60;1915.2;1715.51;199.69
+11013;23;DSW;Womens Footwear;10;91.4;80.61;10.79
+11013;42;Balett Shoes;Womens Footwear;4;59.16;54.13;5.03
+11013;45;Danske Treshoe;Mens Footwear;20;179.4;158.23;21.17
+11013;68;Cap;Sportwear;2;25.02;22.07;2.95
+11014;41;Duck Shirt;Babywear;28;313.54;251.41;62.14
+11015;30;Baby Dark Lounge Suit;Babywear;15;425.4;375.2;50.2
+11015;77;Skirt;Womens wear;18;212.4;187.34;25.06
+11016;31;Rossi Bermuda Shorts;Bath Clothes;15;122.85;108.35;14.5
+11016;36;Mehmet-Tröja;Babywear;16;138.56;122.21;16.35
+11017;3;Chantell Shirt;Womens wear;25;538.25;486.13;52.12
+11017;59;Rasta WCT;Sportwear;110;933.9;823.7;110.2
+11017;70;US-Master Jeans;Mens Clothes;30;952.8;848.4;104.4
+11018;12;Tiny Winy Hot Bikini;Bath Clothes;20;194.2;171.28;22.92
+11018;18;Deuce shirt;Babywear;10;275.6;243.08;32.52
+11018;56;High Heels Shoes;Womens Footwear;5;180.1;158.85;21.25
+11019;46;Rodbye Troje;Babywear;3;34.05;30.03;4.02
+11019;49;Finnish Sport Blades;Sportwear;2;43.54;39.17;4.37
+11020;10;Sapporoo Gloves;Babywear;24;197.06;151.14;45.92
+11021;2;Mr X Trousers;Mens Clothes;11;244.75;172.7;72.05
+11021;20;Tennis Suit;Sportwear;15;1114.2;982.72;131.48
+11021;26;Bike Helmet;Sportwear;63;1901.34;1676.98;224.36
+11021;51;Snake Boots;Mens Footwear;44;5569.85;3930.09;1639.76
+11021;72;Rossi Shorts;Bath Clothes;35;441.35;389.27;52.08
+11022;19;Squash Shorts;Sportwear;35;336.35;296.66;39.69
+11022;69;Racing Truck  Socks;Sportwear;30;62.1;54.77;7.33
+11023;7;Conserve Shoes;Childrens wear;4;161.2;142.18;19.02
+11023;43;Summer Shorts;Bath Clothes;30;357.3;315.14;42.16
+11024;26;Bike Helmet;Sportwear;12;401.28;353.93;47.35
+11024;33;Car Boots;Sportwear;30;707.4;623.93;83.47
+11024;65;Stretch oui-pants;Womens wear;21;196.98;173.74;23.24
+11024;71;Atles Lussekofta;Mens Clothes;50;1430.0;1261.26;168.74
+11025;1;Lenin Jeansshorts;Mens Clothes;10;215.05;180.17;34.88
+11025;13;Aino Shoes;Babywear;20;558.8;448.06;110.74
+11026;18;Deuce shirt;Babywear;8;214.88;189.52;25.36
+11026;51;Snake Boots;Mens Footwear;10;929.8;820.08;109.72
+11027;24;Samba Socker  Socks;Mens Clothes;30;179.63;126.74;52.88
+11027;62;Sheat Shoes;Sportwear;21;754.95;589.62;165.33
+11028;55;Feiss Fleece Trousers;Sportwear;35;1286.95;1135.09;151.86
+11028;59;Rasta WCT;Sportwear;24;207.12;182.68;24.44
+11029;56;High Heels Shoes;Womens Footwear;20;763.2;673.14;90.06
+11029;63;Serve-Shirt;Womens wear;12;217.68;191.99;25.69
+11030;2;Mr X Trousers;Mens Clothes;100;2427.5;1712.84;714.66
+11030;5;O-Man Underwear;Mens Clothes;70;424.2;413.91;10.29
+11030;29;Davenport;Mens Footwear;60;10074.75;7108.74;2966.01
+11030;59;Rasta WCT;Sportwear;100;980.0;691.49;288.51
+11031;1;Lenin Jeansshorts;Mens Clothes;45;965.25;851.35;113.9
+11031;13;Aino Shoes;Babywear;80;2183.2;1925.58;257.62
+11031;24;Samba Socker  Socks;Mens Clothes;21;94.92;83.72;11.2
+11031;64;WFS shoes;Womens Footwear;20;648.0;628.3;19.7
+11031;71;Atles Lussekofta;Mens Clothes;16;460.32;406.0;54.32
+11032;36;Mehmet-Tröja;Babywear;35;261.8;230.91;30.89
+11032;38;Le Baby Dress;Womens wear;25;2139.0;1886.6;252.4
+11032;59;Rasta WCT;Sportwear;30;233.4;205.86;27.54
+11033;53;Jumpin Jack Flash Dress;Womens wear;70;4261.95;3417.31;844.64
+11033;69;Racing Truck  Socks;Sportwear;36;85.14;72.0;13.14
+11034;21;Basket Shoes;Sportwear;15;178.86;143.41;35.45
+11034;44;Okkaba Skin Jackets;Womens wear;12;879.48;775.7;103.78
+11034;61;Adihash Running Shoe;Sportwear;6;145.56;128.38;17.18
+11035;1;Lenin Jeansshorts;Mens Clothes;10;195.5;172.43;23.07
+11035;35;LA. Shorts;Bath Clothes;60;366.6;323.34;43.26
+11035;42;Balett Shoes;Womens Footwear;30;399.6;383.09;16.51
+11035;54;Patamonia Fleece Jacket;Sportwear;10;373.0;328.99;44.01
+11036;13;Aino Shoes;Babywear;7;175.07;154.41;20.66
+11036;59;Rasta WCT;Sportwear;30;247.8;218.56;29.24
+11037;70;US-Master Jeans;Mens Clothes;4;116.0;102.31;13.69
+11038;40;Duck Trousers;Babywear;5;106.62;78.37;28.25
+11038;52;Small Crocodile Boots;Womens Footwear;2;155.22;136.9;18.32
+11038;71;Atles Lussekofta;Mens Clothes;30;961.8;848.31;113.49
+11039;28;RDL Suit;Childrens wear;20;958.0;844.96;113.04
+11039;35;LA. Shorts;Bath Clothes;24;147.84;130.39;17.45
+11039;49;Finnish Sport Blades;Sportwear;60;1116.0;984.31;131.69
+11039;57;Burned Rubber Shoes;Womens Footwear;28;575.68;507.75;67.93
+11040;21;Basket Shoes;Sportwear;20;209.2;184.51;24.69
+11041;2;Mr X Trousers;Mens Clothes;30;724.32;532.38;191.94
+11041;63;Serve-Shirt;Womens wear;30;610.5;538.46;72.04
+11042;44;Okkaba Skin Jackets;Womens wear;15;1131.15;997.67;133.48
+11042;61;Adihash Running Shoe;Sportwear;4;114.16;100.69;13.47
+11043;11;Desperado Jeans;Mens Clothes;10;282.8;249.43;33.37
+11044;62;Sheat Shoes;Sportwear;12;316.8;279.42;37.38
+11045;33;Car Boots;Sportwear;15;375.3;331.01;44.29
+11045;51;Snake Boots;Mens Footwear;24;2461.2;2170.78;290.42
+11046;12;Tiny Winy Hot Bikini;Bath Clothes;20;195.72;164.4;31.32
+11046;32;Rossi Bikkini;Bath Clothes;15;328.39;275.85;52.54
+11046;35;LA. Shorts;Bath Clothes;18;119.26;100.18;19.08
+11047;1;Lenin Jeansshorts;Mens Clothes;25;603.44;425.79;177.65
+11047;5;O-Man Underwear;Mens Clothes;30;223.5;157.7;65.8
+11048;68;Cap;Sportwear;42;483.84;426.75;57.09
+11049;2;Mr X Trousers;Mens Clothes;10;224.4;164.93;59.47
+11049;12;Tiny Winy Hot Bikini;Bath Clothes;4;44.26;32.53;11.73
+11050;76;Minnki Pälsii;Womens wear;50;21109.55;16926.02;4183.53
+11051;24;Samba Socker  Socks;Mens Clothes;10;49.68;36.51;13.17
+11052;43;Summer Shorts;Bath Clothes;30;429.12;315.4;113.72
+11052;61;Adihash Running Shoe;Sportwear;10;335.04;251.58;83.46
+11053;18;Deuce shirt;Babywear;35;1068.9;842.83;226.07
+11053;32;Rossi Bikkini;Bath Clothes;20;411.2;392.09;19.11
+11053;64;WFS shoes;Womens Footwear;25;1084.2;796.89;287.31
+11054;33;Car Boots;Sportwear;10;238.4;210.27;28.13
+11054;67;X-Dress;Womens wear;20;1090.6;961.91;128.69
+11055;24;Samba Socker  Socks;Mens Clothes;15;67.35;59.4;7.95
+11055;25;Basket Vest;Sportwear;15;189.3;166.96;22.34
+11055;51;Snake Boots;Mens Footwear;20;1941.6;1712.49;229.11
+11055;57;Burned Rubber Shoes;Womens Footwear;20;387.4;341.69;45.71
+11056;7;Conserve Shoes;Childrens wear;40;1686.0;1487.05;198.95
+11056;55;Feiss Fleece Trousers;Sportwear;35;1367.45;1206.09;161.36
+11056;60;Game Over T-Shirt;Sportwear;50;269.0;247.47;21.53
+11057;70;US-Master Jeans;Mens Clothes;3;86.1;75.94;10.16
+11058;21;Basket Shoes;Sportwear;3;30.9;27.25;3.65
+11058;60;Game Over T-Shirt;Sportwear;21;115.08;101.5;13.58
+11058;61;Adihash Running Shoe;Sportwear;4;107.88;95.15;12.73
+11059;13;Aino Shoes;Babywear;30;812.4;716.54;95.86
+11059;17;TieBreak Tennis shoes;Mens Footwear;12;321.6;283.65;37.95
+11059;60;Game Over T-Shirt;Sportwear;35;181.65;160.22;21.43
+11060;60;Game Over T-Shirt;Sportwear;4;19.84;17.5;2.34
+11060;77;Skirt;Womens wear;10;131.1;115.63;15.47
+11061;60;Game Over T-Shirt;Sportwear;15;79.05;69.72;9.33
+11062;53;Jumpin Jack Flash Dress;Womens wear;10;738.48;542.78;195.7
+11062;70;US-Master Jeans;Mens Clothes;12;398.59;292.97;105.63
+11063;34;Baywatch Bikkini;Bath Clothes;30;241.8;213.27;28.53
+11063;40;Duck Trousers;Babywear;40;878.24;704.19;174.05
+11063;41;Duck Shirt;Babywear;30;317.46;254.55;62.91
+11064;17;TieBreak Tennis shoes;Mens Footwear;77;2277.58;1826.21;451.38
+11064;41;Duck Shirt;Babywear;12;122.76;108.27;14.49
+11064;53;Jumpin Jack Flash Dress;Womens wear;25;1683.28;1349.68;333.59
+11064;55;Feiss Fleece Trousers;Sportwear;4;174.94;140.27;34.67
+11064;68;Cap;Sportwear;55;627.55;553.5;74.05
+11065;30;Baby Dark Lounge Suit;Babywear;4;123.0;94.25;28.75
+11065;54;Patamonia Fleece Jacket;Sportwear;20;942.25;664.85;277.4
+11066;16;Wimbledon T-Shirt;Sportwear;3;28.08;24.77;3.31
+11066;19;Squash Shorts;Sportwear;42;412.02;363.4;48.62
+11066;34;Baywatch Bikkini;Bath Clothes;35;265.65;234.3;31.35
+11067;41;Duck Shirt;Babywear;9;84.06;74.14;9.92
+11068;28;RDL Suit;Childrens wear;8;431.11;330.64;100.47
+11068;43;Summer Shorts;Bath Clothes;36;464.09;355.94;108.15
+11068;77;Skirt;Womens wear;28;447.26;343.03;104.23
+11069;39;Terence Top;Womens wear;20;1165.2;1075.3;89.9
+11070;1;Lenin Jeansshorts;Mens Clothes;40;854.22;655.15;199.07
+11070;2;Mr X Trousers;Mens Clothes;20;463.91;355.8;108.11
+11070;16;Wimbledon T-Shirt;Sportwear;30;302.22;236.51;65.71
+11070;31;Rossi Bermuda Shorts;Bath Clothes;20;169.0;149.06;19.94
+11071;7;Conserve Shoes;Childrens wear;15;669.38;562.28;107.1
+11071;13;Aino Shoes;Babywear;10;273.74;229.94;43.8
+11072;2;Mr X Trousers;Mens Clothes;8;161.6;142.53;19.07
+11072;41;Duck Shirt;Babywear;40;416.0;366.91;49.09
+11072;50;Finnish Swimsuit;Sportwear;22;347.82;306.78;41.04
+11072;64;WFS shoes;Womens Footwear;130;4230.2;3731.04;499.16
+11073;11;Desperado Jeans;Mens Clothes;10;289.3;261.8;27.5
+11073;24;Samba Socker  Socks;Mens Clothes;20;92.0;81.14;10.86
+11074;16;Wimbledon T-Shirt;Sportwear;14;142.88;120.02;22.86
+11075;2;Mr X Trousers;Mens Clothes;10;196.65;150.82;45.83
+11075;46;Rodbye Troje;Babywear;30;454.71;348.74;105.97
+11075;76;Minnki Pälsii;Womens wear;2;871.82;668.64;203.17
+11076;6;Shagall Socks;Womens wear;20;95.5;69.45;26.05
+11076;14;Kool Sunglasses;Childrens wear;20;623.25;439.77;183.48
+11076;19;Squash Shorts;Sportwear;10;122.25;86.26;35.99
+11077;2;Mr X Trousers;Mens Clothes;24;545.18;400.71;144.47
+11077;3;Chantell Shirt;Womens wear;4;87.4;77.09;10.31
+11077;4;Oyaki Kimono;Womens wear;3;70.8;62.45;8.35
+11077;6;Shagall Socks;Womens wear;50;223.89;193.6;30.29
+11077;7;Conserve Shoes;Childrens wear;15;630.63;529.73;100.9
+11077;8;Tuxedo;Womens wear;5;118.86;95.3;23.55
+11077;10;Sapporoo Gloves;Babywear;15;98.55;86.92;11.63
+11077;12;Tiny Winy Hot Bikini;Bath Clothes;10;112.67;94.64;18.03
+11077;13;Aino Shoes;Babywear;10;264.3;233.11;31.19
+11077;14;Kool Sunglasses;Childrens wear;50;1274.11;1091.03;183.08
+11077;16;Wimbledon T-Shirt;Sportwear;25;266.51;228.22;38.3
+11077;20;Tennis Suit;Sportwear;15;1245.35;1056.15;189.2
+11077;23;DSW;Womens Footwear;14;132.58;116.94;15.64
+11077;32;Rossi Bikkini;Bath Clothes;10;189.8;181.72;8.08
+11077;39;Terence Top;Womens wear;10;578.55;485.98;92.57
+11077;41;Duck Shirt;Babywear;8;69.76;61.53;8.23
+11077;46;Rodbye Troje;Babywear;8;94.9;82.06;12.84
+11077;52;Small Crocodile Boots;Womens Footwear;8;662.64;584.45;78.19
+11077;55;Feiss Fleece Trousers;Sportwear;5;210.55;193.35;17.2
+11077;60;Game Over T-Shirt;Sportwear;8;45.2;37.61;7.59
+11077;64;WFS shoes;Womens Footwear;15;526.69;451.01;75.68
+11077;66;Langoste Shirt;Womens wear;8;162.8;143.59;19.21
+11077;73;Mehmet-Napp;Babywear;5;6.11;5.84;0.27
+11077;75;Bow tie;Mens Clothes;14;114.66;101.13;13.53
+11077;77;Skirt;Womens wear;10;119.8;105.66;14.14
+11078;2;Mr X Trousers;Mens Clothes;10;198.45;166.7;31.75
+11078;3;Chantell Shirt;Womens wear;25;511.88;429.98;81.9
+11079;13;Aino Shoes;Babywear;10;267.75;224.91;42.84
+11079;57;Burned Rubber Shoes;Womens Footwear;15;285.0;251.37;33.63
+11080;14;Kool Sunglasses;Childrens wear;100;2415.0;2028.6;386.4
+11081;75;Bow tie;Mens Clothes;150;1163.25;943.78;219.47
+11082;3;Chantell Shirt;Womens wear;35;732.15;603.51;128.64
+11083;9;Fuji Boots;Mens Footwear;5;194.5;171.55;22.95
+11083;21;Basket Shoes;Sportwear;15;149.25;131.64;17.61
+11083;22;Ravellis Träskor;Womens Footwear;15;52.5;46.3;6.2
+11083;24;Samba Socker  Socks;Mens Clothes;50;236.25;198.45;37.8
+11083;33;Car Boots;Sportwear;3;76.5;67.47;9.03
+11083;37;Mehmet-Skor;Babywear;7;31.5;27.78;3.72
+11083;42;Balett Shoes;Womens Footwear;10;156.5;138.03;18.47
+11083;47;Lundenhagen Boots;Mens Footwear;5;127.5;112.46;15.04
+11083;51;Snake Boots;Mens Footwear;3;308.69;264.34;44.36
+11083;62;Sheat Shoes;Sportwear;5;124.8;105.84;18.96

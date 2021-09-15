@@ -1,0 +1,2173 @@
+ProdutoID;Produto;Quantidade;Valor;CupomID;Lucro
+1;Lenin Jeansshorts;2;38.0;11005;4.48
+1;Lenin Jeansshorts;3;55.5;10609;10.54
+1;Lenin Jeansshorts;4;76.0;11003;8.97
+1;Lenin Jeansshorts;4;102.6;10838;30.21
+1;Lenin Jeansshorts;5;121.86;10700;39.6
+1;Lenin Jeansshorts;6;118.5;10611;22.52
+1;Lenin Jeansshorts;8;144.16;10752;27.39
+1;Lenin Jeansshorts;8;175.52;11006;20.71
+1;Lenin Jeansshorts;8;179.68;10526;50.31
+1;Lenin Jeansshorts;10;195.5;11035;23.07
+1;Lenin Jeansshorts;10;197.6;10406;33.99
+1;Lenin Jeansshorts;10;215.05;11025;34.88
+1;Lenin Jeansshorts;10;219.3;10911;22.28
+1;Lenin Jeansshorts;10;219.4;10576;41.69
+1;Lenin Jeansshorts;12;259.8;10354;35.33
+1;Lenin Jeansshorts;15;316.65;10477;54.46
+1;Lenin Jeansshorts;15;334.82;10348;83.27
+1;Lenin Jeansshorts;15;364.69;10646;128.37
+1;Lenin Jeansshorts;15;371.91;10370;78.93
+1;Lenin Jeansshorts;18;389.88;10294;53.02
+1;Lenin Jeansshorts;20;362.4;10317;49.29
+1;Lenin Jeansshorts;20;403.6;10590;76.68
+1;Lenin Jeansshorts;20;411.6;10905;65.86
+1;Lenin Jeansshorts;20;476.1;10863;110.95
+1;Lenin Jeansshorts;21;444.15;10935;52.41
+1;Lenin Jeansshorts;24;504.24;10413;86.73
+1;Lenin Jeansshorts;25;455.75;10628;86.59
+1;Lenin Jeansshorts;25;603.44;11047;177.65
+1;Lenin Jeansshorts;30;639.0;10691;121.41
+1;Lenin Jeansshorts;35;804.13;10689;283.05
+1;Lenin Jeansshorts;40;854.22;11070;199.07
+1;Lenin Jeansshorts;40;860.0;10869;101.48
+1;Lenin Jeansshorts;40;1038.24;10522;321.85
+1;Lenin Jeansshorts;45;965.25;11031;113.9
+1;Lenin Jeansshorts;45;1064.88;10285;298.17
+1;Lenin Jeansshorts;50;1026.0;10729;194.94
+1;Lenin Jeansshorts;60;1458.75;10918;429.46
+1;Lenin Jeansshorts;80;1746.24;10847;443.79
+2;Mr X Trousers;3;58.41;10722;11.1
+2;Mr X Trousers;5;92.8;10703;17.63
+2;Mr X Trousers;5;92.93;10851;14.87
+2;Mr X Trousers;7;163.88;10335;45.89
+2;Mr X Trousers;8;161.6;11072;19.07
+2;Mr X Trousers;10;191.7;10792;36.42
+2;Mr X Trousers;10;196.65;11075;45.83
+2;Mr X Trousers;10;198.45;11078;31.75
+2;Mr X Trousers;10;200.5;10435;34.49
+2;Mr X Trousers;10;201.1;10829;23.73
+2;Mr X Trousers;10;205.5;10611;39.04
+2;Mr X Trousers;10;206.54;10939;30.79
+2;Mr X Trousers;10;224.4;11049;59.47
+2;Mr X Trousers;11;244.75;11021;72.05
+2;Mr X Trousers;12;246.0;10504;42.31
+2;Mr X Trousers;12;251.28;10813;81.67
+2;Mr X Trousers;15;293.55;10852;34.64
+2;Mr X Trousers;15;301.3;10787;50.14
+2;Mr X Trousers;15;324.54;10741;105.48
+2;Mr X Trousers;20;342.4;10255;58.89
+2;Mr X Trousers;20;355.2;10622;67.49
+2;Mr X Trousers;20;383.68;10485;94.87
+2;Mr X Trousers;20;389.0;10885;45.9
+2;Mr X Trousers;20;390.8;10856;27.65
+2;Mr X Trousers;20;409.2;10888;48.29
+2;Mr X Trousers;20;463.91;11070;108.11
+2;Mr X Trousers;20;476.5;10806;167.73
+2;Mr X Trousers;21;463.31;10866;136.4
+2;Mr X Trousers;24;545.18;11077;144.47
+2;Mr X Trousers;24;566.21;10342;158.54
+2;Mr X Trousers;25;576.6;10327;161.45
+2;Mr X Trousers;25;599.06;10393;188.84
+2;Mr X Trousers;30;607.01;10632;138.74
+2;Mr X Trousers;30;653.25;10714;229.94
+2;Mr X Trousers;30;724.32;11041;191.94
+2;Mr X Trousers;35;719.25;10264;97.82
+2;Mr X Trousers;40;701.6;10298;95.42
+2;Mr X Trousers;40;788.0;10766;110.4
+2;Mr X Trousers;40;807.76;10469;226.17
+2;Mr X Trousers;45;1046.39;10440;292.99
+2;Mr X Trousers;50;929.0;10641;176.51
+2;Mr X Trousers;50;1084.8;10991;287.47
+2;Mr X Trousers;50;1201.2;10258;372.37
+2;Mr X Trousers;60;1164.6;10418;200.31
+2;Mr X Trousers;100;2427.5;11030;714.66
+3;Chantell Shirt;4;87.4;11077;10.31
+3;Chantell Shirt;6;120.96;10702;22.98
+3;Chantell Shirt;14;272.72;10591;51.82
+3;Chantell Shirt;20;394.0;10742;74.86
+3;Chantell Shirt;20;440.0;10764;116.0
+3;Chantell Shirt;20;476.96;10485;117.94
+3;Chantell Shirt;25;511.88;11078;81.9
+3;Chantell Shirt;25;538.25;11017;52.12
+3;Chantell Shirt;30;587.7;10857;69.35
+3;Chantell Shirt;30;616.2;10289;83.8
+3;Chantell Shirt;35;732.15;11082;128.64
+3;Chantell Shirt;49;967.75;10849;114.19
+3;Chantell Shirt;50;924.0;10405;132.34
+3;Chantell Shirt;60;1146.0;10540;217.74
+4;Oyaki Kimono;3;70.8;11077;8.35
+4;Oyaki Kimono;5;114.3;10950;13.49
+4;Oyaki Kimono;6;144.84;10704;27.52
+4;Oyaki Kimono;10;213.2;10339;29.0
+4;Oyaki Kimono;10;263.01;10635;69.34
+4;Oyaki Kimono;12;296.6;10654;71.35
+4;Oyaki Kimono;16;429.89;10464;133.27
+4;Oyaki Kimono;18;459.95;10336;98.68
+4;Oyaki Kimono;20;432.8;10309;58.86
+4;Oyaki Kimono;20;548.64;10606;178.31
+4;Oyaki Kimono;21;474.18;10846;55.95
+4;Oyaki Kimono;24;476.16;10326;64.76
+4;Oyaki Kimono;25;515.75;10636;97.99
+4;Oyaki Kimono;25;565.5;10726;107.44
+4;Oyaki Kimono;25;637.19;11000;187.59
+4;Oyaki Kimono;30;887.25;10913;261.21
+4;Oyaki Kimono;35;727.3;10344;98.91
+4;Oyaki Kimono;50;1061.03;10533;242.52
+4;Oyaki Kimono;50;1294.15;10527;255.6
+4;Oyaki Kimono;50;1371.95;10511;384.15
+5;O-Man Underwear;4;21.64;10708;4.11
+5;O-Man Underwear;12;80.35;10262;22.5
+5;O-Man Underwear;15;95.54;10635;25.19
+5;O-Man Underwear;20;123.4;10958;14.56
+5;O-Man Underwear;20;131.4;10290;17.87
+5;O-Man Underwear;30;184.8;10848;21.81
+5;O-Man Underwear;30;223.5;11047;65.8
+5;O-Man Underwear;32;179.84;10382;30.93
+5;O-Man Underwear;65;478.14;10258;133.88
+5;O-Man Underwear;70;424.2;11030;10.29
+6;Shagall Socks;6;22.26;10325;3.03
+6;Shagall Socks;6;23.82;10830;2.81
+6;Shagall Socks;12;48.6;10949;5.73
+6;Shagall Socks;16;65.02;10952;4.83
+6;Shagall Socks;20;74.0;10934;8.73
+6;Shagall Socks;20;95.5;11076;26.05
+6;Shagall Socks;30;110.7;10309;15.06
+6;Shagall Socks;30;120.9;10734;22.97
+6;Shagall Socks;40;159.6;10989;18.83
+6;Shagall Socks;50;197.4;10871;31.58
+6;Shagall Socks;50;223.89;11077;30.29
+6;Shagall Socks;70;270.9;10618;51.47
+7;Conserve Shoes;3;134.21;10790;39.68
+7;Conserve Shoes;4;161.2;11023;19.02
+7;Conserve Shoes;5;214.3;10858;25.29
+7;Conserve Shoes;6;229.02;10958;27.02
+7;Conserve Shoes;8;308.56;10940;36.41
+7;Conserve Shoes;10;385.6;10591;73.26
+7;Conserve Shoes;10;433.56;10385;134.4
+7;Conserve Shoes;10;434.6;10546;82.57
+7;Conserve Shoes;12;485.64;10909;57.31
+7;Conserve Shoes;15;574.5;10262;78.13
+7;Conserve Shoes;15;630.63;11077;100.9
+7;Conserve Shoes;15;669.38;11071;107.1
+7;Conserve Shoes;16;655.87;10459;138.67
+7;Conserve Shoes;18;750.24;10979;88.53
+7;Conserve Shoes;20;746.4;10982;47.94
+7;Conserve Shoes;20;847.98;10908;135.68
+7;Conserve Shoes;20;878.8;11010;103.7
+7;Conserve Shoes;20;892.76;10833;176.93
+7;Conserve Shoes;30;1192.2;10471;168.68
+7;Conserve Shoes;35;1290.45;10634;245.19
+7;Conserve Shoes;35;1318.8;10766;250.57
+7;Conserve Shoes;40;1686.0;11056;198.95
+7;Conserve Shoes;45;1629.45;10607;309.6
+7;Conserve Shoes;45;1769.85;10962;208.84
+7;Conserve Shoes;50;2442.6;10511;683.93
+7;Conserve Shoes;60;2395.8;10988;282.7
+7;Conserve Shoes;60;2467.2;10987;291.13
+7;Conserve Shoes;60;2568.6;11001;303.09
+7;Conserve Shoes;90;3359.7;10694;638.34
+8;Tuxedo;5;118.86;11077;23.55
+8;Tuxedo;10;182.0;10695;34.58
+8;Tuxedo;10;252.66;10511;70.74
+8;Tuxedo;16;316.48;10975;37.34
+8;Tuxedo;20;395.4;10829;46.66
+8;Tuxedo;20;458.16;10978;106.77
+8;Tuxedo;24;502.32;10522;86.4
+8;Tuxedo;30;603.3;10893;71.19
+8;Tuxedo;30;616.5;11007;72.75
+8;Tuxedo;30;662.4;10786;215.28
+8;Tuxedo;40;813.2;10709;154.51
+8;Tuxedo;70;1432.2;10345;194.78
+8;Tuxedo;70;1697.5;10344;474.82
+9;Fuji Boots;3;120.96;10848;14.27
+9;Fuji Boots;5;194.5;11083;22.95
+9;Fuji Boots;6;211.8;10693;29.37
+9;Fuji Boots;16;773.72;10515;216.64
+9;Fuji Boots;20;806.96;10420;199.54
+9;Fuji Boots;50;2573.13;10687;905.74
+10;Sapporoo Gloves;2;12.96;10676;2.46
+10;Sapporoo Gloves;2;14.98;10524;2.58
+10;Sapporoo Gloves;5;32.45;10568;6.17
+10;Sapporoo Gloves;6;38.82;10775;7.16
+10;Sapporoo Gloves;10;64.2;10785;12.2
+10;Sapporoo Gloves;10;65.7;10609;12.48
+10;Sapporoo Gloves;10;66.0;10874;7.79
+10;Sapporoo Gloves;14;97.86;10449;16.83
+10;Sapporoo Gloves;15;98.55;11077;11.63
+10;Sapporoo Gloves;15;99.3;10827;11.72
+10;Sapporoo Gloves;15;103.8;10276;14.12
+10;Sapporoo Gloves;16;101.28;10389;17.42
+10;Sapporoo Gloves;16;101.28;10841;11.95
+10;Sapporoo Gloves;16;123.04;10724;23.38
+10;Sapporoo Gloves;16;126.84;10519;26.82
+10;Sapporoo Gloves;18;116.28;10713;22.09
+10;Sapporoo Gloves;18;140.18;10688;36.96
+10;Sapporoo Gloves;18;142.88;10646;50.29
+10;Sapporoo Gloves;20;138.6;10478;29.3
+10;Sapporoo Gloves;20;150.6;10685;28.61
+10;Sapporoo Gloves;20;151.58;10924;30.04
+10;Sapporoo Gloves;20;183.36;10450;55.86
+10;Sapporoo Gloves;21;137.76;10715;26.17
+10;Sapporoo Gloves;24;173.38;10273;30.71
+10;Sapporoo Gloves;24;189.06;10664;55.9
+10;Sapporoo Gloves;24;197.06;11020;45.92
+10;Sapporoo Gloves;25;167.5;10946;19.76
+10;Sapporoo Gloves;30;194.4;10949;22.94
+10;Sapporoo Gloves;30;234.36;10357;65.62
+10;Sapporoo Gloves;36;255.6;10804;48.56
+10;Sapporoo Gloves;70;471.8;10886;55.67
+10;Sapporoo Gloves;70;497.0;10612;94.43
+10;Sapporoo Gloves;100;724.5;10854;168.84
+11;Desperado Jeans;2;54.98;10926;6.49
+11;Desperado Jeans;3;88.11;10528;15.15
+11;Desperado Jeans;5;141.9;10486;24.41
+11;Desperado Jeans;5;146.95;10726;27.92
+11;Desperado Jeans;5;161.88;10944;47.66
+11;Desperado Jeans;6;156.78;10434;26.97
+11;Desperado Jeans;6;192.31;10443;59.62
+11;Desperado Jeans;10;257.3;10466;39.41
+11;Desperado Jeans;10;263.7;10545;43.74
+11;Desperado Jeans;10;267.7;10637;50.86
+11;Desperado Jeans;10;282.8;11043;33.37
+11;Desperado Jeans;10;289.3;11073;27.5
+11;Desperado Jeans;10;299.5;10869;35.34
+11;Desperado Jeans;12;319.44;10296;43.44
+11;Desperado Jeans;12;343.44;10248;59.07
+11;Desperado Jeans;12;428.4;10353;119.95
+11;Desperado Jeans;14;365.54;10614;69.45
+11;Desperado Jeans;15;381.45;10842;45.01
+11;Desperado Jeans;15;385.65;10989;45.51
+11;Desperado Jeans;15;392.55;10698;44.23
+11;Desperado Jeans;15;444.31;10542;101.56
+11;Desperado Jeans;15;454.35;10553;86.33
+11;Desperado Jeans;15;476.25;10770;167.64
+11;Desperado Jeans;15;484.79;10570;110.81
+11;Desperado Jeans;15;529.5;10489;178.76
+11;Desperado Jeans;20;584.2;10797;111.0
+11;Desperado Jeans;20;666.82;10823;175.8
+11;Desperado Jeans;24;707.52;10365;96.22
+11;Desperado Jeans;25;683.5;10862;80.65
+11;Desperado Jeans;30;765.6;10407;131.68
+11;Desperado Jeans;30;855.6;10986;100.96
+11;Desperado Jeans;30;919.2;10442;158.1
+11;Desperado Jeans;35;1054.55;10566;311.78
+11;Desperado Jeans;40;1041.6;10889;122.91
+11;Desperado Jeans;40;1275.0;10912;375.36
+11;Desperado Jeans;50;1556.5;10535;410.35
+11;Desperado Jeans;50;1600.5;10800;421.95
+11;Desperado Jeans;50;1746.0;10327;488.88
+12;Tiny Winy Hot Bikini;4;39.28;10695;7.46
+12;Tiny Winy Hot Bikini;4;44.26;11049;11.73
+12;Tiny Winy Hot Bikini;10;112.67;11077;18.03
+12;Tiny Winy Hot Bikini;12;128.02;10266;22.68
+12;Tiny Winy Hot Bikini;15;153.3;10439;26.37
+12;Tiny Winy Hot Bikini;15;181.88;10536;64.02
+12;Tiny Winy Hot Bikini;20;194.2;11018;22.92
+12;Tiny Winy Hot Bikini;20;195.72;11046;31.32
+12;Tiny Winy Hot Bikini;20;209.0;10979;24.66
+12;Tiny Winy Hot Bikini;30;288.9;10968;10.17
+12;Tiny Winy Hot Bikini;30;358.8;10543;106.08
+12;Tiny Winy Hot Bikini;36;363.96;10718;69.15
+12;Tiny Winy Hot Bikini;36;403.24;10633;119.22
+12;Tiny Winy Hot Bikini;100;960.0;10678;182.4
+13;Aino Shoes;1;27.09;10462;4.66
+13;Aino Shoes;2;59.14;10420;14.62
+13;Aino Shoes;3;92.16;10832;24.42
+13;Aino Shoes;4;102.24;10737;18.4
+13;Aino Shoes;5;116.45;10898;13.74
+13;Aino Shoes;6;144.48;10746;27.45
+13;Aino Shoes;6;148.08;10837;17.47
+13;Aino Shoes;7;173.32;10810;32.93
+13;Aino Shoes;7;175.07;11036;20.66
+13;Aino Shoes;8;199.12;10539;37.83
+13;Aino Shoes;8;241.12;10613;63.57
+13;Aino Shoes;10;235.0;10926;27.73
+13;Aino Shoes;10;240.9;10508;41.43
+13;Aino Shoes;10;262.4;10526;45.13
+13;Aino Shoes;10;264.3;10829;31.19
+13;Aino Shoes;10;264.3;11077;31.19
+13;Aino Shoes;10;267.75;11079;42.84
+13;Aino Shoes;10;270.4;10394;46.51
+13;Aino Shoes;10;273.74;11071;43.8
+13;Aino Shoes;10;274.5;10276;37.33
+13;Aino Shoes;12;277.08;10325;37.68
+13;Aino Shoes;13;361.19;10633;106.79
+13;Aino Shoes;15;364.2;10943;42.98
+13;Aino Shoes;18;416.16;10391;70.92
+13;Aino Shoes;20;465.6;10940;54.94
+13;Aino Shoes;20;506.66;10291;108.7
+13;Aino Shoes;20;523.6;10383;90.06
+13;Aino Shoes;20;532.91;10799;157.56
+13;Aino Shoes;20;543.4;10945;64.12
+13;Aino Shoes;20;558.8;11025;110.74
+13;Aino Shoes;20;565.75;10938;166.56
+13;Aino Shoes;28;682.96;10894;76.05
+13;Aino Shoes;30;812.4;11059;95.86
+13;Aino Shoes;40;1029.6;10903;121.49
+13;Aino Shoes;42;1305.55;10931;304.25
+13;Aino Shoes;56;1419.04;11002;167.45
+13;Aino Shoes;60;1422.0;10601;270.18
+13;Aino Shoes;65;2046.66;10854;476.96
+13;Aino Shoes;77;1826.44;10962;215.52
+13;Aino Shoes;80;2183.2;11031;257.62
+13;Aino Shoes;84;2186.06;10983;509.45
+14;Kool Sunglasses;3;72.75;10625;13.82
+14;Kool Sunglasses;3;82.93;10656;21.3
+14;Kool Sunglasses;5;125.18;10750;37.01
+14;Kool Sunglasses;9;190.26;10325;25.88
+14;Kool Sunglasses;9;205.2;10249;35.29
+14;Kool Sunglasses;10;248.7;10333;33.82
+14;Kool Sunglasses;11;278.17;10571;82.24
+14;Kool Sunglasses;12;294.96;10409;50.73
+14;Kool Sunglasses;12;295.8;10474;50.88
+14;Kool Sunglasses;15;323.85;10375;44.04
+14;Kool Sunglasses;15;363.35;10580;83.05
+14;Kool Sunglasses;15;432.0;10794;140.4
+14;Kool Sunglasses;16;348.32;10733;66.18
+14;Kool Sunglasses;20;560.78;10412;138.67
+14;Kool Sunglasses;20;623.25;11076;183.48
+14;Kool Sunglasses;21;508.41;10623;58.49
+14;Kool Sunglasses;30;653.7;10675;124.2
+14;Kool Sunglasses;30;772.56;10555;251.08
+14;Kool Sunglasses;35;851.55;10427;144.65
+14;Kool Sunglasses;42;1146.08;10393;386.91
+14;Kool Sunglasses;50;1274.11;11077;183.08
+14;Kool Sunglasses;70;1743.7;10503;299.92
+14;Kool Sunglasses;100;2415.0;11080;386.4
+15;Sumi Underwear;5;30.6;10323;4.16
+15;Sumi Underwear;10;70.9;10579;13.47
+15;Sumi Underwear;12;81.02;10500;17.13
+15;Sumi Underwear;20;130.6;10283;17.76
+15;Sumi Underwear;25;155.4;10592;35.52
+15;Sumi Underwear;50;313.5;10657;59.56
+16;Wimbledon T-Shirt;3;25.98;10738;4.94
+16;Wimbledon T-Shirt;3;28.08;11066;3.31
+16;Wimbledon T-Shirt;3;29.01;10673;5.51
+16;Wimbledon T-Shirt;6;60.66;10916;7.16
+16;Wimbledon T-Shirt;10;85.3;10310;11.6
+16;Wimbledon T-Shirt;10;101.0;10671;19.19
+16;Wimbledon T-Shirt;12;121.34;10871;19.41
+16;Wimbledon T-Shirt;12;131.74;10572;34.73
+16;Wimbledon T-Shirt;14;127.82;10553;24.29
+16;Wimbledon T-Shirt;14;142.88;11074;22.86
+16;Wimbledon T-Shirt;15;137.81;10730;31.5
+16;Wimbledon T-Shirt;15;148.2;10909;17.49
+16;Wimbledon T-Shirt;16;159.68;10439;27.46
+16;Wimbledon T-Shirt;18;159.84;10489;27.49
+16;Wimbledon T-Shirt;20;179.2;10706;34.05
+16;Wimbledon T-Shirt;20;181.4;10718;34.47
+16;Wimbledon T-Shirt;20;192.0;10779;36.48
+16;Wimbledon T-Shirt;20;213.12;10454;66.07
+16;Wimbledon T-Shirt;21;211.8;10324;52.67
+16;Wimbledon T-Shirt;21;245.12;10403;68.63
+16;Wimbledon T-Shirt;24;242.16;10919;28.57
+16;Wimbledon T-Shirt;25;266.51;11077;38.3
+16;Wimbledon T-Shirt;28;314.92;10954;73.39
+16;Wimbledon T-Shirt;30;280.8;10296;38.19
+16;Wimbledon T-Shirt;30;297.99;10605;68.11
+16;Wimbledon T-Shirt;30;302.22;11070;65.71
+16;Wimbledon T-Shirt;30;309.02;10554;70.63
+16;Wimbledon T-Shirt;30;313.17;10932;49.52
+16;Wimbledon T-Shirt;30;329.01;10653;86.74
+16;Wimbledon T-Shirt;30;375.38;10877;110.51
+16;Wimbledon T-Shirt;35;320.95;10255;55.2
+16;Wimbledon T-Shirt;35;384.79;10469;107.74
+16;Wimbledon T-Shirt;36;371.45;10985;73.61
+16;Wimbledon T-Shirt;40;391.46;10551;115.74
+16;Wimbledon T-Shirt;40;408.48;10287;101.59
+16;Wimbledon T-Shirt;49;520.67;10440;145.79
+16;Wimbledon T-Shirt;50;434.0;10515;74.65
+16;Wimbledon T-Shirt;50;459.0;10855;14.55
+16;Wimbledon T-Shirt;50;533.13;10680;187.66
+16;Wimbledon T-Shirt;55;552.75;10984;65.22
+16;Wimbledon T-Shirt;56;602.11;10359;106.66
+16;Wimbledon T-Shirt;60;709.5;10263;219.09
+16;Wimbledon T-Shirt;65;668.2;10795;126.96
+17;TieBreak Tennis shoes;2;45.34;10415;7.8
+17;TieBreak Tennis shoes;6;139.44;10852;16.45
+17;TieBreak Tennis shoes;6;151.56;10972;17.88
+17;TieBreak Tennis shoes;6;164.16;10949;19.37
+17;TieBreak Tennis shoes;8;201.35;10698;46.02
+17;TieBreak Tennis shoes;8;209.84;10319;28.54
+17;TieBreak Tennis shoes;8;225.63;10550;59.48
+17;TieBreak Tennis shoes;10;270.0;10444;46.44
+17;TieBreak Tennis shoes;10;274.5;10915;32.39
+17;TieBreak Tennis shoes;12;298.32;10911;35.2
+17;TieBreak Tennis shoes;12;321.6;11059;37.95
+17;TieBreak Tennis shoes;15;345.3;10922;40.75
+17;TieBreak Tennis shoes;15;347.55;10890;41.01
+17;TieBreak Tennis shoes;15;369.3;10294;50.22
+17;TieBreak Tennis shoes;15;506.63;10279;134.5
+17;TieBreak Tennis shoes;16;404.21;10871;64.67
+17;TieBreak Tennis shoes;16;422.35;10564;96.54
+17;TieBreak Tennis shoes;18;438.66;10573;83.35
+17;TieBreak Tennis shoes;20;509.6;10696;96.82
+17;TieBreak Tennis shoes;20;524.8;10338;71.37
+17;TieBreak Tennis shoes;20;577.08;10727;131.8
+17;TieBreak Tennis shoes;25;672.38;10523;166.26
+17;TieBreak Tennis shoes;27;816.41;10714;287.38
+17;TieBreak Tennis shoes;30;717.0;10265;97.51
+17;TieBreak Tennis shoes;30;813.6;10686;264.42
+17;TieBreak Tennis shoes;33;856.02;10773;162.64
+17;TieBreak Tennis shoes;35;1029.88;10795;362.52
+17;TieBreak Tennis shoes;36;978.52;10346;209.94
+17;TieBreak Tennis shoes;40;968.0;10530;166.5
+17;TieBreak Tennis shoes;40;1026.0;10302;139.54
+17;TieBreak Tennis shoes;40;1247.0;10801;438.94
+17;TieBreak Tennis shoes;42;1066.38;10861;125.83
+17;TieBreak Tennis shoes;45;1217.16;10430;377.32
+17;TieBreak Tennis shoes;50;1585.63;10431;535.31
+17;TieBreak Tennis shoes;70;1797.81;10339;318.47
+17;TieBreak Tennis shoes;77;2277.58;11064;451.38
+17;TieBreak Tennis shoes;100;2436.0;10607;462.84
+18;Deuce shirt;4;114.22;10644;30.11
+18;Deuce shirt;4;123.45;10935;36.34
+18;Deuce shirt;6;152.4;10964;17.98
+18;Deuce shirt;8;193.36;10639;36.74
+18;Deuce shirt;8;214.88;11026;25.36
+18;Deuce shirt;8;245.26;10985;48.61
+18;Deuce shirt;9;241.02;10382;41.46
+18;Deuce shirt;10;255.2;10853;30.11
+18;Deuce shirt;10;275.6;11018;32.52
+18;Deuce shirt;12;328.56;10293;44.68
+18;Deuce shirt;12;408.45;10719;143.77
+18;Deuce shirt;18;545.65;10566;161.32
+18;Deuce shirt;20;476.6;10861;56.24
+18;Deuce shirt;20;510.3;10340;90.4
+18;Deuce shirt;20;525.2;10645;99.79
+18;Deuce shirt;21;643.61;10756;170.02
+18;Deuce shirt;24;659.04;10745;125.22
+18;Deuce shirt;25;644.5;10877;76.05
+18;Deuce shirt;25;749.38;10516;185.3
+18;Deuce shirt;25;757.9;10305;162.6
+18;Deuce shirt;25;875.0;10838;257.6
+18;Deuce shirt;30;696.0;10789;101.24
+18;Deuce shirt;30;755.7;10470;101.38
+18;Deuce shirt;35;1068.9;11053;226.07
+18;Deuce shirt;40;1191.36;10332;333.58
+18;Deuce shirt;40;1262.4;10588;410.28
+18;Deuce shirt;50;1381.5;10634;262.48
+19;Squash Shorts;1;9.9;10281;1.35
+19;Squash Shorts;2;20.18;10831;2.38
+19;Squash Shorts;4;42.04;10421;11.77
+19;Squash Shorts;5;42.25;10710;8.03
+19;Squash Shorts;5;48.45;10487;8.33
+19;Squash Shorts;5;49.45;10621;9.4
+19;Squash Shorts;7;60.48;10926;7.14
+19;Squash Shorts;7;67.55;10676;11.46
+19;Squash Shorts;7;73.68;10697;25.93
+19;Squash Shorts;10;89.25;10329;8.87
+19;Squash Shorts;10;95.2;10550;18.09
+19;Squash Shorts;10;122.25;11076;35.99
+19;Squash Shorts;12;100.92;10910;11.91
+19;Squash Shorts;12;105.24;10711;12.29
+19;Squash Shorts;12;111.72;10967;13.18
+19;Squash Shorts;12;122.23;10446;30.22
+19;Squash Shorts;12;137.25;10651;42.42
+19;Squash Shorts;12;140.83;10847;37.32
+19;Squash Shorts;15;137.55;10299;18.71
+19;Squash Shorts;15;141.9;10811;26.96
+19;Squash Shorts;15;154.28;10623;40.67
+19;Squash Shorts;15;171.36;10438;53.12
+19;Squash Shorts;18;165.24;10283;22.47
+19;Squash Shorts;18;166.32;10414;35.16
+19;Squash Shorts;20;187.6;10416;32.15
+19;Squash Shorts;21;203.07;10463;34.93
+19;Squash Shorts;24;233.86;10803;53.45
+19;Squash Shorts;25;213.75;10875;25.22
+19;Squash Shorts;30;271.2;10647;51.53
+19;Squash Shorts;30;319.77;10681;63.59
+19;Squash Shorts;35;336.35;11022;39.69
+19;Squash Shorts;35;357.0;10555;116.02
+19;Squash Shorts;40;341.2;10447;58.69
+19;Squash Shorts;42;412.02;11066;48.62
+19;Squash Shorts;50;473.03;11012;40.64
+19;Squash Shorts;50;499.28;10788;114.12
+19;Squash Shorts;80;806.4;10345;109.67
+20;Tennis Suit;5;409.35;10828;48.3
+20;Tennis Suit;5;410.7;10927;48.46
+20;Tennis Suit;6;529.5;10272;72.01
+20;Tennis Suit;12;1218.6;10372;376.3
+20;Tennis Suit;15;1114.2;11021;131.48
+20;Tennis Suit;15;1211.7;10986;142.98
+20;Tennis Suit;15;1245.35;11077;189.2
+20;Tennis Suit;15;1385.01;10523;342.48
+20;Tennis Suit;20;1681.4;10292;228.67
+20;Tennis Suit;20;1718.22;10878;274.92
+20;Tennis Suit;21;1817.55;10660;345.33
+20;Tennis Suit;21;2096.39;10593;681.33
+20;Tennis Suit;28;2422.28;10384;406.31
+20;Tennis Suit;39;3433.17;10514;590.51
+20;Tennis Suit;40;3189.06;10252;674.26
+20;Tennis Suit;50;4404.75;10953;704.76
+21;Basket Shoes;3;30.9;11058;3.65
+21;Basket Shoes;5;48.7;10716;9.25
+21;Basket Shoes;5;57.92;10368;12.43
+21;Basket Shoes;6;62.7;10550;16.53
+21;Basket Shoes;6;64.14;10609;12.19
+21;Basket Shoes;8;87.36;10614;16.6
+21;Basket Shoes;10;101.4;10259;13.79
+21;Basket Shoes;10;115.5;10333;16.4
+21;Basket Shoes;10;123.17;10397;34.49
+21;Basket Shoes;12;120.12;10956;14.17
+21;Basket Shoes;12;122.36;10681;32.26
+21;Basket Shoes;12;129.0;10504;22.19
+21;Basket Shoes;12;131.52;10409;22.62
+21;Basket Shoes;14;134.12;10484;23.07
+21;Basket Shoes;15;149.25;11083;17.61
+21;Basket Shoes;15;163.65;10539;31.09
+21;Basket Shoes;15;178.86;11034;35.45
+21;Basket Shoes;20;200.2;10261;27.23
+21;Basket Shoes;20;205.4;10873;24.24
+21;Basket Shoes;20;209.2;11040;24.69
+21;Basket Shoes;21;236.78;10477;75.31
+21;Basket Shoes;25;276.38;10623;72.86
+21;Basket Shoes;30;284.7;10729;54.09
+21;Basket Shoes;30;346.83;10406;69.53
+21;Basket Shoes;30;381.24;10642;123.9
+21;Basket Shoes;32;339.7;10717;77.64
+21;Basket Shoes;36;386.28;10930;15.13
+21;Basket Shoes;40;367.6;10861;43.38
+21;Basket Shoes;40;412.02;10731;94.18
+21;Basket Shoes;40;415.8;10884;66.53
+21;Basket Shoes;40;422.74;10456;86.74
+21;Basket Shoes;40;423.6;10763;80.48
+21;Basket Shoes;40;460.92;10978;107.41
+21;Basket Shoes;40;475.68;10513;147.46
+21;Basket Shoes;40;493.0;10461;166.44
+21;Basket Shoes;42;383.88;10619;72.94
+21;Basket Shoes;50;513.0;10430;88.24
+21;Basket Shoes;60;556.2;10929;65.63
+21;Basket Shoes;60;582.0;10658;110.58
+21;Basket Shoes;65;675.35;10990;79.69
+22;Ravellis Träskor;4;13.68;10768;2.6
+22;Ravellis Träskor;6;21.36;10251;4.52
+22;Ravellis Träskor;6;21.96;10763;4.17
+22;Ravellis Träskor;12;45.0;10435;7.74
+22;Ravellis Träskor;15;52.5;11083;6.2
+22;Ravellis Träskor;15;52.65;10648;10.0
+22;Ravellis Träskor;20;88.75;10651;31.24
+22;Ravellis Träskor;21;73.29;10943;8.65
+22;Ravellis Träskor;24;78.72;10553;14.96
+22;Ravellis Träskor;25;95.5;11001;11.27
+22;Ravellis Träskor;35;125.65;10844;14.83
+22;Ravellis Träskor;40;129.2;10635;24.55
+22;Ravellis Träskor;40;130.8;10619;24.85
+22;Ravellis Träskor;48;159.84;10603;30.37
+22;Ravellis Träskor;52;184.08;10836;21.72
+23;DSW;5;48.55;10674;9.22
+23;DSW;8;91.2;10935;26.85
+23;DSW;10;83.3;10495;14.33
+23;DSW;10;91.4;11013;10.79
+23;DSW;10;96.4;10621;18.32
+23;DSW;14;132.58;11077;15.64
+23;DSW;15;133.65;10470;22.99
+23;DSW;18;178.2;10811;33.86
+23;DSW;20;197.82;10554;45.22
+23;DSW;21;178.5;10462;22.35
+23;DSW;25;230.75;10348;31.38
+23;DSW;30;299.16;10880;79.28
+23;DSW;32;274.88;10670;52.23
+23;DSW;40;344.0;10396;59.17
+23;DSW;40;360.0;10337;48.96
+23;DSW;44;419.76;10748;79.75
+23;DSW;50;419.0;10869;49.44
+23;DSW;60;544.2;10402;93.6
+23;DSW;70;721.49;10845;106.31
+23;DSW;70;772.8;10543;228.48
+24;Samba Socker  Socks;3;13.11;10623;2.49
+24;Samba Socker  Socks;5;21.65;10518;3.72
+24;Samba Socker  Socks;5;22.05;10620;4.19
+24;Samba Socker  Socks;6;25.08;10281;3.41
+24;Samba Socker  Socks;6;35.18;10866;10.36
+24;Samba Socker  Socks;8;34.8;10883;4.11
+24;Samba Socker  Socks;8;37.44;10520;6.44
+24;Samba Socker  Socks;10;41.1;10293;5.59
+24;Samba Socker  Socks;10;44.52;10358;7.89
+24;Samba Socker  Socks;10;44.7;11010;5.27
+24;Samba Socker  Socks;10;47.0;10893;5.55
+24;Samba Socker  Socks;10;47.3;10352;6.43
+24;Samba Socker  Socks;10;49.68;11051;13.17
+24;Samba Socker  Socks;10;52.9;10512;14.81
+24;Samba Socker  Socks;10;58.0;10960;17.08
+24;Samba Socker  Socks;12;49.56;10998;5.85
+24;Samba Socker  Socks;12;50.16;11009;5.92
+24;Samba Socker  Socks;12;51.0;10280;6.94
+24;Samba Socker  Socks;12;51.91;10275;5.86
+24;Samba Socker  Socks;12;54.72;10885;6.46
+24;Samba Socker  Socks;14;68.6;10498;11.8
+24;Samba Socker  Socks;15;61.65;10386;10.6
+24;Samba Socker  Socks;15;67.35;11055;7.95
+24;Samba Socker  Socks;15;72.75;10387;7.19
+24;Samba Socker  Socks;15;77.97;10254;21.83
+24;Samba Socker  Socks;15;83.66;10648;24.74
+24;Samba Socker  Socks;18;88.56;10555;28.78
+24;Samba Socker  Socks;20;87.4;10763;16.61
+24;Samba Socker  Socks;20;92.0;11073;10.86
+24;Samba Socker  Socks;20;92.62;10446;22.9
+24;Samba Socker  Socks;20;92.8;10984;10.95
+24;Samba Socker  Socks;20;98.4;10695;18.7
+24;Samba Socker  Socks;20;105.11;10799;31.08
+24;Samba Socker  Socks;21;94.92;11031;11.2
+24;Samba Socker  Socks;25;110.25;10465;18.96
+24;Samba Socker  Socks;25;115.75;10946;13.66
+24;Samba Socker  Socks;25;116.5;10355;15.84
+24;Samba Socker  Socks;25;121.83;10565;32.12
+24;Samba Socker  Socks;28;114.52;10263;13.74
+24;Samba Socker  Socks;28;128.8;10467;12.66
+24;Samba Socker  Socks;30;128.1;10968;15.12
+24;Samba Socker  Socks;30;162.75;11000;47.91
+24;Samba Socker  Socks;30;179.63;11027;52.88
+24;Samba Socker  Socks;35;160.3;10704;30.46
+24;Samba Socker  Socks;35;162.47;10541;42.83
+24;Samba Socker  Socks;35;166.25;10922;19.62
+24;Samba Socker  Socks;35;206.64;10597;67.16
+24;Samba Socker  Socks;40;225.5;10859;66.39
+24;Samba Socker  Socks;50;236.25;11083;37.8
+24;Samba Socker  Socks;80;329.6;10979;38.89
+24;Samba Socker  Socks;80;351.96;10472;70.27
+24;Samba Socker  Socks;110;504.9;10895;59.58
+25;Basket Vest;4;57.36;10323;7.8
+25;Basket Vest;5;65.6;10887;7.74
+25;Basket Vest;5;67.15;10810;12.76
+25;Basket Vest;6;110.81;10840;29.36
+25;Basket Vest;7;126.18;10393;42.6
+25;Basket Vest;10;132.1;10347;17.97
+25;Basket Vest;10;138.29;10851;22.13
+25;Basket Vest;10;165.6;10832;43.88
+25;Basket Vest;12;161.52;10467;15.52
+25;Basket Vest;12;192.0;10760;62.8
+25;Basket Vest;15;189.3;11055;22.34
+25;Basket Vest;15;223.18;10803;51.01
+25;Basket Vest;18;292.45;10506;72.31
+25;Basket Vest;20;318.32;10850;74.18
+25;Basket Vest;24;305.52;10919;8.9
+25;Basket Vest;35;622.56;10761;219.14
+25;Basket Vest;50;752.0;10362;102.27
+25;Basket Vest;60;868.14;10492;183.55
+26;Bike Helmet;2;56.66;10422;9.75
+26;Bike Helmet;5;151.52;10592;34.63
+26;Bike Helmet;5;154.2;10973;18.2
+26;Bike Helmet;6;178.08;11004;21.01
+26;Bike Helmet;6;195.18;10448;33.57
+26;Bike Helmet;6;199.74;10587;37.95
+26;Bike Helmet;10;300.4;10432;51.67
+26;Bike Helmet;12;342.6;10825;40.43
+26;Bike Helmet;12;401.28;11024;47.35
+26;Bike Helmet;12;402.2;10751;106.04
+26;Bike Helmet;15;443.25;10686;84.22
+26;Bike Helmet;15;464.55;10444;79.9
+26;Bike Helmet;15;480.75;10723;91.34
+26;Bike Helmet;16;471.04;10357;64.06
+26;Bike Helmet;18;693.45;10849;161.6
+26;Bike Helmet;20;577.4;10758;77.56
+26;Bike Helmet;20;666.4;10868;78.64
+26;Bike Helmet;21;710.39;10796;205.35
+26;Bike Helmet;24;805.2;10337;79.93
+26;Bike Helmet;30;846.3;10458;145.56
+26;Bike Helmet;30;941.7;10713;178.92
+26;Bike Helmet;30;955.8;10421;164.4
+26;Bike Helmet;30;1002.0;10487;172.34
+26;Bike Helmet;30;1068.8;10404;225.97
+26;Bike Helmet;30;1158.51;10677;342.52
+26;Bike Helmet;35;1284.38;10633;379.73
+26;Bike Helmet;35;1294.13;10857;380.99
+26;Bike Helmet;40;1368.4;10540;260.0
+26;Bike Helmet;40;1378.16;10817;407.46
+26;Bike Helmet;50;1882.55;10330;468.18
+26;Bike Helmet;63;1901.34;11021;224.36
+26;Bike Helmet;70;2749.25;10393;882.28
+27;Tracksuit;10;433.5;10858;51.15
+27;Tracksuit;15;806.81;10284;249.14
+27;Tracksuit;25;1039.5;10930;26.73
+27;Tracksuit;25;1077.25;10257;185.29
+27;Tracksuit;30;1213.5;10979;143.19
+27;Tracksuit;40;1592.0;10760;216.39
+27;Tracksuit;50;2074.5;10598;394.16
+27;Tracksuit;50;2212.5;10441;380.55
+27;Tracksuit;120;5004.0;10515;860.69
+28;RDL Suit;2;89.1;10952;10.51
+28;RDL Suit;3;134.64;10873;15.89
+28;RDL Suit;3;149.76;10509;15.63
+28;RDL Suit;4;196.68;10312;17.21
+28;RDL Suit;5;252.66;10740;82.11
+28;RDL Suit;6;285.06;10387;49.03
+28;RDL Suit;7;304.15;10544;57.79
+28;RDL Suit;8;394.13;10500;83.33
+28;RDL Suit;8;397.28;10937;46.88
+28;RDL Suit;8;431.11;11068;100.47
+28;RDL Suit;10;448.6;10624;85.23
+28;RDL Suit;12;522.24;10443;89.83
+28;RDL Suit;13;678.82;10368;145.64
+28;RDL Suit;14;682.78;10319;92.86
+28;RDL Suit;15;736.35;10452;126.65
+28;RDL Suit;15;873.0;10643;307.3
+28;RDL Suit;18;789.66;10474;135.82
+28;RDL Suit;20;846.8;10976;99.92
+28;RDL Suit;20;872.8;10499;100.65
+28;RDL Suit;20;889.6;10277;120.99
+28;RDL Suit;20;947.14;10377;235.55
+28;RDL Suit;20;948.6;10649;180.23
+28;RDL Suit;20;958.0;11039;113.04
+28;RDL Suit;20;998.8;10733;189.77
+28;RDL Suit;24;1090.32;10804;207.16
+28;RDL Suit;28;1198.68;10302;163.02
+28;RDL Suit;30;1262.1;10360;171.65
+28;RDL Suit;30;1445.7;10458;248.66
+28;RDL Suit;30;1544.4;10924;306.07
+28;RDL Suit;35;1618.05;10514;278.3
+28;RDL Suit;42;2187.11;10406;540.81
+28;RDL Suit;60;2856.48;10688;753.07
+28;RDL Suit;70;3123.02;11008;499.68
+29;Davenport;2;327.88;11006;96.53
+29;Davenport;4;521.36;10354;70.9
+29;Davenport;6;725.7;10624;137.88
+29;Davenport;8;1124.09;10834;156.04
+29;Davenport;10;1157.6;10583;219.94
+29;Davenport;10;1173.0;10268;159.53
+29;Davenport;10;1321.2;10687;251.03
+29;Davenport;10;1344.1;11007;158.6
+29;Davenport;10;1521.25;10857;447.86
+29;Davenport;12;1570.84;10698;359.05
+29;Davenport;14;1692.56;10791;386.87
+29;Davenport;14;1811.32;10382;311.55
+29;Davenport;14;1892.24;10971;223.28
+29;Davenport;15;1890.45;10290;257.1
+29;Davenport;18;2206.44;10772;419.22
+29;Davenport;18;2646.86;10465;559.66
+29;Davenport;20;2355.6;10369;320.36
+29;Davenport;20;2389.8;10629;454.06
+29;Davenport;20;2642.01;10787;603.89
+29;Davenport;20;3298.5;10801;1161.07
+29;Davenport;21;2554.65;10400;439.4
+29;Davenport;24;3030.72;10893;357.62
+29;Davenport;24;3564.54;10440;998.07
+29;Davenport;25;3133.35;10305;672.25
+29;Davenport;35;4751.6;10360;646.22
+29;Davenport;36;4708.8;10666;894.67
+29;Davenport;36;4764.24;10510;819.45
+29;Davenport;40;4824.8;10691;916.71
+29;Davenport;50;7867.5;10993;2316.19
+29;Davenport;60;9170.25;10912;2699.72
+29;Davenport;60;10074.75;11030;2966.01
+29;Davenport;80;10652.0;10897;1256.94
+30;Baby Dark Lounge Suit;1;26.2;10917;3.09
+30;Baby Dark Lounge Suit;2;65.6;10652;23.09
+30;Baby Dark Lounge Suit;3;100.65;10719;30.49
+30;Baby Dark Lounge Suit;4;123.0;11065;28.75
+30;Baby Dark Lounge Suit;6;158.28;10282;21.53
+30;Baby Dark Lounge Suit;8;188.4;10468;32.4
+30;Baby Dark Lounge Suit;8;206.72;10329;36.62
+30;Baby Dark Lounge Suit;10;263.1;10534;49.99
+30;Baby Dark Lounge Suit;10;272.5;10524;46.87
+30;Baby Dark Lounge Suit;10;280.2;10306;38.11
+30;Baby Dark Lounge Suit;15;351.3;10734;64.23
+30;Baby Dark Lounge Suit;15;356.25;10728;67.69
+30;Baby Dark Lounge Suit;15;369.9;10532;70.28
+30;Baby Dark Lounge Suit;15;381.0;10338;51.82
+30;Baby Dark Lounge Suit;15;425.4;11015;50.2
+30;Baby Dark Lounge Suit;15;428.24;10891;68.52
+30;Baby Dark Lounge Suit;15;503.46;10786;163.62
+30;Baby Dark Lounge Suit;18;469.26;10401;80.71
+30;Baby Dark Lounge Suit;18;505.1;10380;108.37
+30;Baby Dark Lounge Suit;20;511.77;10834;52.95
+30;Baby Dark Lounge Suit;20;512.4;10560;97.36
+30;Baby Dark Lounge Suit;20;621.12;10522;192.55
+30;Baby Dark Lounge Suit;25;812.19;10802;238.05
+30;Baby Dark Lounge Suit;28;955.15;10461;322.46
+30;Baby Dark Lounge Suit;30;708.3;10751;134.58
+30;Baby Dark Lounge Suit;30;825.3;10650;156.81
+30;Baby Dark Lounge Suit;30;838.2;10957;98.91
+30;Baby Dark Lounge Suit;35;959.0;10893;113.16
+30;Baby Dark Lounge Suit;35;1008.84;10327;282.48
+30;Baby Dark Lounge Suit;36;945.72;10897;111.6
+30;Baby Dark Lounge Suit;40;1204.5;10866;354.6
+30;Baby Dark Lounge Suit;60;1992.75;10263;615.36
+31;Rossi Bermuda Shorts;1;8.19;10782;1.56
+31;Rossi Bermuda Shorts;2;19.7;10774;6.93
+31;Rossi Bermuda Shorts;3;27.29;10446;6.75
+31;Rossi Bermuda Shorts;3;27.47;10730;6.28
+31;Rossi Bermuda Shorts;4;31.2;10325;4.24
+31;Rossi Bermuda Shorts;6;48.51;10564;11.09
+31;Rossi Bermuda Shorts;8;65.92;10747;12.52
+31;Rossi Bermuda Shorts;8;71.9;10668;18.95
+31;Rossi Bermuda Shorts;9;87.42;10833;15.99
+31;Rossi Bermuda Shorts;10;79.0;10945;9.32
+31;Rossi Bermuda Shorts;10;81.6;10783;15.5
+31;Rossi Bermuda Shorts;14;107.66;10423;18.52
+31;Rossi Bermuda Shorts;14;119.28;10855;14.08
+31;Rossi Bermuda Shorts;15;122.85;11016;14.5
+31;Rossi Bermuda Shorts;15;140.96;10273;24.97
+31;Rossi Bermuda Shorts;16;133.56;10776;23.0
+31;Rossi Bermuda Shorts;16;155.76;10812;33.49
+31;Rossi Bermuda Shorts;20;165.0;10576;21.42
+31;Rossi Bermuda Shorts;20;165.6;10253;25.03
+31;Rossi Bermuda Shorts;20;169.0;11070;19.94
+31;Rossi Bermuda Shorts;20;171.57;10496;36.27
+31;Rossi Bermuda Shorts;20;173.04;10659;39.55
+31;Rossi Bermuda Shorts;20;178.2;10536;33.86
+31;Rossi Bermuda Shorts;20;183.0;10705;34.77
+31;Rossi Bermuda Shorts;20;186.0;10363;11.99
+31;Rossi Bermuda Shorts;20;195.25;10680;68.73
+31;Rossi Bermuda Shorts;24;207.6;10979;24.42
+31;Rossi Bermuda Shorts;25;242.08;10954;56.41
+31;Rossi Bermuda Shorts;25;254.4;10335;71.23
+31;Rossi Bermuda Shorts;30;240.0;10537;45.6
+31;Rossi Bermuda Shorts;30;248.1;10553;47.14
+31;Rossi Bermuda Shorts;30;273.3;10374;37.17
+31;Rossi Bermuda Shorts;30;276.6;10356;37.62
+31;Rossi Bermuda Shorts;32;257.6;10393;44.31
+31;Rossi Bermuda Shorts;35;310.1;10826;36.59
+31;Rossi Bermuda Shorts;35;317.45;10886;33.01
+31;Rossi Bermuda Shorts;35;358.26;10569;92.53
+31;Rossi Bermuda Shorts;35;374.73;10475;104.92
+31;Rossi Bermuda Shorts;40;312.4;10272;42.49
+31;Rossi Bermuda Shorts;42;341.33;10376;60.46
+31;Rossi Bermuda Shorts;44;441.1;10941;129.86
+31;Rossi Bermuda Shorts;50;392.5;10722;74.58
+31;Rossi Bermuda Shorts;50;414.23;10953;66.28
+31;Rossi Bermuda Shorts;50;423.0;10768;74.88
+31;Rossi Bermuda Shorts;50;480.38;10584;107.04
+31;Rossi Bermuda Shorts;55;487.03;10549;143.99
+31;Rossi Bermuda Shorts;56;585.98;10342;164.08
+31;Rossi Bermuda Shorts;60;595.98;10390;147.37
+31;Rossi Bermuda Shorts;60;624.24;10567;202.88
+31;Rossi Bermuda Shorts;70;639.45;10359;113.27
+31;Rossi Bermuda Shorts;70;761.88;10773;247.61
+32;Rossi Bikkini;4;78.72;10705;9.61
+32;Rossi Bikkini;6;123.54;10916;14.58
+32;Rossi Bikkini;6;134.21;10335;37.58
+32;Rossi Bikkini;6;139.32;10258;39.01
+32;Rossi Bikkini;10;189.8;11077;8.08
+32;Rossi Bikkini;10;198.5;10759;37.72
+32;Rossi Bikkini;10;223.96;10572;59.04
+32;Rossi Bikkini;15;328.39;11046;52.54
+32;Rossi Bikkini;20;410.4;10818;44.57
+32;Rossi Bikkini;20;411.2;11053;19.11
+32;Rossi Bikkini;24;492.38;10547;145.57
+32;Rossi Bikkini;35;790.41;10985;156.64
+32;Rossi Bikkini;40;874.72;10314;187.67
+32;Rossi Bikkini;50;1016.5;10997;119.95
+32;Rossi Bikkini;50;1079.4;10513;334.61
+33;Car Boots;3;76.5;11083;9.03
+33;Car Boots;4;121.16;10850;28.24
+33;Car Boots;7;177.31;10972;13.01
+33;Car Boots;8;211.6;10341;28.78
+33;Car Boots;8;243.89;10677;72.11
+33;Car Boots;8;261.41;10528;81.04
+33;Car Boots;10;238.4;11054;28.13
+33;Car Boots;12;319.08;10473;54.88
+33;Car Boots;14;340.2;10607;64.64
+33;Car Boots;14;387.1;10574;73.55
+33;Car Boots;15;373.59;10951;59.77
+33;Car Boots;15;375.3;11045;44.29
+33;Car Boots;15;414.6;10539;78.77
+33;Car Boots;16;447.36;10815;85.0
+33;Car Boots;16;515.38;10515;144.31
+33;Car Boots;20;509.0;10273;69.22
+33;Car Boots;20;516.8;10415;51.99
+33;Car Boots;20;522.48;10632;119.42
+33;Car Boots;20;579.04;10562;152.66
+33;Car Boots;20;668.88;10454;207.35
+33;Car Boots;24;577.44;10271;78.53
+33;Car Boots;25;620.55;10252;131.2
+33;Car Boots;30;692.4;10536;131.56
+33;Car Boots;30;707.4;11024;83.47
+33;Car Boots;30;756.0;10678;143.64
+33;Car Boots;30;764.1;10682;145.18
+33;Car Boots;30;788.1;10915;93.0
+33;Car Boots;35;920.85;10861;108.66
+33;Car Boots;40;1163.5;10913;342.53
+33;Car Boots;49;1272.04;10410;218.79
+33;Car Boots;50;1290.5;10414;183.02
+33;Car Boots;60;1649.4;10382;283.7
+33;Car Boots;60;1726.2;10269;305.78
+34;Baywatch Bikkini;10;77.0;10805;14.63
+34;Baywatch Bikkini;10;80.3;10890;5.9
+34;Baywatch Bikkini;10;84.8;10386;14.59
+34;Baywatch Bikkini;10;86.73;10358;13.62
+34;Baywatch Bikkini;10;109.13;10548;38.41
+34;Baywatch Bikkini;12;125.86;10700;40.9
+34;Baywatch Bikkini;14;111.86;10688;21.25
+34;Baywatch Bikkini;14;117.32;10315;15.96
+34;Baywatch Bikkini;20;153.4;10287;20.86
+34;Baywatch Bikkini;20;154.2;10937;18.2
+34;Baywatch Bikkini;20;179.52;10438;55.65
+34;Baywatch Bikkini;30;232.5;10757;44.18
+34;Baywatch Bikkini;30;241.8;11063;28.53
+34;Baywatch Bikkini;35;265.65;11066;31.35
+34;Baywatch Bikkini;35;294.0;10483;62.16
+34;Baywatch Bikkini;36;272.16;10367;15.47
+34;Baywatch Bikkini;40;295.2;10573;56.09
+34;Baywatch Bikkini;60;516.81;10990;120.44
+34;Baywatch Bikkini;90;771.12;11008;123.38
+35;LA. Shorts;3;18.72;10521;3.22
+35;LA. Shorts;3;19.26;10870;2.27
+35;LA. Shorts;4;24.32;10589;4.62
+35;LA. Shorts;4;25.28;10864;2.98
+35;LA. Shorts;4;25.48;10281;3.04
+35;LA. Shorts;6;37.5;10553;7.12
+35;LA. Shorts;6;38.28;10836;3.18
+35;LA. Shorts;8;45.12;10831;5.32
+35;LA. Shorts;8;45.6;10444;7.84
+35;LA. Shorts;9;67.61;10697;23.8
+35;LA. Shorts;10;54.3;10321;7.38
+35;LA. Shorts;10;55.9;10921;6.6
+35;LA. Shorts;15;87.9;10789;16.7
+35;LA. Shorts;15;100.05;11002;23.32
+35;LA. Shorts;18;119.26;11046;19.08
+35;LA. Shorts;20;117.0;10821;22.23
+35;LA. Shorts;20;128.4;10587;24.4
+35;LA. Shorts;20;129.4;10578;24.59
+35;LA. Shorts;20;130.18;10551;38.49
+35;LA. Shorts;20;131.2;10261;15.28
+35;LA. Shorts;21;138.18;10720;26.25
+35;LA. Shorts;24;147.84;11039;17.45
+35;LA. Shorts;25;178.48;10845;35.37
+35;LA. Shorts;30;163.5;10398;17.11
+35;LA. Shorts;30;181.8;10546;34.54
+35;LA. Shorts;30;187.2;10868;22.09
+35;LA. Shorts;30;202.29;10623;53.33
+35;LA. Shorts;30;219.75;10595;77.35
+35;LA. Shorts;35;203.0;10400;34.92
+35;LA. Shorts;35;252.0;10740;81.9
+35;LA. Shorts;40;237.6;10957;28.04
+35;LA. Shorts;40;288.64;10390;71.37
+35;LA. Shorts;60;366.6;11035;43.26
+35;LA. Shorts;60;399.6;10424;123.88
+35;LA. Shorts;70;452.41;10324;112.51
+35;LA. Shorts;100;606.0;10286;82.42
+36;Mehmet-Tröja;5;41.9;10708;7.96
+36;Mehmet-Tröja;5;43.34;10406;10.72
+36;Mehmet-Tröja;6;44.76;10739;8.5
+36;Mehmet-Tröja;6;55.94;10371;15.66
+36;Mehmet-Tröja;6;58.05;10687;20.43
+36;Mehmet-Tröja;12;101.64;10313;13.82
+36;Mehmet-Tröja;15;118.95;10645;22.6
+36;Mehmet-Tröja;16;138.56;11016;16.35
+36;Mehmet-Tröja;18;188.55;11009;55.51
+36;Mehmet-Tröja;20;147.8;10893;17.44
+36;Mehmet-Tröja;20;159.8;10337;21.73
+36;Mehmet-Tröja;20;159.81;10358;28.31
+36;Mehmet-Tröja;20;177.84;10756;57.8
+36;Mehmet-Tröja;21;198.98;10610;70.04
+36;Mehmet-Tröja;25;194.25;10255;33.41
+36;Mehmet-Tröja;25;202.0;10563;38.38
+36;Mehmet-Tröja;25;228.85;10925;53.33
+36;Mehmet-Tröja;30;219.3;10525;23.45
+36;Mehmet-Tröja;30;233.4;10270;31.74
+36;Mehmet-Tröja;30;238.2;10784;45.26
+36;Mehmet-Tröja;30;241.8;10669;45.94
+36;Mehmet-Tröja;30;277.2;10527;68.54
+36;Mehmet-Tröja;30;313.92;10936;83.19
+36;Mehmet-Tröja;35;261.8;11032;30.89
+36;Mehmet-Tröja;40;314.0;10718;59.66
+36;Mehmet-Tröja;40;350.0;10984;34.15
+36;Mehmet-Tröja;40;362.88;10342;101.61
+36;Mehmet-Tröja;40;367.0;10298;113.33
+36;Mehmet-Tröja;50;476.88;10838;140.39
+36;Mehmet-Tröja;55;400.95;10612;76.18
+36;Mehmet-Tröja;60;514.8;10547;97.81
+37;Mehmet-Skor;1;4.37;10259;0.59
+37;Mehmet-Skor;7;31.5;11083;3.72
+37;Mehmet-Skor;8;33.36;10966;0.9
+37;Mehmet-Skor;10;39.2;10408;6.74
+37;Mehmet-Skor;18;79.79;10523;18.96
+37;Mehmet-Skor;28;109.2;10337;14.85
+37;Mehmet-Skor;60;285.12;10847;75.56
+38;Le Baby Dress;2;150.96;10828;17.81
+38;Le Baby Dress;4;340.82;10541;89.85
+38;Le Baby Dress;5;372.25;10783;58.45
+38;Le Baby Dress;5;436.4;10964;51.5
+38;Le Baby Dress;8;686.8;10831;81.04
+38;Le Baby Dress;10;807.4;10360;109.81
+38;Le Baby Dress;10;848.9;10805;161.29
+38;Le Baby Dress;15;1150.35;10518;197.86
+38;Le Baby Dress;15;1191.8;10616;227.46
+38;Le Baby Dress;15;1367.85;10672;273.05
+38;Le Baby Dress;20;1575.84;10351;279.15
+38;Le Baby Dress;20;1624.56;10329;287.78
+38;Le Baby Dress;25;2139.0;11032;252.4
+38;Le Baby Dress;30;2451.9;10817;465.86
+38;Le Baby Dress;30;2492.1;10479;428.64
+38;Le Baby Dress;30;2527.2;10540;480.17
+38;Le Baby Dress;30;2774.21;10816;634.1
+38;Le Baby Dress;40;3511.6;10889;414.37
+38;Le Baby Dress;40;3897.0;10372;1194.0
+38;Le Baby Dress;49;5068.56;10424;1571.25
+38;Le Baby Dress;50;3960.5;10417;667.88
+38;Le Baby Dress;50;4524.0;10353;1266.72
+38;Le Baby Dress;60;4796.4;10981;565.98
+38;Le Baby Dress;60;5111.82;10865;817.89
+39;Terence Top;2;141.04;10784;41.7
+39;Terence Top;3;236.27;10661;76.79
+39;Terence Top;4;244.84;10323;33.3
+39;Terence Top;5;298.05;10614;56.63
+39;Terence Top;6;329.04;10257;56.33
+39;Terence Top;6;351.42;10445;60.44
+39;Terence Top;8;591.28;10899;137.79
+39;Terence Top;10;578.55;11077;92.57
+39;Terence Top;10;627.2;10577;119.17
+39;Terence Top;10;640.2;10508;110.11
+39;Terence Top;10;650.52;10840;172.39
+39;Terence Top;16;875.2;10762;166.29
+39;Terence Top;20;1165.2;11069;89.9
+39;Terence Top;20;1264.0;10647;240.16
+39;Terence Top;20;1297.8;10455;223.22
+39;Terence Top;20;1374.94;10377;341.94
+39;Terence Top;20;1397.88;10654;368.53
+39;Terence Top;20;1427.5;10477;481.92
+39;Terence Top;21;1141.98;10827;134.75
+39;Terence Top;21;1478.4;10643;520.4
+39;Terence Top;28;1522.36;10830;179.64
+39;Terence Top;30;1816.2;10977;214.31
+39;Terence Top;30;1889.25;10305;405.33
+39;Terence Top;42;2433.9;10253;418.63
+39;Terence Top;45;2893.5;10895;341.43
+39;Terence Top;50;3376.4;10347;839.7
+39;Terence Top;54;3596.08;10361;771.52
+39;Terence Top;60;3561.0;10297;484.3
+39;Terence Top;80;5286.96;10865;845.91
+39;Terence Top;130;7797.79;10764;2055.78
+40;Duck Trousers;1;20.11;10807;2.7
+40;Duck Trousers;2;38.58;10574;7.33
+40;Duck Trousers;2;41.65;10406;10.3
+40;Duck Trousers;3;51.63;10754;9.81
+40;Duck Trousers;4;68.0;10347;9.25
+40;Duck Trousers;5;90.0;10498;15.48
+40;Duck Trousers;5;106.62;11038;28.25
+40;Duck Trousers;6;106.92;10728;20.31
+40;Duck Trousers;10;167.8;11003;19.8
+40;Duck Trousers;10;175.9;10482;23.85
+40;Duck Trousers;10;182.9;10978;21.58
+40;Duck Trousers;10;183.3;10301;24.93
+40;Duck Trousers;10;184.0;10484;31.65
+40;Duck Trousers;10;213.4;10535;56.26
+40;Duck Trousers;10;221.76;10534;72.07
+40;Duck Trousers;12;210.36;10879;24.82
+40;Duck Trousers;15;304.59;10525;75.32
+40;Duck Trousers;20;364.8;10684;69.31
+40;Duck Trousers;20;373.0;10448;64.16
+40;Duck Trousers;20;387.0;10465;66.56
+40;Duck Trousers;20;400.0;10919;47.2
+40;Duck Trousers;21;374.22;10474;64.37
+40;Duck Trousers;24;490.14;10659;112.03
+40;Duck Trousers;25;450.25;10837;47.69
+40;Duck Trousers;25;547.5;10522;169.72
+40;Duck Trousers;30;523.8;10811;99.52
+40;Duck Trousers;30;609.21;10663;139.25
+40;Duck Trousers;40;720.4;10748;110.45
+40;Duck Trousers;40;775.28;10303;166.33
+40;Duck Trousers;40;826.56;10285;231.44
+40;Duck Trousers;40;878.24;11063;174.05
+40;Duck Trousers;42;700.14;10607;133.03
+40;Duck Trousers;50;935.5;10267;127.23
+40;Duck Trousers;50;971.5;10572;184.58
+40;Duck Trousers;50;1118.75;10431;377.69
+40;Duck Trousers;50;1187.4;10744;385.9
+40;Duck Trousers;60;1187.4;10641;225.61
+40;Duck Trousers;60;1219.05;10273;215.95
+40;Duck Trousers;60;1247.52;10817;368.83
+40;Duck Trousers;70;1462.65;10658;334.32
+40;Duck Trousers;91;1752.66;10895;206.81
+41;Duck Shirt;4;36.84;10685;7.0
+41;Duck Shirt;4;37.36;10989;4.41
+41;Duck Shirt;5;50.45;10909;5.95
+41;Duck Shirt;6;52.26;10973;6.17
+41;Duck Shirt;6;60.1;10951;9.62
+41;Duck Shirt;6;68.64;10523;16.97
+41;Duck Shirt;8;69.76;11077;8.23
+41;Duck Shirt;8;82.1;10379;17.61
+41;Duck Shirt;9;84.06;11067;9.92
+41;Duck Shirt;9;92.04;10580;19.14
+41;Duck Shirt;10;89.6;10316;12.19
+41;Duck Shirt;10;90.6;10778;17.21
+41;Duck Shirt;10;95.9;10250;16.49
+41;Duck Shirt;10;96.3;10521;16.56
+41;Duck Shirt;12;104.4;10824;12.32
+41;Duck Shirt;12;109.87;10559;25.11
+41;Duck Shirt;12;115.04;10340;20.38
+41;Duck Shirt;12;121.44;10737;23.07
+41;Duck Shirt;12;122.76;11064;14.49
+41;Duck Shirt;12;123.36;10725;23.44
+41;Duck Shirt;13;135.46;10351;18.42
+41;Duck Shirt;14;125.86;10793;23.91
+41;Duck Shirt;14;127.68;10890;15.07
+41;Duck Shirt;14;146.72;10548;27.88
+41;Duck Shirt;16;200.4;10260;61.88
+41;Duck Shirt;20;177.6;10814;33.74
+41;Duck Shirt;20;191.2;10318;26.0
+41;Duck Shirt;20;199.5;10999;31.92
+41;Duck Shirt;20;202.23;10791;41.41
+41;Duck Shirt;20;204.4;10495;35.16
+41;Duck Shirt;20;206.0;10818;39.14
+41;Duck Shirt;20;251.28;10655;81.67
+41;Duck Shirt;24;229.92;10960;27.13
+41;Duck Shirt;24;245.04;10657;46.56
+41;Duck Shirt;25;274.56;10264;63.04
+41;Duck Shirt;25;277.2;10411;85.93
+41;Duck Shirt;28;313.54;11014;62.14
+41;Duck Shirt;30;267.6;10901;31.58
+41;Duck Shirt;30;275.7;10444;47.42
+41;Duck Shirt;30;283.19;10769;64.73
+41;Duck Shirt;30;317.46;11063;62.91
+41;Duck Shirt;35;316.75;10747;60.18
+41;Duck Shirt;35;442.75;10993;130.35
+41;Duck Shirt;40;416.0;11072;49.09
+41;Duck Shirt;42;393.96;10711;74.85
+41;Duck Shirt;80;924.0;10516;228.48
+41;Duck Shirt;120;1215.6;10678;230.96
+42;Balett Shoes;2;26.7;10767;5.07
+42;Balett Shoes;2;27.24;10309;3.7
+42;Balett Shoes;4;59.16;11013;5.03
+42;Balett Shoes;5;74.6;10625;14.17
+42;Balett Shoes;6;81.18;10673;15.42
+42;Balett Shoes;6;89.58;10311;12.18
+42;Balett Shoes;9;136.71;10345;18.59
+42;Balett Shoes;10;140.4;10248;24.15
+42;Balett Shoes;10;156.5;11083;18.47
+42;Balett Shoes;10;158.4;10923;41.98
+42;Balett Shoes;10;181.56;10332;50.84
+42;Balett Shoes;12;186.73;10776;42.68
+42;Balett Shoes;14;207.06;11007;10.62
+42;Balett Shoes;20;267.6;10652;50.84
+42;Balett Shoes;20;268.0;10856;31.62
+42;Balett Shoes;20;290.22;10492;35.99
+42;Balett Shoes;20;291.4;10516;30.01
+42;Balett Shoes;20;360.96;10777;117.31
+42;Balett Shoes;24;354.94;11002;80.47
+42;Balett Shoes;25;315.75;10882;37.26
+42;Balett Shoes;28;416.36;10746;79.11
+42;Balett Shoes;28;435.99;10571;128.9
+42;Balett Shoes;30;399.6;11035;16.51
+42;Balett Shoes;30;453.0;10498;77.92
+42;Balett Shoes;30;464.94;10663;98.16
+42;Balett Shoes;40;561.54;10404;118.73
+42;Balett Shoes;40;568.4;10996;67.07
+42;Balett Shoes;40;693.5;10680;244.11
+42;Balett Shoes;42;621.39;10845;123.15
+42;Balett Shoes;50;743.0;10463;127.8
+42;Balett Shoes;100;1669.2;10588;542.49
+43;Summer Shorts;3;33.54;10464;5.77
+43;Summer Shorts;5;55.45;10842;6.54
+43;Summer Shorts;6;74.34;10673;10.36
+43;Summer Shorts;6;78.42;10987;9.25
+43;Summer Shorts;7;79.59;10819;15.12
+43;Summer Shorts;9;102.33;10982;12.07
+43;Summer Shorts;9;113.94;10831;4.84
+43;Summer Shorts;10;154.08;10923;40.83
+43;Summer Shorts;12;129.84;10302;17.66
+43;Summer Shorts;15;173.85;10468;29.9
+43;Summer Shorts;15;193.5;10294;26.32
+43;Summer Shorts;15;196.82;10507;55.11
+43;Summer Shorts;20;237.4;10309;32.29
+43;Summer Shorts;20;252.8;10458;34.92
+43;Summer Shorts;20;262.0;10644;49.78
+43;Summer Shorts;20;283.36;10814;83.78
+43;Summer Shorts;24;281.76;10706;53.53
+43;Summer Shorts;24;314.64;10312;42.79
+43;Summer Shorts;24;380.1;10938;97.69
+43;Summer Shorts;25;272.75;10530;46.91
+43;Summer Shorts;25;326.5;10270;44.4
+43;Summer Shorts;30;357.3;11023;42.16
+43;Summer Shorts;30;429.12;11052;113.72
+43;Summer Shorts;30;464.25;10760;163.42
+43;Summer Shorts;36;464.09;11068;108.15
+43;Summer Shorts;40;457.6;10691;86.94
+43;Summer Shorts;40;501.06;10340;88.76
+43;Summer Shorts;60;780.0;10524;134.16
+44;Okkaba Skin Jackets;2;156.81;10469;43.91
+44;Okkaba Skin Jackets;6;496.59;10978;115.73
+44;Okkaba Skin Jackets;9;691.29;10518;118.9
+44;Okkaba Skin Jackets;10;688.9;10561;130.89
+44;Okkaba Skin Jackets;10;713.9;10796;135.64
+44;Okkaba Skin Jackets;10;825.4;10624;156.83
+44;Okkaba Skin Jackets;12;879.48;11034;103.78
+44;Okkaba Skin Jackets;15;1131.15;11042;133.48
+44;Okkaba Skin Jackets;15;1420.37;10491;397.7
+44;Okkaba Skin Jackets;16;1146.08;10745;217.76
+44;Okkaba Skin Jackets;16;1292.48;10278;175.78
+44;Okkaba Skin Jackets;16;1308.29;10832;346.7
+44;Okkaba Skin Jackets;18;1636.43;10944;481.76
+44;Okkaba Skin Jackets;21;1435.77;10284;195.26
+44;Okkaba Skin Jackets;21;1565.76;10676;297.49
+44;Okkaba Skin Jackets;21;1611.96;10576;306.27
+44;Okkaba Skin Jackets;24;1781.04;10691;338.4
+44;Okkaba Skin Jackets;24;2182.75;10291;468.3
+44;Okkaba Skin Jackets;28;2095.02;10656;552.32
+44;Okkaba Skin Jackets;40;2739.6;10551;520.52
+44;Okkaba Skin Jackets;40;3298.56;10411;1022.55
+44;Okkaba Skin Jackets;50;3967.43;10721;906.84
+44;Okkaba Skin Jackets;77;5961.88;10351;1056.1
+44;Okkaba Skin Jackets;100;8495.55;10452;1796.2
+45;Danske Treshoe;4;35.88;10753;6.82
+45;Danske Treshoe;15;140.85;10896;16.62
+45;Danske Treshoe;15;156.6;10388;48.55
+45;Danske Treshoe;20;177.2;10638;33.67
+45;Danske Treshoe;20;179.4;11013;21.17
+45;Danske Treshoe;21;210.0;10502;36.12
+45;Danske Treshoe;27;258.27;10776;59.03
+45;Danske Treshoe;30;262.8;10954;31.01
+45;Danske Treshoe;30;339.57;10465;83.97
+45;Danske Treshoe;36;378.0;10847;100.17
+45;Danske Treshoe;40;405.72;10750;119.95
+45;Danske Treshoe;40;447.84;10740;145.55
+45;Danske Treshoe;100;1084.45;10549;320.62
+45;Danske Treshoe;110;1129.7;10713;140.24
+46;Rodbye Troje;2;27.88;10643;9.81
+46;Rodbye Troje;2;31.55;10417;10.65
+46;Rodbye Troje;3;34.05;11019;4.02
+46;Rodbye Troje;5;59.25;10466;10.19
+46;Rodbye Troje;5;64.25;10436;11.05
+46;Rodbye Troje;8;94.9;11077;12.84
+46;Rodbye Troje;9;117.63;10969;13.88
+46;Rodbye Troje;9;129.89;10512;36.37
+46;Rodbye Troje;10;143.64;10454;44.53
+46;Rodbye Troje;15;185.85;10943;21.93
+46;Rodbye Troje;15;210.97;10287;42.9
+46;Rodbye Troje;18;216.36;10696;41.11
+46;Rodbye Troje;20;241.4;10428;41.52
+46;Rodbye Troje;20;251.58;10459;53.19
+46;Rodbye Troje;20;315.5;10997;92.88
+46;Rodbye Troje;21;256.83;10876;30.31
+46;Rodbye Troje;21;300.3;10644;79.17
+46;Rodbye Troje;24;273.84;10713;52.03
+46;Rodbye Troje;25;328.5;11001;38.76
+46;Rodbye Troje;28;357.9;10395;88.5
+46;Rodbye Troje;28;383.08;10743;87.56
+46;Rodbye Troje;30;364.5;10324;49.57
+46;Rodbye Troje;30;454.71;11075;105.97
+46;Rodbye Troje;35;419.65;10813;79.73
+46;Rodbye Troje;45;487.35;10390;83.82
+46;Rodbye Troje;45;584.1;10657;110.98
+46;Rodbye Troje;60;745.8;10670;78.35
+47;Lundenhagen Boots;5;127.5;10928;15.04
+47;Lundenhagen Boots;5;127.5;11083;15.04
+47;Lundenhagen Boots;5;131.55;10710;24.99
+47;Lundenhagen Boots;6;156.62;10656;41.29
+47;Lundenhagen Boots;6;183.89;10512;51.49
+47;Lundenhagen Boots;10;253.2;10657;48.11
+47;Lundenhagen Boots;12;286.56;10699;54.45
+47;Lundenhagen Boots;14;322.56;10956;38.06
+47;Lundenhagen Boots;15;375.3;10685;71.31
+47;Lundenhagen Boots;15;375.6;10585;71.36
+47;Lundenhagen Boots;16;471.74;10332;132.09
+47;Lundenhagen Boots;21;564.1;10875;111.79
+47;Lundenhagen Boots;25;619.0;10558;117.61
+47;Lundenhagen Boots;30;703.5;10762;133.66
+47;Lundenhagen Boots;30;780.3;10480;134.21
+47;Lundenhagen Boots;30;809.7;10977;95.54
+47;Lundenhagen Boots;30;1012.13;10431;341.69
+47;Lundenhagen Boots;30;1044.75;10755;367.75
+47;Lundenhagen Boots;40;1051.6;10684;199.8
+47;Lundenhagen Boots;40;1356.0;10837;399.21
+47;Lundenhagen Boots;50;1746.88;10714;614.9
+47;Lundenhagen Boots;55;1410.75;10418;242.65
+48;Root Boot;6;220.51;10604;58.13
+48;Root Boot;8;304.52;10814;90.03
+48;Root Boot;15;551.14;10507;154.32
+48;Root Boot;15;592.35;10453;146.47
+48;Root Boot;24;712.08;10704;135.3
+48;Root Boot;70;2562.32;10403;717.45
+49;Finnish Sport Blades;2;43.54;11019;4.37
+49;Finnish Sport Blades;4;86.71;10804;25.64
+49;Finnish Sport Blades;6;125.4;10539;23.14
+49;Finnish Sport Blades;10;202.7;10910;23.92
+49;Finnish Sport Blades;15;294.9;10290;40.11
+49;Finnish Sport Blades;15;324.3;10875;38.27
+49;Finnish Sport Blades;18;324.0;10612;61.56
+49;Finnish Sport Blades;20;458.85;10882;106.93
+49;Finnish Sport Blades;21;484.93;10456;135.78
+49;Finnish Sport Blades;24;454.8;10481;68.59
+49;Finnish Sport Blades;25;476.5;10499;81.96
+49;Finnish Sport Blades;25;507.41;10603;115.98
+49;Finnish Sport Blades;28;551.88;10942;65.12
+49;Finnish Sport Blades;30;593.7;10304;80.74
+49;Finnish Sport Blades;30;624.33;10404;132.0
+49;Finnish Sport Blades;30;646.5;10400;83.3
+49;Finnish Sport Blades;35;640.15;10360;87.06
+49;Finnish Sport Blades;40;746.8;10967;88.12
+49;Finnish Sport Blades;40;796.4;10253;136.98
+49;Finnish Sport Blades;42;899.51;10868;136.84
+49;Finnish Sport Blades;60;1116.0;11039;131.69
+50;Finnish Swimsuit;9;144.45;10948;17.05
+50;Finnish Swimsuit;15;231.45;10383;39.81
+50;Finnish Swimsuit;15;272.09;10350;58.37
+50;Finnish Swimsuit;20;330.44;10751;87.12
+50;Finnish Swimsuit;22;347.82;11072;41.04
+50;Finnish Swimsuit;24;356.88;10920;42.11
+50;Finnish Swimsuit;25;378.25;10465;65.06
+50;Finnish Swimsuit;25;416.06;10637;95.1
+50;Finnish Swimsuit;40;660.4;10729;125.48
+50;Finnish Swimsuit;40;686.0;10429;117.99
+51;Snake Boots;2;215.24;10870;25.4
+51;Snake Boots;2;234.43;10291;50.3
+51;Snake Boots;3;272.88;10484;46.94
+51;Snake Boots;3;308.69;11083;44.36
+51;Snake Boots;3;324.06;10567;61.57
+51;Snake Boots;3;325.41;10860;38.4
+51;Snake Boots;4;473.6;10843;139.43
+51;Snake Boots;6;552.84;10537;105.04
+51;Snake Boots;6;630.9;10821;119.87
+51;Snake Boots;7;730.52;10716;138.8
+51;Snake Boots;8;785.44;10956;92.68
+51;Snake Boots;10;929.8;11026;109.72
+51;Snake Boots;10;1047.5;10977;123.6
+51;Snake Boots;10;1104.18;10800;275.56
+51;Snake Boots;15;1514.85;10634;287.82
+51;Snake Boots;15;1550.9;10999;248.14
+51;Snake Boots;16;1553.12;10965;183.27
+51;Snake Boots;18;1632.42;10472;280.78
+51;Snake Boots;18;2089.04;10397;584.93
+51;Snake Boots;20;1828.6;10558;239.66
+51;Snake Boots;20;1880.6;10665;357.31
+51;Snake Boots;20;1941.6;11055;229.11
+51;Snake Boots;20;1995.8;10995;226.74
+51;Snake Boots;20;2033.43;10663;464.78
+51;Snake Boots;20;2195.8;10362;298.63
+51;Snake Boots;20;2441.04;10555;793.34
+51;Snake Boots;24;2461.2;11045;290.42
+51;Snake Boots;25;2421.25;10486;416.46
+51;Snake Boots;28;2561.44;10709;486.67
+51;Snake Boots;28;2742.6;10762;521.09
+51;Snake Boots;30;2959.74;10731;676.51
+51;Snake Boots;30;4031.63;10802;1419.13
+51;Snake Boots;35;3931.22;10250;1100.74
+51;Snake Boots;40;4030.4;10948;475.59
+51;Snake Boots;40;4048.0;10249;405.33
+51;Snake Boots;44;5569.85;11021;1639.76
+51;Snake Boots;48;5390.83;10549;1593.81
+51;Snake Boots;48;6007.1;10335;1681.99
+51;Snake Boots;50;5042.5;10561;958.08
+51;Snake Boots;120;11665.08;10776;2666.3
+52;Small Crocodile Boots;2;155.22;11038;18.32
+52;Small Crocodile Boots;4;290.84;10725;55.26
+52;Small Crocodile Boots;4;375.41;10586;110.99
+52;Small Crocodile Boots;5;371.65;10927;43.85
+52;Small Crocodile Boots;5;415.4;10620;78.93
+52;Small Crocodile Boots;6;467.27;10961;74.76
+52;Small Crocodile Boots;6;512.94;10517;88.23
+52;Small Crocodile Boots;8;582.08;10334;79.16
+52;Small Crocodile Boots;8;662.64;11077;78.19
+52;Small Crocodile Boots;8;675.92;10793;128.42
+52;Small Crocodile Boots;8;683.52;10862;55.15
+52;Small Crocodile Boots;9;688.41;10683;130.8
+52;Small Crocodile Boots;10;801.0;11003;94.52
+52;Small Crocodile Boots;12;1171.76;10925;262.75
+52;Small Crocodile Boots;14;1150.57;10908;184.09
+52;Small Crocodile Boots;15;1266.54;10446;313.18
+52;Small Crocodile Boots;15;1284.41;10769;293.58
+52;Small Crocodile Boots;18;1431.72;10739;272.03
+52;Small Crocodile Boots;20;1454.8;10809;276.41
+52;Small Crocodile Boots;20;1560.4;10322;212.21
+52;Small Crocodile Boots;20;1759.6;10449;302.65
+52;Small Crocodile Boots;20;1884.25;10997;554.72
+52;Small Crocodile Boots;20;1983.6;10388;614.92
+52;Small Crocodile Boots;24;1964.16;10594;373.19
+52;Small Crocodile Boots;25;2147.5;10733;408.02
+52;Small Crocodile Boots;30;2554.2;10558;485.3
+52;Small Crocodile Boots;40;3659.04;10970;969.65
+52;Small Crocodile Boots;60;4579.2;10758;870.05
+52;Small Crocodile Boots;70;5688.9;10563;1080.89
+53;Jumpin Jack Flash Dress;2;110.38;10933;13.02
+53;Jumpin Jack Flash Dress;3;185.54;10712;36.6
+53;Jumpin Jack Flash Dress;3;197.97;10867;23.36
+53;Jumpin Jack Flash Dress;5;284.5;10520;48.93
+53;Jumpin Jack Flash Dress;6;400.98;10502;68.97
+53;Jumpin Jack Flash Dress;9;600.63;10833;119.03
+53;Jumpin Jack Flash Dress;10;553.2;10416;95.15
+53;Jumpin Jack Flash Dress;10;611.1;10306;83.11
+53;Jumpin Jack Flash Dress;10;623.2;10504;107.19
+53;Jumpin Jack Flash Dress;10;661.8;10675;125.74
+53;Jumpin Jack Flash Dress;10;738.48;11062;195.7
+53;Jumpin Jack Flash Dress;12;761.28;10626;144.64
+53;Jumpin Jack Flash Dress;15;872.55;10437;150.08
+53;Jumpin Jack Flash Dress;15;907.95;10256;156.17
+53;Jumpin Jack Flash Dress;15;964.28;10421;270.0
+53;Jumpin Jack Flash Dress;18;1013.94;10558;192.65
+53;Jumpin Jack Flash Dress;20;1155.4;10962;136.34
+53;Jumpin Jack Flash Dress;20;1264.6;10312;171.99
+53;Jumpin Jack Flash Dress;20;1328.8;10825;156.8
+53;Jumpin Jack Flash Dress;20;1341.12;10380;287.73
+53;Jumpin Jack Flash Dress;25;1635.38;10650;373.8
+53;Jumpin Jack Flash Dress;25;1640.25;10573;311.65
+53;Jumpin Jack Flash Dress;25;1683.28;11064;333.59
+53;Jumpin Jack Flash Dress;28;1833.16;10479;315.3
+53;Jumpin Jack Flash Dress;36;2633.47;10285;737.37
+53;Jumpin Jack Flash Dress;40;2511.6;10388;432.0
+53;Jumpin Jack Flash Dress;50;3115.5;10455;535.87
+53;Jumpin Jack Flash Dress;70;4261.95;11033;844.64
+53;Jumpin Jack Flash Dress;70;5109.72;10395;1263.49
+53;Jumpin Jack Flash Dress;120;7548.0;10711;1434.12
+54;Patamonia Fleece Jacket;3;113.7;10792;21.6
+54;Patamonia Fleece Jacket;3;136.19;10781;44.26
+54;Patamonia Fleece Jacket;4;141.44;10600;26.87
+54;Patamonia Fleece Jacket;5;189.4;10306;25.76
+54;Patamonia Fleece Jacket;6;204.54;10408;35.18
+54;Patamonia Fleece Jacket;6;212.85;10654;56.12
+54;Patamonia Fleece Jacket;6;239.4;10794;77.81
+54;Patamonia Fleece Jacket;6;253.58;10450;78.61
+54;Patamonia Fleece Jacket;7;249.1;10800;65.67
+54;Patamonia Fleece Jacket;10;329.5;10375;44.81
+54;Patamonia Fleece Jacket;10;369.82;10288;79.34
+54;Patamonia Fleece Jacket;10;370.8;10915;43.75
+54;Patamonia Fleece Jacket;10;373.0;11035;44.01
+54;Patamonia Fleece Jacket;10;443.4;10534;144.1
+54;Patamonia Fleece Jacket;15;513.45;10524;88.31
+54;Patamonia Fleece Jacket;15;523.65;10717;99.49
+54;Patamonia Fleece Jacket;15;529.8;10445;84.35
+54;Patamonia Fleece Jacket;15;569.55;10331;77.46
+54;Patamonia Fleece Jacket;18;672.66;10367;91.48
+54;Patamonia Fleece Jacket;20;755.8;10501;68.38
+54;Patamonia Fleece Jacket;20;871.7;10352;216.79
+54;Patamonia Fleece Jacket;20;942.25;11065;277.4
+54;Patamonia Fleece Jacket;24;820.32;10349;111.56
+54;Patamonia Fleece Jacket;24;822.02;10542;187.89
+54;Patamonia Fleece Jacket;24;889.68;10362;121.0
+54;Patamonia Fleece Jacket;24;1008.3;10487;340.4
+54;Patamonia Fleece Jacket;28;1028.44;10360;139.87
+54;Patamonia Fleece Jacket;30;1060.5;10650;201.5
+54;Patamonia Fleece Jacket;30;1074.3;10678;204.12
+54;Patamonia Fleece Jacket;32;1303.46;10882;303.76
+54;Patamonia Fleece Jacket;35;1568.88;10859;461.88
+54;Patamonia Fleece Jacket;40;1364.8;10432;234.75
+54;Patamonia Fleece Jacket;40;1712.5;10719;602.8
+54;Patamonia Fleece Jacket;50;1851.0;10591;351.69
+54;Patamonia Fleece Jacket;60;2555.76;10693;755.62
+54;Patamonia Fleece Jacket;80;2913.6;10442;501.14
+55;Feiss Fleece Trousers;2;79.04;10476;16.71
+55;Feiss Fleece Trousers;4;154.92;10948;18.28
+55;Feiss Fleece Trousers;4;174.94;11064;34.67
+55;Feiss Fleece Trousers;4;181.28;10668;47.79
+55;Feiss Fleece Trousers;5;209.25;10615;39.76
+55;Feiss Fleece Trousers;5;210.55;11077;17.2
+55;Feiss Fleece Trousers;6;217.5;11001;25.66
+55;Feiss Fleece Trousers;6;249.6;10725;47.42
+55;Feiss Fleece Trousers;10;441.32;10872;70.61
+55;Feiss Fleece Trousers;10;450.5;10425;152.09
+55;Feiss Fleece Trousers;12;444.53;10630;89.86
+55;Feiss Fleece Trousers;12;450.84;10728;85.66
+55;Feiss Fleece Trousers;12;487.8;10356;66.34
+55;Feiss Fleece Trousers;14;517.58;10529;89.02
+55;Feiss Fleece Trousers;15;562.35;10389;96.72
+55;Feiss Fleece Trousers;18;736.34;10559;168.31
+55;Feiss Fleece Trousers;20;849.4;10280;115.52
+55;Feiss Fleece Trousers;20;1002.48;10606;325.81
+55;Feiss Fleece Trousers;21;878.01;10707;166.82
+55;Feiss Fleece Trousers;21;984.35;10254;275.62
+55;Feiss Fleece Trousers;25;930.56;10564;212.7
+55;Feiss Fleece Trousers;25;1192.8;10930;316.09
+55;Feiss Fleece Trousers;30;1161.93;10485;287.31
+55;Feiss Fleece Trousers;30;1464.18;10902;341.22
+55;Feiss Fleece Trousers;35;1286.95;11028;151.86
+55;Feiss Fleece Trousers;35;1367.45;11056;161.36
+55;Feiss Fleece Trousers;40;1689.2;11002;108.05
+55;Feiss Fleece Trousers;40;1800.96;10342;504.27
+55;Feiss Fleece Trousers;60;2643.0;10461;892.28
+55;Feiss Fleece Trousers;60;2872.5;10802;1011.12
+55;Feiss Fleece Trousers;65;2942.91;10990;685.83
+55;Feiss Fleece Trousers;120;4935.48;10398;1220.41
+55;Feiss Fleece Trousers;120;5283.96;10451;1306.58
+56;High Heels Shoes;2;69.1;10262;9.4
+56;High Heels Shoes;4;139.36;10295;18.95
+56;High Heels Shoes;5;180.1;11018;21.25
+56;High Heels Shoes;5;181.45;10426;31.21
+56;High Heels Shoes;5;215.46;10596;70.02
+56;High Heels Shoes;10;435.44;10727;99.53
+56;High Heels Shoes;12;505.64;10329;89.57
+56;High Heels Shoes;12;539.86;10966;125.81
+56;High Heels Shoes;12;573.53;10664;169.56
+56;High Heels Shoes;14;561.54;10616;106.69
+56;High Heels Shoes;14;579.46;10497;99.67
+56;High Heels Shoes;14;665.95;10740;216.43
+56;High Heels Shoes;15;604.8;10458;104.03
+56;High Heels Shoes;15;612.15;10749;116.31
+56;High Heels Shoes;16;578.72;10896;68.29
+56;High Heels Shoes;18;727.2;10944;85.81
+56;High Heels Shoes;18;775.8;10714;273.08
+56;High Heels Shoes;18;886.95;10369;273.89
+56;High Heels Shoes;20;763.2;11029;90.06
+56;High Heels Shoes;20;783.4;10301;106.54
+56;High Heels Shoes;20;796.4;10471;136.98
+56;High Heels Shoes;20;810.2;10346;110.19
+56;High Heels Shoes;20;826.4;10383;142.14
+56;High Heels Shoes;20;832.0;10618;158.08
+56;High Heels Shoes;20;838.12;10790;247.79
+56;High Heels Shoes;20;894.24;10808;264.38
+56;High Heels Shoes;20;977.04;10781;317.54
+56;High Heels Shoes;20;1026.25;10690;361.24
+56;High Heels Shoes;21;908.02;10884;145.28
+56;High Heels Shoes;24;910.8;10855;107.47
+56;High Heels Shoes;28;1034.88;10748;196.63
+56;High Heels Shoes;28;1072.68;10433;184.5
+56;High Heels Shoes;28;1155.28;10608;219.5
+56;High Heels Shoes;30;1061.1;10494;182.51
+56;High Heels Shoes;30;1068.6;10712;203.03
+56;High Heels Shoes;30;1087.5;10430;187.05
+56;High Heels Shoes;30;1200.6;10820;228.11
+56;High Heels Shoes;30;1245.9;10841;147.02
+56;High Heels Shoes;30;1417.32;10464;439.37
+56;High Heels Shoes;30;1438.31;10526;402.73
+56;High Heels Shoes;30;1558.5;10755;447.92
+56;High Heels Shoes;40;1629.2;10519;280.22
+56;High Heels Shoes;40;1661.44;10436;410.83
+56;High Heels Shoes;40;1915.2;10555;622.44
+56;High Heels Shoes;45;1809.45;10657;343.8
+56;High Heels Shoes;60;2187.6;10762;415.64
+56;High Heels Shoes;60;2314.62;10637;529.06
+56;High Heels Shoes;60;2530.71;10570;578.45
+56;High Heels Shoes;70;2674.7;10514;460.05
+56;High Heels Shoes;70;2804.2;10401;247.96
+57;Burned Rubber Shoes;2;42.04;10282;5.72
+57;Burned Rubber Shoes;4;70.64;10582;13.42
+57;Burned Rubber Shoes;5;112.09;10535;29.55
+57;Burned Rubber Shoes;6;117.78;10578;17.63
+57;Burned Rubber Shoes;10;200.45;10851;28.05
+57;Burned Rubber Shoes;14;359.1;10755;126.4
+57;Burned Rubber Shoes;15;280.95;10826;33.15
+57;Burned Rubber Shoes;15;285.0;11079;33.63
+57;Burned Rubber Shoes;15;293.4;10983;34.62
+57;Burned Rubber Shoes;15;312.3;10823;59.34
+57;Burned Rubber Shoes;15;332.64;10251;44.5
+57;Burned Rubber Shoes;15;365.4;10438;113.27
+57;Burned Rubber Shoes;16;287.04;10326;39.04
+57;Burned Rubber Shoes;20;363.6;10597;69.08
+57;Burned Rubber Shoes;20;374.8;10416;64.47
+57;Burned Rubber Shoes;20;381.6;10916;45.03
+57;Burned Rubber Shoes;20;387.4;11055;45.71
+57;Burned Rubber Shoes;24;462.48;10836;54.57
+57;Burned Rubber Shoes;25;442.5;10355;60.18
+57;Burned Rubber Shoes;25;451.25;10368;61.37
+57;Burned Rubber Shoes;28;575.68;11039;67.93
+57;Burned Rubber Shoes;30;577.5;10931;33.71
+57;Burned Rubber Shoes;40;764.4;10707;145.24
+57;Burned Rubber Shoes;50;929.0;10260;126.34
+58;Ga-Ga Dress;6;285.78;10636;54.3
+58;Ga-Ga Dress;12;617.27;10863;119.15
+58;Ga-Ga Dress;12;651.9;10714;229.47
+58;Ga-Ga Dress;15;670.35;10904;79.1
+58;Ga-Ga Dress;15;773.55;10374;105.2
+58;Ga-Ga Dress;15;774.45;10913;91.39
+58;Ga-Ga Dress;20;1043.4;10537;198.25
+58;Ga-Ga Dress;30;1337.7;10675;254.16
+58;Ga-Ga Dress;30;1368.9;10594;260.09
+58;Ga-Ga Dress;30;1451.01;10314;311.31
+58;Ga-Ga Dress;30;1582.92;10327;443.22
+58;Ga-Ga Dress;30;1593.57;10839;315.82
+58;Ga-Ga Dress;30;1641.75;10697;577.9
+58;Ga-Ga Dress;30;1722.6;10930;456.49
+58;Ga-Ga Dress;40;1931.16;11011;308.99
+58;Ga-Ga Dress;49;3075.24;10661;999.45
+58;Ga-Ga Dress;60;3315.84;10845;657.14
+58;Ga-Ga Dress;80;5094.72;10373;1426.52
+59;Rasta WCT;1;8.03;10665;1.53
+59;Rasta WCT;2;15.8;10531;3.0
+59;Rasta WCT;4;33.12;10947;3.91
+59;Rasta WCT;4;33.2;10517;5.71
+59;Rasta WCT;6;52.8;10749;10.03
+59;Rasta WCT;6;56.2;10275;9.95
+59;Rasta WCT;7;54.74;10757;10.4
+59;Rasta WCT;8;68.24;10706;12.97
+59;Rasta WCT;9;75.51;10328;10.27
+59;Rasta WCT;9;85.59;10341;21.29
+59;Rasta WCT;9;98.93;10411;30.67
+59;Rasta WCT;10;79.1;10304;10.76
+59;Rasta WCT;10;86.63;10727;19.8
+59;Rasta WCT;10;88.5;11005;10.44
+59;Rasta WCT;12;97.68;10480;16.8
+59;Rasta WCT;12;102.12;10679;19.4
+59;Rasta WCT;12;106.44;10387;18.31
+59;Rasta WCT;12;112.08;10575;21.3
+59;Rasta WCT;15;120.6;10835;5.93
+59;Rasta WCT;15;126.39;10535;33.32
+59;Rasta WCT;15;128.55;10278;13.33
+59;Rasta WCT;15;130.1;10803;29.74
+59;Rasta WCT;16;149.12;10410;25.65
+59;Rasta WCT;18;155.17;10994;24.83
+59;Rasta WCT;20;166.95;10605;38.16
+59;Rasta WCT;20;178.4;10423;30.68
+59;Rasta WCT;24;207.12;11028;24.44
+59;Rasta WCT;25;202.5;10694;38.48
+59;Rasta WCT;25;208.5;10772;39.62
+59;Rasta WCT;25;227.25;10799;43.18
+59;Rasta WCT;25;260.19;10750;76.92
+59;Rasta WCT;30;233.4;11032;27.54
+59;Rasta WCT;30;234.9;10255;36.66
+59;Rasta WCT;30;247.8;11036;29.24
+59;Rasta WCT;30;264.0;10488;45.41
+59;Rasta WCT;30;301.88;10617;89.25
+59;Rasta WCT;30;343.13;10298;105.96
+59;Rasta WCT;35;303.1;10601;57.59
+59;Rasta WCT;35;310.8;10703;59.05
+59;Rasta WCT;36;282.6;10457;34.44
+59;Rasta WCT;40;350.28;10892;56.04
+59;Rasta WCT;40;382.26;10324;95.07
+59;Rasta WCT;40;386.88;10567;125.0
+59;Rasta WCT;40;392.04;10823;77.7
+59;Rasta WCT;42;390.29;10851;62.45
+59;Rasta WCT;42;420.69;10701;124.38
+59;Rasta WCT;45;391.05;10745;74.3
+59;Rasta WCT;50;431.5;10841;50.92
+59;Rasta WCT;60;493.2;10479;84.83
+59;Rasta WCT;60;518.4;10490;84.92
+59;Rasta WCT;70;697.13;10267;173.37
+59;Rasta WCT;70;719.04;10430;222.9
+59;Rasta WCT;100;980.0;11030;288.51
+59;Rasta WCT;110;933.9;11017;110.2
+60;Game Over T-Shirt;2;10.99;10963;2.56
+60;Game Over T-Shirt;4;19.84;11060;2.34
+60;Game Over T-Shirt;4;20.84;10995;2.46
+60;Game Over T-Shirt;6;31.68;10380;6.8
+60;Game Over T-Shirt;8;45.2;11077;7.59
+60;Game Over T-Shirt;8;46.66;10357;11.34
+60;Game Over T-Shirt;9;46.8;11009;5.52
+60;Game Over T-Shirt;10;46.9;10917;5.53
+60;Game Over T-Shirt;10;48.7;10625;9.25
+60;Game Over T-Shirt;10;49.1;10709;9.33
+60;Game Over T-Shirt;10;53.66;10519;11.34
+60;Game Over T-Shirt;12;72.45;10512;20.29
+60;Game Over T-Shirt;15;68.85;10768;13.08
+60;Game Over T-Shirt;15;79.05;11061;9.33
+60;Game Over T-Shirt;15;79.2;10611;15.05
+60;Game Over T-Shirt;15;79.8;10384;13.73
+60;Game Over T-Shirt;15;79.95;10728;15.19
+60;Game Over T-Shirt;20;99.0;10626;18.81
+60;Game Over T-Shirt;20;103.6;10464;17.82
+60;Game Over T-Shirt;20;108.9;10653;28.71
+60;Game Over T-Shirt;20;118.25;10284;36.52
+60;Game Over T-Shirt;20;119.76;10385;37.13
+60;Game Over T-Shirt;21;95.76;10294;8.19
+60;Game Over T-Shirt;21;112.98;10829;13.33
+60;Game Over T-Shirt;21;115.08;11058;13.58
+60;Game Over T-Shirt;24;141.31;10583;41.78
+60;Game Over T-Shirt;24;151.25;10954;35.25
+60;Game Over T-Shirt;25;156.56;10918;46.09
+60;Game Over T-Shirt;30;144.6;10657;27.47
+60;Game Over T-Shirt;30;159.3;10830;18.8
+60;Game Over T-Shirt;30;164.7;10684;31.29
+60;Game Over T-Shirt;35;181.3;10283;24.66
+60;Game Over T-Shirt;35;181.65;11059;21.43
+60;Game Over T-Shirt;35;213.06;10536;75.0
+60;Game Over T-Shirt;36;172.75;11012;27.64
+60;Game Over T-Shirt;40;182.0;10252;31.3
+60;Game Over T-Shirt;40;182.8;10612;34.73
+60;Game Over T-Shirt;40;204.8;10481;35.23
+60;Game Over T-Shirt;45;279.18;10847;73.98
+60;Game Over T-Shirt;49;322.18;10938;94.85
+60;Game Over T-Shirt;50;267.5;10742;50.82
+60;Game Over T-Shirt;50;269.0;11056;21.53
+60;Game Over T-Shirt;55;265.65;10658;60.72
+60;Game Over T-Shirt;55;282.54;10361;60.62
+60;Game Over T-Shirt;60;279.6;10836;32.99
+60;Game Over T-Shirt;60;289.17;10419;61.14
+60;Game Over T-Shirt;70;399.84;10605;91.39
+60;Game Over T-Shirt;70;463.75;10372;143.21
+60;Game Over T-Shirt;80;458.64;10359;81.24
+60;Game Over T-Shirt;84;516.81;10515;144.71
+60;Game Over T-Shirt;100;502.0;10895;59.24
+61;Adihash Running Shoe;4;107.88;11058;12.73
+61;Adihash Running Shoe;4;114.16;11042;13.47
+61;Adihash Running Shoe;5;134.1;10724;25.48
+61;Adihash Running Shoe;5;139.15;10910;12.89
+61;Adihash Running Shoe;6;145.56;11034;17.18
+61;Adihash Running Shoe;7;203.77;10998;24.04
+61;Adihash Running Shoe;10;255.7;10716;26.17
+61;Adihash Running Shoe;10;282.15;10550;74.39
+61;Adihash Running Shoe;10;335.04;11052;83.46
+61;Adihash Running Shoe;15;363.3;10906;42.87
+61;Adihash Running Shoe;15;460.26;10513;142.68
+61;Adihash Running Shoe;16;388.8;10418;66.87
+61;Adihash Running Shoe;20;542.2;10769;103.02
+61;Adihash Running Shoe;20;554.2;10530;105.3
+61;Adihash Running Shoe;20;570.46;10735;150.39
+61;Adihash Running Shoe;20;643.92;10642;209.27
+61;Adihash Running Shoe;25;650.5;10504;111.89
+61;Adihash Running Shoe;25;668.75;10455;115.02
+61;Adihash Running Shoe;30;764.7;10933;90.23
+61;Adihash Running Shoe;30;936.68;10814;276.93
+61;Adihash Running Shoe;30;973.08;10880;257.87
+61;Adihash Running Shoe;66;2132.03;10990;496.86
+61;Adihash Running Shoe;90;2685.83;10440;752.03
+61;Adihash Running Shoe;120;3897.0;10595;1371.74
+62;Sheat Shoes;2;56.52;10798;10.74
+62;Sheat Shoes;3;88.05;10861;10.39
+62;Sheat Shoes;3;88.29;10822;11.51
+62;Sheat Shoes;3;94.08;10505;16.18
+62;Sheat Shoes;5;124.8;11083;18.96
+62;Sheat Shoes;5;160.95;10310;21.89
+62;Sheat Shoes;5;175.31;10802;61.23
+62;Sheat Shoes;6;193.2;10902;45.02
+62;Sheat Shoes;9;256.32;10746;48.7
+62;Sheat Shoes;10;266.7;10394;45.87
+62;Sheat Shoes;10;272.7;10307;37.09
+62;Sheat Shoes;10;273.5;10671;51.96
+62;Sheat Shoes;10;300.3;10574;57.06
+62;Sheat Shoes;10;305.1;10599;57.97
+62;Sheat Shoes;10;320.32;10562;84.45
+62;Sheat Shoes;10;351.72;10606;113.71
+62;Sheat Shoes;12;316.8;11044;37.38
+62;Sheat Shoes;12;360.96;10277;49.09
+62;Sheat Shoes;12;395.23;10966;92.11
+62;Sheat Shoes;14;416.42;10932;78.93
+62;Sheat Shoes;15;420.0;10298;57.12
+62;Sheat Shoes;15;460.8;10627;87.55
+62;Sheat Shoes;15;462.45;10769;87.87
+62;Sheat Shoes;15;540.38;10260;166.87
+62;Sheat Shoes;15;585.0;10560;205.92
+62;Sheat Shoes;20;562.8;10554;128.64
+62;Sheat Shoes;20;603.2;10718;114.61
+62;Sheat Shoes;20;604.6;10779;102.29
+62;Sheat Shoes;20;622.44;10816;142.27
+62;Sheat Shoes;20;633.6;10389;108.98
+62;Sheat Shoes;20;649.53;10872;103.92
+62;Sheat Shoes;21;754.95;11027;165.33
+62;Sheat Shoes;25;777.69;10817;229.92
+62;Sheat Shoes;25;864.33;10314;185.44
+62;Sheat Shoes;28;857.08;10339;116.56
+62;Sheat Shoes;30;838.8;10757;159.37
+62;Sheat Shoes;30;1023.0;10941;301.17
+62;Sheat Shoes;35;934.5;10904;110.27
+62;Sheat Shoes;35;1044.4;10449;151.46
+62;Sheat Shoes;35;1088.85;10408;187.28
+62;Sheat Shoes;40;1180.4;10546;224.28
+62;Sheat Shoes;40;1211.2;10286;164.72
+62;Sheat Shoes;40;1214.8;10413;208.95
+62;Sheat Shoes;40;1307.68;10988;259.16
+62;Sheat Shoes;48;1326.24;10691;251.99
+62;Sheat Shoes;50;1572.0;10852;185.5
+62;Sheat Shoes;60;1655.4;10949;195.34
+62;Sheat Shoes;70;2053.1;10316;279.22
+62;Sheat Shoes;80;2668.0;10633;788.8
+63;Serve-Shirt;5;105.3;10293;14.32
+63;Serve-Shirt;6;118.26;10575;22.47
+63;Serve-Shirt;8;168.16;10278;22.87
+63;Serve-Shirt;9;184.5;10747;35.06
+63;Serve-Shirt;10;207.4;10974;24.47
+63;Serve-Shirt;12;217.68;11029;25.69
+63;Serve-Shirt;16;358.16;10379;76.84
+63;Serve-Shirt;20;385.0;10692;62.01
+63;Serve-Shirt;20;433.6;10977;51.16
+63;Serve-Shirt;24;543.17;10596;142.46
+63;Serve-Shirt;30;572.1;10789;108.7
+63;Serve-Shirt;30;610.5;11041;72.04
+63;Serve-Shirt;35;697.2;10979;82.27
+63;Serve-Shirt;35;951.56;10429;321.25
+63;Serve-Shirt;40;854.4;10921;100.82
+63;Serve-Shirt;65;1231.1;10402;211.75
+63;Serve-Shirt;80;1894.28;10324;471.1
+64;WFS shoes;3;99.18;10832;11.7
+64;WFS shoes;4;121.36;10968;14.32
+64;WFS shoes;6;210.12;10439;36.14
+64;WFS shoes;6;212.88;10574;40.45
+64;WFS shoes;7;233.24;10426;40.12
+64;WFS shoes;8;279.12;10957;32.94
+64;WFS shoes;8;291.12;10470;50.07
+64;WFS shoes;9;274.05;10629;52.07
+64;WFS shoes;9;320.4;10289;43.57
+64;WFS shoes;15;512.98;10872;82.08
+64;WFS shoes;15;526.69;11077;75.68
+64;WFS shoes;15;596.81;10668;135.69
+64;WFS shoes;18;697.75;10565;183.95
+64;WFS shoes;20;648.0;11031;19.7
+64;WFS shoes;20;717.2;10876;77.58
+64;WFS shoes;24;848.4;10757;115.83
+64;WFS shoes;25;1084.2;11053;287.31
+64;WFS shoes;28;899.36;10681;170.88
+64;WFS shoes;30;948.9;10836;111.97
+64;WFS shoes;30;1020.6;10370;138.8
+64;WFS shoes;30;1044.9;10479;179.72
+64;WFS shoes;30;1084.5;10557;206.06
+64;WFS shoes;30;1199.22;10436;296.53
+64;WFS shoes;30;1312.5;10859;386.4
+64;WFS shoes;35;1245.09;10368;267.13
+64;WFS shoes;35;1383.69;10451;342.15
+64;WFS shoes;35;1524.18;10796;495.36
+64;WFS shoes;48;1654.08;10845;195.18
+64;WFS shoes;50;1697.5;10343;230.86
+64;WFS shoes;130;4230.2;11072;499.16
+65;Stretch oui-pants;2;18.94;10806;3.6
+65;Stretch oui-pants;5;45.6;10366;6.2
+65;Stretch oui-pants;10;95.13;10730;21.74
+65;Stretch oui-pants;10;105.84;10351;18.75
+65;Stretch oui-pants;10;109.0;10879;12.86
+65;Stretch oui-pants;10;110.4;10666;20.98
+65;Stretch oui-pants;12;115.04;10884;18.41
+65;Stretch oui-pants;12;121.92;10671;23.16
+65;Stretch oui-pants;12;136.51;10597;34.24
+65;Stretch oui-pants;15;141.15;10367;19.2
+65;Stretch oui-pants;15;156.59;10493;38.72
+65;Stretch oui-pants;15;163.36;10250;45.74
+65;Stretch oui-pants;15;164.22;10855;38.27
+65;Stretch oui-pants;15;171.64;10664;50.74
+65;Stretch oui-pants;20;181.2;10401;31.17
+65;Stretch oui-pants;20;185.2;10251;28.76
+65;Stretch oui-pants;20;197.4;10503;16.29
+65;Stretch oui-pants;20;220.0;10379;47.2
+65;Stretch oui-pants;21;196.98;11024;23.24
+65;Stretch oui-pants;21;212.94;10638;40.46
+65;Stretch oui-pants;21;223.02;10903;26.32
+65;Stretch oui-pants;21;229.76;10872;36.76
+65;Stretch oui-pants;28;328.33;10451;81.19
+65;Stretch oui-pants;30;292.32;10580;51.02
+65;Stretch oui-pants;30;355.74;10303;76.32
+65;Stretch oui-pants;35;366.8;10447;63.09
+65;Stretch oui-pants;36;366.3;10541;96.57
+65;Stretch oui-pants;39;429.0;10514;67.61
+65;Stretch oui-pants;40;374.0;10736;71.06
+65;Stretch oui-pants;40;414.4;10328;56.36
+65;Stretch oui-pants;65;687.96;10698;157.25
+65;Stretch oui-pants;80;842.16;10765;222.02
+66;Langoste Shirt;4;74.16;10682;14.09
+66;Langoste Shirt;8;162.8;11077;19.21
+66;Langoste Shirt;10;219.23;10493;54.21
+66;Langoste Shirt;24;449.28;10532;85.36
+66;Langoste Shirt;30;596.7;10300;80.94
+66;Langoste Shirt;50;923.0;10774;175.37
+66;Langoste Shirt;60;1168.8;10442;201.03
+66;Langoste Shirt;60;1189.56;10475;265.18
+67;X-Dress;3;171.03;10775;32.5
+67;X-Dress;5;400.44;10284;123.66
+67;X-Dress;7;453.6;10544;86.18
+67;X-Dress;15;935.85;10911;90.2
+67;X-Dress;15;972.15;10864;114.71
+67;X-Dress;20;1090.6;11054;128.69
+67;X-Dress;24;1842.34;10923;488.22
+67;X-Dress;25;1468.25;10670;278.97
+67;X-Dress;30;1899.6;10502;326.73
+67;X-Dress;40;2723.66;10939;634.73
+68;Cap;2;25.02;11013;2.95
+68;Cap;3;38.46;10307;5.23
+68;Cap;3;38.81;10288;8.33
+68;Cap;4;48.51;10343;8.59
+68;Cap;6;76.68;10521;13.19
+68;Cap;6;83.52;10756;27.14
+68;Cap;8;131.04;10385;40.62
+68;Cap;10;121.3;10328;16.5
+68;Cap;10;127.4;10334;10.61
+68;Cap;10;129.1;10662;24.53
+68;Cap;15;184.95;10618;35.14
+68;Cap;15;189.9;10792;36.08
+68;Cap;15;210.71;10303;45.21
+68;Cap;18;208.08;10888;24.55
+68;Cap;18;224.82;10789;42.72
+68;Cap;18;279.29;10622;70.43
+68;Cap;20;225.4;10300;30.65
+68;Cap;20;255.4;10903;30.14
+68;Cap;20;265.4;10842;31.32
+68;Cap;20;273.6;10869;32.28
+68;Cap;20;274.6;10529;47.23
+68;Cap;21;310.54;10460;104.84
+68;Cap;24;316.08;10830;17.12
+68;Cap;30;398.7;10490;57.02
+68;Cap;30;450.72;10424;126.07
+68;Cap;35;456.4;10540;86.72
+68;Cap;36;565.2;10417;190.81
+68;Cap;40;464.4;10766;88.24
+68;Cap;40;649.44;10700;211.07
+68;Cap;42;483.84;11048;57.09
+68;Cap;45;527.85;10722;95.38
+68;Cap;55;627.55;11064;74.05
+68;Cap;60;794.4;10399;100.89
+68;Cap;80;1282.0;10941;277.53
+69;Racing Truck  Socks;1;2.12;10308;0.29
+69;Racing Truck  Socks;3;6.57;10752;1.25
+69;Racing Truck  Socks;7;13.86;10311;1.88
+69;Racing Truck  Socks;8;14.96;10395;2.57
+69;Racing Truck  Socks;9;17.46;10962;2.04
+69;Racing Truck  Socks;10;20.4;10964;2.41
+69;Racing Truck  Socks;10;20.57;10493;5.09
+69;Racing Truck  Socks;10;20.6;10529;3.54
+69;Racing Truck  Socks;10;22.2;10583;6.56
+69;Racing Truck  Socks;15;28.35;10296;3.86
+69;Racing Truck  Socks;15;31.65;10407;5.44
+69;Racing Truck  Socks;18;34.56;10552;6.57
+69;Racing Truck  Socks;18;36.23;10350;7.77
+69;Racing Truck  Socks;20;39.27;10419;6.62
+69;Racing Truck  Socks;20;41.0;10356;5.58
+69;Racing Truck  Socks;20;46.0;10640;16.19
+69;Racing Truck  Socks;20;47.04;10593;15.29
+69;Racing Truck  Socks;20;51.6;10756;16.77
+69;Racing Truck  Socks;24;60.77;10796;19.75
+69;Racing Truck  Socks;25;50.14;10717;11.46
+69;Racing Truck  Socks;25;62.19;10755;21.89
+69;Racing Truck  Socks;30;61.5;10364;8.36
+69;Racing Truck  Socks;30;62.1;11022;7.33
+69;Racing Truck  Socks;30;63.9;10747;12.14
+69;Racing Truck  Socks;30;74.87;10693;22.13
+69;Racing Truck  Socks;36;85.14;11033;13.14
+69;Racing Truck  Socks;40;82.8;10746;15.73
+69;Racing Truck  Socks;45;116.64;10667;37.91
+69;Racing Truck  Socks;50;104.5;10392;17.97
+69;Racing Truck  Socks;50;113.4;10894;18.14
+69;Racing Truck  Socks;65;146.25;10595;51.48
+70;US-Master Jeans;3;86.1;11057;10.16
+70;US-Master Jeans;3;115.35;10900;33.96
+70;US-Master Jeans;4;116.0;11037;13.69
+70;US-Master Jeans;4;122.24;10858;14.42
+70;US-Master Jeans;5;132.45;10810;25.17
+70;US-Master Jeans;5;147.75;10308;20.09
+70;US-Master Jeans;6;180.78;10822;34.35
+70;US-Master Jeans;6;186.54;10517;32.08
+70;US-Master Jeans;7;212.52;10538;40.38
+70;US-Master Jeans;8;250.91;10698;57.35
+70;US-Master Jeans;8;276.06;10420;68.26
+70;US-Master Jeans;9;278.91;10824;15.42
+70;US-Master Jeans;12;313.68;10476;53.95
+70;US-Master Jeans;12;321.84;10842;37.98
+70;US-Master Jeans;12;398.59;11062;105.63
+70;US-Master Jeans;14;473.55;10506;117.1
+70;US-Master Jeans;15;416.43;10616;95.18
+70;US-Master Jeans;15;516.0;10640;181.63
+70;US-Master Jeans;20;546.8;10621;103.89
+70;US-Master Jeans;20;556.2;10265;69.7
+70;US-Master Jeans;20;581.6;10299;79.1
+70;US-Master Jeans;20;716.16;10991;189.78
+70;US-Master Jeans;21;770.96;10260;238.07
+70;US-Master Jeans;25;836.83;10453;206.92
+70;US-Master Jeans;28;953.76;10707;281.98
+70;US-Master Jeans;30;814.5;10380;140.09
+70;US-Master Jeans;30;838.8;10389;144.27
+70;US-Master Jeans;30;873.9;10315;118.85
+70;US-Master Jeans;30;883.2;10885;104.22
+70;US-Master Jeans;30;922.5;10846;80.39
+70;US-Master Jeans;30;927.71;10850;216.2
+70;US-Master Jeans;30;952.8;11017;104.4
+70;US-Master Jeans;30;1040.63;10697;366.3
+70;US-Master Jeans;35;1005.9;10780;191.12
+70;US-Master Jeans;40;1098.72;10659;251.14
+70;US-Master Jeans;40;1230.0;10758;233.7
+70;US-Master Jeans;50;1350.5;10694;256.6
+70;US-Master Jeans;50;1750.2;10880;463.8
+70;US-Master Jeans;60;1768.8;10485;437.38
+71;Atles Lussekofta;2;57.08;10447;9.82
+71;Atles Lussekofta;2;59.52;10304;8.09
+71;Atles Lussekofta;3;89.28;10309;12.14
+71;Atles Lussekofta;5;148.65;10364;20.22
+71;Atles Lussekofta;6;169.14;10378;20.98
+71;Atles Lussekofta;8;238.24;10720;45.27
+71;Atles Lussekofta;9;255.96;10598;48.63
+71;Atles Lussekofta;9;274.33;10541;72.32
+71;Atles Lussekofta;12;381.12;10768;72.41
+71;Atles Lussekofta;12;389.64;10672;74.03
+71;Atles Lussekofta;12;391.44;10473;67.33
+71;Atles Lussekofta;14;522.65;10667;169.86
+71;Atles Lussekofta;15;434.85;10387;74.79
+71;Atles Lussekofta;15;477.07;10616;109.04
+71;Atles Lussekofta;15;484.95;10407;83.41
+71;Atles Lussekofta;15;487.05;10621;92.54
+71;Atles Lussekofta;15;508.57;10605;116.24
+71;Atles Lussekofta;16;460.32;11031;54.32
+71;Atles Lussekofta;16;486.88;10771;92.51
+71;Atles Lussekofta;20;623.4;10274;84.78
+71;Atles Lussekofta;20;634.4;11011;74.86
+71;Atles Lussekofta;20;663.2;10626;126.01
+71;Atles Lussekofta;20;739.68;10701;218.69
+71;Atles Lussekofta;21;617.4;11008;72.85
+71;Atles Lussekofta;25;750.75;10914;88.59
+71;Atles Lussekofta;30;829.8;10399;142.73
+71;Atles Lussekofta;30;835.5;10455;143.71
+71;Atles Lussekofta;30;920.1;10901;108.57
+71;Atles Lussekofta;30;942.6;10320;128.19
+71;Atles Lussekofta;30;953.7;10715;181.2
+71;Atles Lussekofta;30;961.8;11038;113.49
+71;Atles Lussekofta;30;1125.0;10646;396.0
+71;Atles Lussekofta;35;1411.81;10938;415.64
+71;Atles Lussekofta;40;1364.44;10333;292.73
+71;Atles Lussekofta;50;1430.0;11024;168.74
+71;Atles Lussekofta;50;1502.0;10458;258.34
+71;Atles Lussekofta;50;1907.4;10373;534.07
+71;Atles Lussekofta;55;1937.1;10847;418.38
+71;Atles Lussekofta;60;1780.2;10396;306.19
+71;Atles Lussekofta;60;1823.4;10401;313.62
+71;Atles Lussekofta;60;1915.2;11012;199.69
+71;Atles Lussekofta;60;2067.84;10700;672.05
+72;Rossi Shorts;1;11.58;10538;2.2
+72;Rossi Shorts;2;25.6;10992;3.02
+72;Rossi Shorts;3;34.98;10283;4.76
+72;Rossi Shorts;4;50.56;10268;6.88
+72;Rossi Shorts;5;58.25;10958;6.87
+72;Rossi Shorts;5;63.55;10248;10.93
+72;Rossi Shorts;7;83.93;10274;11.41
+72;Rossi Shorts;7;85.12;10745;16.17
+72;Rossi Shorts;9;95.94;10528;16.5
+72;Rossi Shorts;10;118.0;10798;22.42
+72;Rossi Shorts;10;121.0;10926;14.28
+72;Rossi Shorts;10;126.0;10435;21.67
+72;Rossi Shorts;12;150.6;10607;28.61
+72;Rossi Shorts;15;182.85;10649;34.74
+72;Rossi Shorts;15;203.94;10839;40.38
+72;Rossi Shorts;16;182.88;10932;21.58
+72;Rossi Shorts;20;239.0;10297;32.5
+72;Rossi Shorts;20;249.4;10987;29.43
+72;Rossi Shorts;20;255.57;10269;45.27
+72;Rossi Shorts;21;230.16;10396;39.59
+72;Rossi Shorts;21;233.52;10537;44.37
+72;Rossi Shorts;24;264.72;10533;50.3
+72;Rossi Shorts;24;281.28;10556;53.44
+72;Rossi Shorts;24;282.24;10272;18.81
+72;Rossi Shorts;24;288.82;10390;71.42
+72;Rossi Shorts;25;278.0;10497;47.82
+72;Rossi Shorts;25;300.75;10337;40.9
+72;Rossi Shorts;25;311.65;10330;65.03
+72;Rossi Shorts;30;335.1;10575;63.67
+72;Rossi Shorts;30;387.44;10784;114.55
+72;Rossi Shorts;35;393.75;10742;49.08
+72;Rossi Shorts;35;441.35;11021;52.08
+72;Rossi Shorts;40;438.4;10325;59.62
+72;Rossi Shorts;40;512.4;10459;88.13
+72;Rossi Shorts;40;551.32;10812;145.35
+72;Rossi Shorts;42;564.38;10372;174.28
+72;Rossi Shorts;50;626.5;10941;73.93
+72;Rossi Shorts;60;646.2;10638;122.78
+73;Mehmet-Napp;3;2.97;10558;0.56
+73;Mehmet-Napp;5;6.11;11077;0.27
+73;Mehmet-Napp;9;9.36;10537;1.78
+73;Mehmet-Napp;10;11.9;10881;1.4
+73;Mehmet-Napp;15;15.6;10751;2.96
+73;Mehmet-Napp;15;20.36;10693;6.02
+73;Mehmet-Napp;20;23.76;10420;5.88
+73;Mehmet-Napp;20;29.04;10488;9.0
+73;Mehmet-Napp;24;25.7;10533;5.88
+73;Mehmet-Napp;25;26.75;10278;3.64
+73;Mehmet-Napp;30;35.1;10600;6.67
+73;Mehmet-Napp;35;38.15;10703;7.25
+73;Mehmet-Napp;35;47.5;10627;13.58
+73;Mehmet-Napp;50;56.5;10670;10.74
+74;Nikee Running Shoes;5;163.8;10753;31.12
+74;Nikee Running Shoes;14;428.26;10381;73.66
+74;Nikee Running Shoes;15;463.65;10418;79.75
+74;Nikee Running Shoes;15;540.56;10806;190.28
+74;Nikee Running Shoes;16;439.84;10486;75.65
+74;Nikee Running Shoes;20;621.8;10846;73.37
+74;Nikee Running Shoes;20;633.2;10998;74.72
+74;Nikee Running Shoes;20;750.72;10370;186.7
+74;Nikee Running Shoes;21;617.4;10254;106.19
+74;Nikee Running Shoes;30;985.5;10439;169.51
+74;Nikee Running Shoes;35;1043.7;10781;198.3
+74;Nikee Running Shoes;36;1254.15;10263;387.28
+74;Nikee Running Shoes;50;1360.5;10382;234.01
+75;Bow tie;2;15.08;10634;2.87
+75;Bow tie;4;39.6;10460;13.37
+75;Bow tie;6;44.64;10924;5.27
+75;Bow tie;6;45.6;10293;6.2
+75;Bow tie;6;49.32;10294;6.71
+75;Bow tie;6;53.48;10347;13.3
+75;Bow tie;7;61.82;10773;20.09
+75;Bow tie;8;61.86;10631;16.31
+75;Bow tie;10;76.3;10312;10.38
+75;Bow tie;10;76.3;10474;13.12
+75;Bow tie;10;80.4;10785;15.28
+75;Bow tie;10;82.1;10973;2.41
+75;Bow tie;10;83.8;10975;9.89
+75;Bow tie;12;96.72;10363;13.15
+75;Bow tie;12;113.18;10955;29.99
+75;Bow tie;14;107.52;10907;12.69
+75;Bow tie;14;114.66;11077;13.53
+75;Bow tie;15;137.28;10572;36.19
+75;Bow tie;18;136.98;10761;26.03
+75;Bow tie;20;145.6;10819;27.66
+75;Bow tie;20;151.0;10736;28.69
+75;Bow tie;20;157.6;10557;29.94
+75;Bow tie;20;166.52;10959;38.81
+75;Bow tie;20;167.2;10577;31.77
+75;Bow tie;20;172.04;10932;34.1
+75;Bow tie;21;165.27;10579;31.4
+75;Bow tie;24;189.55;10436;46.87
+75;Bow tie;25;184.5;10670;35.06
+75;Bow tie;30;214.8;10552;40.81
+75;Bow tie;30;216.3;10280;29.42
+75;Bow tie;30;230.7;10998;27.22
+75;Bow tie;30;247.5;10682;47.02
+75;Bow tie;30;268.92;10596;87.4
+75;Bow tie;36;270.0;10490;46.44
+75;Bow tie;36;312.44;10510;77.26
+75;Bow tie;40;340.8;10613;64.75
+75;Bow tie;40;351.54;10788;80.35
+75;Bow tie;40;384.48;10980;101.89
+75;Bow tie;42;309.12;10722;58.73
+75;Bow tie;42;352.8;10786;114.66
+75;Bow tie;49;373.87;10929;44.12
+75;Bow tie;50;368.5;10514;63.38
+75;Bow tie;50;379.58;10951;60.73
+75;Bow tie;50;406.0;10326;55.22
+75;Bow tie;50;467.4;10581;151.9
+75;Bow tie;120;1064.7;10894;170.35
+75;Bow tie;150;1163.25;11081;219.47
+76;Minnki Pälsii;2;871.82;11075;203.17
+76;Minnki Pälsii;4;2010.96;10593;528.42
+76;Minnki Pälsii;5;1818.2;10928;204.44
+76;Minnki Pälsii;6;2214.96;10318;301.23
+76;Minnki Pälsii;6;2377.44;11004;280.54
+76;Minnki Pälsii;10;3610.5;10665;686.0
+76;Minnki Pälsii;10;3689.3;10986;435.34
+76;Minnki Pälsii;10;3986.3;10566;757.4
+76;Minnki Pälsii;10;4060.8;10575;527.43
+76;Minnki Pälsii;10;4068.24;10604;1072.54
+76;Minnki Pälsii;10;4192.3;10749;796.54
+76;Minnki Pälsii;10;4305.3;10879;508.03
+76;Minnki Pälsii;12;5190.36;10363;455.32
+76;Minnki Pälsii;14;5523.28;10582;1049.42
+76;Minnki Pälsii;14;5809.44;10413;999.22
+76;Minnki Pälsii;15;5862.3;10343;797.27
+76;Minnki Pälsii;15;6356.8;10267;1580.91
+76;Minnki Pälsii;15;6430.35;10702;1221.77
+76;Minnki Pälsii;18;8931.84;10434;2500.92
+76;Minnki Pälsii;20;7285.0;10927;859.63
+76;Minnki Pälsii;20;7288.8;10860;860.08
+76;Minnki Pälsii;20;8250.0;10732;1567.5
+76;Minnki Pälsii;20;8252.4;10734;1390.3
+76;Minnki Pälsii;20;9035.75;10425;3050.47
+76;Minnki Pälsii;21;10140.9;10837;2985.48
+76;Minnki Pälsii;30;11229.9;10569;2133.68
+76;Minnki Pälsii;30;12119.1;10319;1648.2
+76;Minnki Pälsii;33;14281.34;10273;2529.84
+76;Minnki Pälsii;35;13366.85;10399;2299.1
+76;Minnki Pälsii;35;14078.05;10630;2674.83
+76;Minnki Pälsii;35;14456.19;10701;4274.0
+76;Minnki Pälsii;42;20042.09;10475;5611.78
+76;Minnki Pälsii;44;16628.48;10962;475.3
+76;Minnki Pälsii;50;19557.5;10530;3715.92
+76;Minnki Pälsii;50;21077.2;10808;6231.52
+76;Minnki Pälsii;50;21109.55;11050;4183.53
+76;Minnki Pälsii;60;23334.6;10961;2753.48
+76;Minnki Pälsii;80;32075.2;10612;6094.29
+76;Minnki Pälsii;90;43755.12;10991;11595.11
+77;Skirt;2;27.61;10735;7.28
+77;Skirt;2;29.52;10835;7.82
+77;Skirt;5;63.55;10366;8.64
+77;Skirt;5;65.6;10495;11.28
+77;Skirt;5;81.81;10602;28.8
+77;Skirt;7;99.61;10367;13.55
+77;Skirt;7;114.31;10491;32.01
+77;Skirt;10;119.8;11077;14.14
+77;Skirt;10;131.1;11060;15.47
+77;Skirt;10;134.9;10290;18.35
+77;Skirt;10;138.35;10421;33.52
+77;Skirt;10;143.01;10554;32.69
+77;Skirt;12;162.0;10256;27.86
+77;Skirt;14;168.14;10399;28.92
+77;Skirt;15;186.45;10780;35.43
+77;Skirt;15;192.6;10257;33.13
+77;Skirt;15;197.1;10986;23.26
+77;Skirt;15;198.15;10929;23.38
+77;Skirt;15;201.0;10841;23.72
+77;Skirt;15;216.32;10823;42.87
+77;Skirt;18;212.4;11015;25.06
+77;Skirt;18;215.1;10577;37.21
+77;Skirt;20;246.4;10587;46.38
+77;Skirt;20;275.2;10812;52.29
+77;Skirt;21;265.48;10999;42.48
+77;Skirt;25;303.0;10497;52.12
+77;Skirt;25;342.25;10885;40.39
+77;Skirt;28;447.26;11068;104.23
+77;Skirt;30;372.6;11000;43.97
+77;Skirt;30;443.21;10483;93.71
+77;Skirt;30;502.5;10690;176.88
+77;Skirt;35;465.5;10417;80.07
+77;Skirt;35;576.19;10646;202.82
+77;Skirt;40;543.2;10886;64.1
+77;Skirt;40;547.6;10946;64.62
+77;Skirt;55;756.86;10451;187.15
+77;Skirt;60;885.78;10590;202.46
+77;Skirt;70;937.86;10658;214.37
